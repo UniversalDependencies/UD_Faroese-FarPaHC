@@ -308,7 +308,6 @@
 35	hevði	_	AUX	HVDI	Mood=Ind|Tense=Past	36	aux	_	_
 36	talað	_	VERB	VBN	Tense=Past|VerbForm=Part	27	acl:relcl	_	_
 37-38	frammanundan	_	_	_	_	_	_	_	_
-
 37	framman	_	ADV	ADV	Degree=Pos	36	obl	_	_
 38	þúndan	_	ADP	P	_	37	case	_	_
 39	við	_	ADP	P	_	40	case	_	_
@@ -868,7 +867,6 @@
 38	sá	_	VERB	VBDI	Mood=Ind|Tense=Past	35	ccomp	_	_
 39	hetta	_	DET	D-A	Case=Acc	38	obj	_	_
 40-41	frammanundan	_	_	_	_	_	_	_	SpaceAfter=No
-
 40	framman	_	ADV	ADV	Degree=Pos	38	obl	_	_
 41	þúndan	_	ADP	P	_	40	case	_	_
 42	,	,	PUNCT	,	_	38	punct	_	_
@@ -1354,7 +1352,6 @@
 9	sum	_	SCONJ	C	_	14	mark	_	_
 10	hann	_	PRON	PRO-N	Case=Nom	14	nsubj	_	_
 11-12	frammanundan	_	_	_	_	_	_	_	_
-
 11	framman	_	ADV	ADV	Degree=Pos	14	obl	_	_
 12	þúndan	_	ADP	P	_	11	case	_	_
 13	hevði	_	AUX	HVDI	Mood=Ind|Tense=Past	14	aux	_	_
@@ -1933,7 +1930,6 @@
 57	ráð	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	54	conj	_	_
 58	títt	_	PRON	PRO-N	Case=Nom	57	nmod:poss	_	_
 59-60	frammanundan	_	_	_	_	_	_	_	_
-
 59	framman	_	ADV	ADV	Degree=Pos	62	obl	_	_
 60	þúndan	_	ADP	P	_	59	case	_	_
 61	hövdu	_	AUX	HVDI	Mood=Ind|Tense=Past	62	aux	_	_
@@ -2488,7 +2484,6 @@
 9	menninar	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	10	nsubj	_	_
 10	fara	_	VERB	VB	VerbForm=Inf	8	acl	_	_
 11-12	útum	_	_	_	_	_	_	_	_
-
 11	útt	_	ADP	RP	_	15	compound:prt	_	_
 12	þúm	_	ADP	P	_	15	case	_	_
 13	eina	_	DET	ONE-A	Case=Acc	15	det	_	_
