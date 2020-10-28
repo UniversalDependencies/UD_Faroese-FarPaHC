@@ -25,7 +25,7 @@ UD_Faroese-FarPaHC consists of two Faroese texts:
       Text online: http://old.bibelselskabet.dk/farbib/web/bibelen.htm
       Translation: From Greek
       Date:		1928
-      Genre:       Bible translation
+      Text genre:   Bible translation
       Wordcount:   17758 
       Sample:      Sample is from Acts 1:1-17:34, pp. 251-295
 
@@ -41,7 +41,7 @@ UD_Faroese-FarPaHC consists of two Faroese texts:
 	  Text online:  http://old.bibelselskabet.dk/farbib/web/bibelen.htm
 	  Translation:  From Greek
 	  Date:		 1936
-	  Genre:		Bible translation
+	  Text genre:   Bible translation
 	  Wordcount:	23873
 	  Sample:	   Exhaustive sample of John, pp. 196-250
 
