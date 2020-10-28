@@ -10,6 +10,8 @@ The Faroese Parsed Historical Corpus (FarPaHC) is a 53,000 word corpus which inc
 
 ## Contents
 
+### Files
+
 UD_Faroese-FarPaHC consists of two Faroese texts:
 
 - `NTACTS` -  Acts of the Apostles. Edition: 1937.
@@ -44,10 +46,12 @@ UD_Faroese-FarPaHC consists of two Faroese texts:
 	  Text genre:   Bible translation
 	  Wordcount:	23873
 	  Sample:	   Exhaustive sample of John, pp. 196-250
+    
+### Sentences
 
 Each sentence ID in UD_Faroese-FarPaHC  carries the following information:
 
-Example ID: `1928.NTACTS.REL-BIB,.1`
+Example ID: `1928.NTACTS.REL-BIB,1.1`
 
 - Publication year of the text (`1928`)
 - Name of the text (`NTACTS`)
@@ -57,6 +61,18 @@ Example ID: `1928.NTACTS.REL-BIB,.1`
 
 As all the texts in the corpus are excerpts from the Bible, the only text genre present in the sentence IDs is `REL-BIB`, i.e., _religious text, biblical_.
 
+### Additional notes: Morphological Features
+
+The UD morphological features in the corpus were converted from the FarPaHC PoS tags, which do not encode all possible grammatical categories for the Language as described by the [UD language documentation for Faroese](https://universaldependencies.org/is/index.html). The features that do appear in UD_Faroese-FarPaHC are shown below, organised by grammatical category.
+
+- Nouns: `Case`, `Definite`, `Number`
+- Verbs: `Tense`, `Mood`, `Verbform`, `Case`
+- Pronouns: `Case`, `Gender`, `Number`
+- Numerals: `Case`
+- Adjectives: `Case`, `Degree`
+- Adverbs: `Case`, `Degree`, (`Definite`, `Number`)
+- Determiners: `Case`
+- Other: `Foreign`
 
 ## Data split
 
