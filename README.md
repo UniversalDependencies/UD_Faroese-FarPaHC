@@ -63,7 +63,7 @@ As all the texts in the corpus are excerpts from the Bible, the only text genre 
 
 ### Additional notes: Morphological Features
 
-The UD morphological features in the corpus were converted from the FarPaHC PoS tags, which do not encode all possible grammatical categories for the Language as described by the [UD language documentation for Faroese](https://universaldependencies.org/is/index.html). The features that do appear in UD_Faroese-FarPaHC are shown below, organised by grammatical category.
+The UD morphological features in the corpus were converted from the FarPaHC PoS tags, which do not encode all possible grammatical categories for the language as described by the [UD language documentation for Faroese](https://universaldependencies.org/is/index.html). The features that do appear in UD_Faroese-FarPaHC are shown below, organised by grammatical category.
 
 - Nouns: `Case`, `Definite`, `Number`
 - Verbs: `Tense`, `Mood`, `Verbform`, `Case`
@@ -111,8 +111,8 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Sigurðsson, Einar Freyr
+Contributors: Arnardóttir, Þórunn; Hafsteinsson, Hinrik; Sigurðsson, Einar Freyr; Ingason, Anton Karl; Rögnvaldsson, Eiríkur; Wallenberg, Joel
 Contributing: elsewhere
-Contact: einar.freyr.sigurdsson@arnastofnun.is
+Contact: thar@hi.is, hinrik.hafst@gmail.com, einar.freyr.sigurdsson@arnastofnun.is
 ===============================================================================
 </pre>
