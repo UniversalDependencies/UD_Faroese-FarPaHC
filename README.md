@@ -16,7 +16,7 @@ UD_Faroese-FarPaHC consists of two Faroese texts:
 
 - `NTACTS` -  Acts of the Apostles. Edition: 1937.
 
-      Author:	  Jákup Dahl
+      Author:      Jákup Dahl
       Birthdate:   1878, died 1944 on his birthday, 5 June
       TextId:      ntacts
       Textname:    Ápostlasögan (Acts of the Apostles)[Originally published in Varðin 8, 1928, 
@@ -26,26 +26,26 @@ UD_Faroese-FarPaHC consists of two Faroese texts:
                    P. Haase og söns boghandel, Keypmannahavn. [Copenhagen]"
       Text online: http://old.bibelselskabet.dk/farbib/web/bibelen.htm
       Translation: From Greek
-      Date:		1928
-      Text genre:   Bible translation
+      Date:        1928
+      Text genre:  Bible translation
       Wordcount:   17758 
       Sample:      Sample is from Acts 1:1-17:34, pp. 251-295
 
 - `NTJOHN` - Gospel of St. John. Edition: 1937.
 
-	  Author:	   Jákup Dahl
-	  Birthdate:	1878, died 1944 on his birthday, 5 June
-	  TextId:	   ntjohn
-	  Textname:	 Evangeliið eftir Jóhannes, (Gospel of St. John) [Originally published in Varðin 16, 1936.]
-	  Edition:	  "1937. Nýggja Testamenti. [The New Testament] 
+	  Author:       Jákup Dahl
+	  Birthdate:    1878, died 1944 on his birthday, 5 June
+	  TextId:       ntjohn
+	  Textname:     Evangeliið eftir Jóhannes, (Gospel of St. John) [Originally published in Varðin 16, 1936.]
+	  Edition:      "1937. Nýggja Testamenti. [The New Testament] 
 	                Givið út hevur Det danske Bibelselskab. [Published by the Danish Bible Society] 
 	                P. Haase og söns boghandel, Keypmannahavn. [Copenhagen]"
 	  Text online:  http://old.bibelselskabet.dk/farbib/web/bibelen.htm
 	  Translation:  From Greek
-	  Date:		 1936
+	  Date:         1936
 	  Text genre:   Bible translation
-	  Wordcount:	23873
-	  Sample:	   Exhaustive sample of John, pp. 196-250
+	  Wordcount:    23873
+	  Sample:       Exhaustive sample of John, pp. 196-250
     
 ### Sentences
 
