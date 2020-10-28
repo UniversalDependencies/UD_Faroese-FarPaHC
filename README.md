@@ -1,13 +1,62 @@
 # Summary
 
-UD_Icelandic-FarPaHC is a conversion of the [Faroese Parsed Historical Corpus (FarPaHC)](https://github.com/einarfs/farpahc) to the Universal Dependencies scheme
-<!-- 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ... -->
+UD_Icelandic-FarPaHC is a conversion of the [Faroese Parsed Historical Corpus (FarPaHC)](https://github.com/einarfs/farpahc) to the Universal Dependencies scheme.
 
 The conversion was done using [UDConverter](https://github.com/thorunna/UDConverter).
 
 # Introduction
 
 The Faroese Parsed Historical Corpus (FarPaHC) is a 53,000 word corpus which includes three texts from the 19th and 20th centuries. These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme. Two of these parsed texts where then automatically converted to the Universal Dependencies scheme to create UD_Faroese-FarPaHC.
+
+## Contents
+
+UD_Faroese-FarPaHC consists of two Faroese texts:
+
+- `NTACTS` -  Acts of the Apostles. Edition: 1937.
+
+      Author:	  Jákup Dahl
+      Birthdate:   1878, died 1944 on his birthday, 5 June
+      TextId:      ntacts
+      Textname:    Ápostlasögan (Acts of the Apostles)[Originally published in Varðin 8, 1928, 
+                   as Ápostlasögan og hini almennu brævini (Acts of the Apostles and the Letters)]
+      Edition:     "1937. Nýggja Testamenti. [The New Testament]
+                   Givið út hevur Det danske Bibelselskab. [Published by the Danish Bible Society]
+                   P. Haase og söns boghandel, Keypmannahavn. [Copenhagen]"
+      Text online: http://old.bibelselskabet.dk/farbib/web/bibelen.htm
+      Translation: From Greek
+      Date:		1928
+      Genre:       Bible translation
+      Wordcount:   17758 
+      Sample:      Sample is from Acts 1:1-17:34, pp. 251-295
+
+- `NTJOHN` - Gospel of St. John. Edition: 1937.
+
+	  Author:	   Jákup Dahl
+	  Birthdate:	1878, died 1944 on his birthday, 5 June
+	  TextId:	   ntjohn
+	  Textname:	 Evangeliið eftir Jóhannes, (Gospel of St. John) [Originally published in Varðin 16, 1936.]
+	  Edition:	  "1937. Nýggja Testamenti. [The New Testament] 
+	                Givið út hevur Det danske Bibelselskab. [Published by the Danish Bible Society] 
+	                P. Haase og söns boghandel, Keypmannahavn. [Copenhagen]"
+	  Text online:  http://old.bibelselskabet.dk/farbib/web/bibelen.htm
+	  Translation:  From Greek
+	  Date:		 1936
+	  Genre:		Bible translation
+	  Wordcount:	23873
+	  Sample:	   Exhaustive sample of John, pp. 196-250
+
+Each sentence ID in UD_Faroese-FarPaHC  carries the following information:
+
+Example ID: `1928.NTACTS.REL-BIB,.1`
+
+- Publication year of the text (`1928`)
+- Name of the text (`NTACTS`)
+- Text genre (`REL-BIB`)
+- Index within text (`1`)
+- Index within file (`1`)
+
+As all the texts in the corpus are excerpts from the Bible, the only text genre present in the sentence IDs is `REL-BIB`, i.e., _religious text, biblical_.
+
 
 ## Data split
 
