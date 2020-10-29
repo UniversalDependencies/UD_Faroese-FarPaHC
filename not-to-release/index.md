@@ -28,7 +28,7 @@ The PoS-tags follow the universal tag set and do not add any language-specific P
 * Faroese uses all 17 universal tags.
 * The only word tagged with [PART]() is the infinitive marker *at*.
 * Auxiliaries ([AUX]()) are all verbal in Faroese and can be grouped into four types:
-  * The copula *vera* (be).
+  * The copula *vera* (be) and *blíva* (become).
   * The auxiliary *hava* (have), selects the supine form of the main verb to form perfect tenses.
   * The passive auxiliary *verða* (become), *geta* (can), *fáa* (can) which combines with the past participle of the main verb to form passives.
   * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as *mega* (may), *vilja* (want), *munna* (will) and *skula* (shall).
