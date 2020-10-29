@@ -31,7 +31,7 @@ The PoS-tags follow the universal tag set and do not add any language-specific P
   * The copula *vera* (be) and *blíva* (become).
   * The auxiliary *hava* (have), selects the supine form of the main verb to form perfect tenses.
   * The passive auxiliary *verða* (become), *geta* (can), *fáa* (can) which combines with the past participle of the main verb to form passives.
-  * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as *mega* (may), *vilja* (want), *munna* (will) and *skula* (shall).
+  * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as *mega* (may), *vilja* (want), *munna* (will), *kunna* (be able to) and *skula* (shall).
 * The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives. The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase.
 <!-- * Participles (both present and past) are tagged with [ADJ](). -->
 * Foreign proper names are tagged [PROPN]().
