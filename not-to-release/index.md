@@ -12,7 +12,7 @@ udver: '2'
   * Numerical expressions (including dates) are treated as single words and may contain punctuation or whitespace. Dot following the last digit of a number indicates an ordinal numeral in Faroese: *5.*, *1.1.1970*, *11:00*, *2.000*
   * Abbreviations are treated as single words: *m.a.*, *o.s.fr.*
 * Words with spaces are not used.
-* Imperative verbal form and cliticized verbal question form are treated as multi-word tokens and segmented to individual syntactic words.
+* Imperative verbal forms are treated as multi-word tokens and segmented to individual syntactic words.
 
 <!-- ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available. -->
@@ -29,8 +29,9 @@ The PoS-tags follow the universal tag set and do not add any language-specific P
 * The only word tagged with [PART]() is the infinitive marker *at*.
 * Auxiliaries ([AUX]()) are all verbal in Faroese and can be grouped into four types:
   * The copula *vera* (be) and *blíva* (become).
-  * The auxiliary *hava* (have), selects the supine form of the main verb to form perfect tenses.
-  * The passive auxiliary *verða* (become), *geta* (can), *fáa* (can) which combines with the past participle of the main verb to form passives.
+  * The auxiliary *hava* (have), selects the supine form of the main.  
+  <!-- verb to form perfect tenses. -->
+  * The auxiliaries *verða* (become), *fáa* (can) which select a verbal past participle.
   * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as *mega* (may), *vilja* (want), *munna* (will), *kunna* (be able to) and *skula* (shall).
 * The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives. The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase.
 <!-- * Participles (both present and past) are tagged with [ADJ](). -->
@@ -47,7 +48,7 @@ The PoS-tags follow the universal tag set and do not add any language-specific P
 ## Syntax
 
 Subjects have the following characteristics:
-* Word order: Faroese is an SVO language although SVO and VS(O) structures may occur as well as OVS (rare).
+* Word order: Faroese is an SVO language although although other structures may occur as well, such as OVS.
 * Case marking: Subjects usually occur in nominative case but quirky subjects take accusative, dative or genitive case (rare).
 
 Objects have the following characteristics:
@@ -55,7 +56,8 @@ Objects have the following characteristics:
 * Case marking: Objects occur in accusative, dative or genitive case.
 * Passivization: Objects become (non-expletive) subjects when verbs are passivized.
 
-* The copula verb vera (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. Existential clauses normally use the verb participle til (vera til) or finnast.
+<!-- The copula verb *vera* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. 
+Existential clauses normally use the verb participle til (vera til) or finnast. -->
 
 The following subtypes are used:
 
@@ -77,7 +79,7 @@ The following subtypes are used:
 There are [2](../treebanks/fo-comparison.html) Faroese UD treebanks:
 
   * [Faroese-OFT](../treebanks/fo_oft/index.html)
-  * [Faroese-FarPaHC](../treebanks/fo_fpahc/index.html)
+  * [Faroese-FarPaHC](../treebanks/fo_farpahc/index.html)
 
 <!-- ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
