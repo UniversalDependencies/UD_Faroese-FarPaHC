@@ -14,16 +14,16 @@ def fix_sent_ids(conll, file_count, total_count):
 
 input_folder = sys.argv[1]
 
-dev_test_file = '/1928.ntacts.rel-bib.conllu'
+dev_test_file = '1928.ntacts.rel-bib.conllu'
 
 output_file = f'fo_farpahc-ud-dev.conllu'
 print(f'Writing to file: {output_file}')
 with open(output_file, 'w+') as f:
-    conll = pyconll.iter_from_file(os.path.join(path))
+    conll = pyconll.iter_from_file(os.path.join(input_folder, dev_test_file))
     sent_count = 0
     for sentence in conll:
         sent_count += 1
-        output_conll = fix_sent_ids(sentence.conll(), file_sentences, total_sentences)
+        output_conll = fix_sent_ids(sentence.conll(), '', sent_count)
         f.write(output_conll)
         f.write('\n\n')
         if sent_count == 300:
