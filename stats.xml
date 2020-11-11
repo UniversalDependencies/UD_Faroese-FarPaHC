@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>1621</sentences><tokens>40471</tokens><words>40484</words><fused>13</fused></total>
+    <train><sentences>1020</sentences><tokens>23089</tokens><words>23094</words><fused>5</fused></train>
+    <dev><sentences>300</sentences><tokens>8739</tokens><words>8746</words><fused>7</fused></dev>
+    <test><sentences>301</sentences><tokens>8643</tokens><words>8644</words><fused>1</fused></test>
+  </size>
+  <lemmas unique="6" /><!-- ,, ., :, ;, ?, ! -->
+  <forms unique="3544" /><!-- ,, og, ., hann, ", at, sum, við, teir, :, í, men, til, tá, eg -->
+  <fusions unique="6" /><!-- frammanundan, yvirum, útum, burturúr, uppum, útúr -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">741</tag><!-- _ -->
+    <tag name="ADP">4320</tag><!-- _ -->
+    <tag name="ADV">2369</tag><!-- _ -->
+    <tag name="AUX">2277</tag><!-- _ -->
+    <tag name="CCONJ">2670</tag><!-- _ -->
+    <tag name="DET">1598</tag><!-- _ -->
+    <tag name="INTJ">25</tag><!-- _ -->
+    <tag name="NOUN">4132</tag><!-- _ -->
+    <tag name="NUM">104</tag><!-- _ -->
+    <tag name="PART">282</tag><!-- _ -->
+    <tag name="PRON">6053</tag><!-- _ -->
+    <tag name="PROPN">1830</tag><!-- _ -->
+    <tag name="PUNCT">6953</tag><!-- ,, ., _, :, ;, ?, ! -->
+    <tag name="SCONJ">1778</tag><!-- _ -->
+    <tag name="VERB">5349</tag><!-- _ -->
+    <tag name="X">3</tag><!-- _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="19">
+    <feat name="Case" value="Acc" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">4261</feat><!-- hann, tað, teir, meg, hetta, seg, teg, hvat, ein, tykkum -->
+    <feat name="Case" value="Dat" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">3207</feat><!-- tí, teimum, honum, tykkum, mær, sær, hesum, móti, tær, Guði -->
+    <feat name="Case" value="Gen" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN">1090</feat><!-- hansara, tykkara, teirra, Guðs, tess, Harrans, okkara, Jesu, sín, mín -->
+    <feat name="Case" value="Nom" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">5935</feat><!-- hann, eg, teir, tit, tú, Jesus, tað, vit, tann, ein -->
+    <feat name="Definite" value="Ind" upos="ADV,NOUN,PROPN">5963</feat><!-- Jesus, Guð, Pætur, Guðs, faðirin, orð, harri, móti, Jerúsalem, faðir -->
+    <feat name="Degree" value="Cmp" upos="ADJ,ADV">171</feat><!-- eins, heldur, so, soleiðis, longur, störri, áðr, líka, enn, fyrr -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">2161</feat><!-- tá, nú, har, aftur, so, saman, sanniliga, burtur, eftir, soleiðis -->
+    <feat name="Degree" value="Sup" upos="ADJ,ADV">42</feat><!-- elstu, evsta, fyrst, næsta, ytstu, elstar, evstu, frelstur, fyrstir, fyrstur -->
+    <feat name="Foreign" value="Yes" upos="X">3</feat><!-- Hosianna, Rabbuni, aloe -->
+    <feat name="Gender" value="Neut" upos="PRON">19</feat><!-- tað -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">261</feat><!-- sí, far, statt, kom, latum, trúgvið, Takið, gev, latið, sig -->
+    <feat name="Mood" value="Ind" upos="ADV,AUX,VERB">5188</feat><!-- er, var, segði, hevur, skal, sigur, hevði, sögdu, skulu, vóru -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">96</feat><!-- skuldi, skuldu, veri, mundi, kenni, komi, legði, verði, bjóði, drekki -->
+    <feat name="Number" value="Plur" upos="ADV,NOUN,PROPN">1212</feat><!-- menn, Jödarnir, lærusveinar, orð, bröður, dagar, tekin, gerningar, lærusveinarnir, lærusveinum -->
+    <feat name="Number" value="Sing" upos="NOUN,PRON,PROPN">4770</feat><!-- Jesus, Guð, Pætur, Guðs, faðirin, harri, móti, Jerúsalem, faðir, Guði -->
+    <feat name="Tense" value="Past" upos="ADV,AUX,VERB">3712</feat><!-- var, segði, hevði, sögdu, fór, kom, varð, hövdu, svaraði, vóru -->
+    <feat name="Tense" value="Pres" upos="ADV,AUX,VERB">2550</feat><!-- er, hevur, skal, sigur, skulu, eri, eru, hava, havi, kemur -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">914</feat><!-- verða, koma, vera, fara, fáa, taka, siga, síggja, tala, halda -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">978</feat><!-- komin, sagt, givið, talað, sæð, verandi, verið, skrivað, fingið, sent -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="33">
+    <dep name="acl">279</dep>
+    <dep name="acl:relcl">819</dep>
+    <dep name="advcl">421</dep>
+    <dep name="advmod">2238</dep>
+    <dep name="amod">817</dep>
+    <dep name="appos">208</dep>
+    <dep name="aux">1161</dep>
+    <dep name="case">3670</dep>
+    <dep name="cc">2646</dep>
+    <dep name="ccomp">1323</dep>
+    <dep name="compound:prt">542</dep>
+    <dep name="conj">1801</dep>
+    <dep name="cop">910</dep>
+    <dep name="dep">169</dep>
+    <dep name="det">676</dep>
+    <dep name="discourse">23</dep>
+    <dep name="expl">15</dep>
+    <dep name="fixed">2</dep>
+    <dep name="flat:foreign">1</dep>
+    <dep name="flat:name">61</dep>
+    <dep name="iobj">332</dep>
+    <dep name="mark">2009</dep>
+    <dep name="nmod">70</dep>
+    <dep name="nmod:poss">950</dep>
+    <dep name="nsubj">4000</dep>
+    <dep name="nummod">89</dep>
+    <dep name="obj">1974</dep>
+    <dep name="obl">4253</dep>
+    <dep name="parataxis">10</dep>
+    <dep name="punct">6953</dep>
+    <dep name="root">1621</dep>
+    <dep name="vocative">103</dep>
+    <dep name="xcomp">338</dep>
+  </deps>
+</treebank>
