@@ -96,6 +96,8 @@ This project is funded by The Icelandic Student Innovation Fund, grant no. 20645
 
 # Changelog
 
+* 2021-11-15 v2.9
+  * Modified sentence ids in dev and test to make them unique corpus-wide.
 * 2020-11-15 v2.7
   * Initial release in Universal Dependencies.
 
