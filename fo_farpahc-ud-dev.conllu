@@ -1,4 +1,4 @@
-# sent_id = 1928.NTACTS.REL-BIB,.1
+# sent_id = 1928.NTACTS.REL-BIB,.1-dev
 # X_ID = 1928.NTACTS.REL-BIB,.1
 # text = Hina fyrru frásögnina skrivaði eg, Teofilus, um alt tað, sum Jesus fór undir bæði at gera og læra, líka til tann dagin, tá ið hann varð upp tikin, eftir tað at hann hevði givið ápostlunum, sum hann hevði valt, boð við heilagum anda; teimum, sum hann eisini sýndi seg fyri livandi aftan á pínslu sína við mongum prógvum, við tað at hann læt teir síggja seg í fjöruti dagar og talaði um tað, sum hoyrir Guðs ríki til.
 1	Hina	_	DET	D-A	Case=Acc	3	det	_	_
@@ -93,7 +93,7 @@
 90	til	_	ADP	RP	_	87	compound:prt	_	SpaceAfter=No
 91	.	.	PUNCT	.	_	90	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.2
+# sent_id = 1928.NTACTS.REL-BIB,.2-dev
 # X_ID = 1928.NTACTS.REL-BIB,.2
 # text = Og meðan hann var saman við teimum, beyð hann teimum ikki at fara burtur úr Jerúsalem, men at bíða eftir fyrijáttan faðirsins," sum tit," segði hann," hava hoyrt um av mær; tí at Jóhannes doypti við vatni, men tit skulu verða doyptir við heilagum anda ikki mangar dagar hereftir."
 1	Og	_	CCONJ	CONJ	_	9	cc	_	_
@@ -159,7 +159,7 @@
 61	.	.	PUNCT	.	_	60	punct	_	SpaceAfter=No
 62	"	_	PUNCT	"	_	61	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.3
+# sent_id = 1928.NTACTS.REL-BIB,.3-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.3 ; 1928.NTACTS.REL-BIB,.4
 # text = Og tá ið teir nú vóru saman komnir, spurdu teir hann og sögdu: " Harri, ætlar tú á hesi tíð at endurreisa ríkið fyri Ísrael?"
 1	Og	_	CCONJ	CONJ	_	10	cc	_	_
@@ -193,7 +193,7 @@
 29	?	?	PUNCT	.	_	28	punct	_	SpaceAfter=No
 30	"	_	PUNCT	"	_	29	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.4
+# sent_id = 1928.NTACTS.REL-BIB,.4-dev
 # X_ID = 1928.NTACTS.REL-BIB,.5
 # text = Hann segði við teir: " Tað er ikki fyri tykkum at vita tíðir ella tímar, sum faðirin hevur ásett í sínum egna valdi.
 1	Hann	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -223,7 +223,7 @@
 25	valdi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	21	obl	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.5
+# sent_id = 1928.NTACTS.REL-BIB,.5-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.6 ; 1928.NTACTS.REL-BIB,.7
 # text = Men tit skulu fáa kraft, tá ið heilagur andi kemur yvir tykkum, og tit skulu verða vitni míni bæði í Jerúsalem og í allari Júdeu og Sámáriu og líka til ytstu endamark á jörðini."
 1	Men	_	CCONJ	CONJ	_	4	cc	_	_
@@ -265,7 +265,7 @@
 37	.	.	PUNCT	.	_	36	punct	_	SpaceAfter=No
 38	"	_	PUNCT	"	_	37	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.6
+# sent_id = 1928.NTACTS.REL-BIB,.6-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.8 ; 1928.NTACTS.REL-BIB,.9
 # text = Og tá ið hann hevði sagt hetta, varð hann upp tikin, so teir sóu tað, og eitt skýggj tók hann burtur úr eygum teirra.
 1	Og	_	CCONJ	CONJ	_	12	cc	_	_
@@ -297,7 +297,7 @@
 27	teirra	_	PRON	PRO-G	Case=Gen	26	nmod:poss	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	27	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.7
+# sent_id = 1928.NTACTS.REL-BIB,.7-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.10 ; 1928.NTACTS.REL-BIB,.11
 # text = Og sum teir stardu upp til himmals, í tí hann fór burtur, sí, tá stóðu tveir menn hjá teimum í hvítum klæðum, og teir sögdu: " Tit Galileumenn, hví standa tit og hyggja upp til himmals?
 1	Og	_	CCONJ	CONJ	_	18	cc	_	_
@@ -344,7 +344,7 @@
 42	himmals	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	39	obl	_	SpaceAfter=No
 43	?	?	PUNCT	.	_	42	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.8
+# sent_id = 1928.NTACTS.REL-BIB,.8-dev
 # X_ID = 1928.NTACTS.REL-BIB,.12
 # text = Hesin Jesus, sum er upp tikin frá tykkum til himmals, skal koma aftur á sama hátt, sum tit sóu hann fara til himmals."
 1	Hesin	_	DET	D-N	Case=Nom	2	det	_	_
@@ -376,7 +376,7 @@
 27	.	.	PUNCT	.	_	26	punct	_	SpaceAfter=No
 28	"	_	PUNCT	"	_	27	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.9
+# sent_id = 1928.NTACTS.REL-BIB,.9-dev
 # X_ID = 1928.NTACTS.REL-BIB,.13
 # text = Tá vendu teir aftur til Jerúsalem frá tí fjallinum, sum kallast Oljufjallið, og sum er tætt við Jerúsalem, eina hvíludags gongd haðani.
 1	Tá	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -406,7 +406,7 @@
 25	haðani	_	ADV	ADV	Degree=Pos	18	advmod	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.10
+# sent_id = 1928.NTACTS.REL-BIB,.10-dev
 # X_ID = 1928.NTACTS.REL-BIB,.14
 # text = Og tá ið teir vóru inn komnir, fóru teir upp í ta loftsstovuna, har sum teir vóru vanir at vera, Pætur og Jóhannes og Jákup og Andrias, Filippus og Tummas, Bartolomeus og Matteus, Jákup sonur Alfeusar og Símun Zelotes og Judas sonur Jákups.
 1	Og	_	CCONJ	CONJ	_	9	cc	_	_
@@ -460,7 +460,7 @@
 49	Jákups	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	48	nmod:poss	_	SpaceAfter=No
 50	.	.	PUNCT	.	_	49	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.11
+# sent_id = 1928.NTACTS.REL-BIB,.11-dev
 # X_ID = 1928.NTACTS.REL-BIB,.15
 # text = Allir hesir vóru samhugaðir áhaldandi í bönini saman við nökrum kvinnum og Mariu, móður Jesu, og við bröðrum hansara.
 1	Allir	_	DET	Q-N	Case=Nom	4	nsubj	_	_
@@ -486,7 +486,7 @@
 21	hansara	_	PRON	PRO-G	Case=Gen	20	nmod:poss	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.12
+# sent_id = 1928.NTACTS.REL-BIB,.12-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.16 ; 1928.NTACTS.REL-BIB,.17
 # text = Og í hesum dögum stóð Pætur upp millum bröðranna og segði og har var komin saman ein flokkur av monnum okkurt um stórt hundrað í tali: " Góðu menn og bröður! Tað skriftarorðið átti at ganga út, sum heilagur andi hevði talað frammanundan við munni Dávids um Judas, sum gjördist leiðbeinari hjá teimum, ið tóku Jesus; tí at hann var taldur við millum okkara og hevði fingið lut í hesi tænastu.
 1	Og	_	CCONJ	CONJ	_	5	cc	_	_
@@ -570,7 +570,7 @@
 78	tænastu	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	74	obl	_	SpaceAfter=No
 79	.	.	PUNCT	.	_	78	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.13
+# sent_id = 1928.NTACTS.REL-BIB,.13-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.18 ; 1928.NTACTS.REL-BIB,.19 ; 1928.NTACTS.REL-BIB,.20 ; 1928.NTACTS.REL-BIB,.21
 # text = Hesin maður keypti nú eitt jarðarstykki fyri órættarlönina, og hann stoyttist eftir hövdinum og stökk sundur um miðju, og allir innvölirnir komu út.
 1	Hesin	_	DET	D-N	Case=Nom	2	det	_	_
@@ -600,7 +600,7 @@
 25	út	_	ADP	RP	_	24	compound:prt	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.14
+# sent_id = 1928.NTACTS.REL-BIB,.14-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.22 ; 1928.NTACTS.REL-BIB,.23
 # text = Og tað varð kunnigt fyri öllum teimum, sum búgva í Jerúsalem, so at tað jarðarstykkið er kallað á teirra egna máli Hakeldama, tað er: blóðjörðin. Tí at skrivað stendur í sálmabókini: " Bústaður hans skal oyðin verða, og eingin skal í honum búgva"
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -655,7 +655,7 @@
 50	búgva	_	VERB	VB	VerbForm=Inf	3	conj	_	OriginalHead=0|SpaceAfter=No
 51	"	_	PUNCT	"	_	50	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.15
+# sent_id = 1928.NTACTS.REL-BIB,.15-dev
 # X_ID = 1928.NTACTS.REL-BIB,.24
 # text = og" umsjónarstarv hans skal annar taka."
 1	og	_	CCONJ	CONJ	_	7	cc	_	SpaceAfter=No
@@ -668,7 +668,7 @@
 8	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
 9	"	_	PUNCT	"	_	8	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.16
+# sent_id = 1928.NTACTS.REL-BIB,.16-dev
 # X_ID = 1928.NTACTS.REL-BIB,.25
 # text = Tí eigur onkur av teimum monnum, sum hava verið við okkum alla ta tíð, tá ið Harrin Jesus gekk inn og gekk út ímillum okkara, líka frá dópi Jóhannesar og til tann dagin, tá ið hann varð upp tikin frá okkum, at verða vitni um uppreisn hansara saman við okkum."
 1	Tí	_	PRON	PRO-D	Case=Dat	2	obl	_	_
@@ -730,7 +730,7 @@
 57	.	.	PUNCT	.	_	56	punct	_	SpaceAfter=No
 58	"	_	PUNCT	"	_	57	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.17
+# sent_id = 1928.NTACTS.REL-BIB,.17-dev
 # X_ID = 1928.NTACTS.REL-BIB,.26
 # text = Og teir skilaðu tveir til, Jósef, ið kallaður var Barsabbas við tilnavninum Justus, og Mattias.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -753,7 +753,7 @@
 18	Mattias	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	7	conj	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.18
+# sent_id = 1928.NTACTS.REL-BIB,.18-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.27 ; 1928.NTACTS.REL-BIB,.28
 # text = Og teir hildu bön og sögdu: " Tú, Harri, sum kennir hjörtuni á öllum, sýn okkum, hvönn av hesum tveimum tú hevur valt til at taka lut í hesi tænastu og ápostladömi, sum Judas gav frá sær fyri at fara til sín egna stað."
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -809,7 +809,7 @@
 51	.	.	PUNCT	.	_	50	punct	_	SpaceAfter=No
 52	"	_	PUNCT	"	_	51	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.19
+# sent_id = 1928.NTACTS.REL-BIB,.19-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.29 ; 1928.NTACTS.REL-BIB,.30 ; 1928.NTACTS.REL-BIB,.31
 # text = Og teir kastaðu lut um teir, og luturin fell á Mattias, og hann varð taldur við saman við hinum ellivu ápostlunum.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -837,7 +837,7 @@
 23	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	17	obl	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.20
+# sent_id = 1928.NTACTS.REL-BIB,.20-dev
 # X_ID = 1928.NTACTS.REL-BIB,.32
 # text = Og tá ið nú hvítusunnudagurin var komin, vóru teir allir saman komnir á einum staði.
 1	Og	_	CCONJ	CONJ	_	13	cc	_	_
@@ -858,7 +858,7 @@
 16	staði	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	13	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.21
+# sent_id = 1928.NTACTS.REL-BIB,.21-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.33 ; 1928.NTACTS.REL-BIB,.34
 # text = Og tá kom brádliga eitt dun av himli, sum tá ið harðveður brestur á, og fylti alt húsið, sum teir sótu í.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -888,7 +888,7 @@
 25	í	_	ADP	P	_	24	obl	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.22
+# sent_id = 1928.NTACTS.REL-BIB,.22-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.35 ; 1928.NTACTS.REL-BIB,.36 ; 1928.NTACTS.REL-BIB,.37
 # text = Og fyri teimum sýndust tungur líkasum av eldi, sum skildust sundur og settust á ein og hvönn teirra; og teir vórðu allir fyltir av hinum heilaga anda og tóku at tala á öðrum tungumálum eins og andin gav teimum at mæla.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -937,7 +937,7 @@
 44	mæla	_	VERB	VB	VerbForm=Inf	41	obj	_	SpaceAfter=No
 45	.	.	PUNCT	.	_	44	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.23
+# sent_id = 1928.NTACTS.REL-BIB,.23-dev
 # X_ID = 1928.NTACTS.REL-BIB,.38
 # text = Men har vóru Jödar búsettir í Jerúsalem, menn, ið óttaðust Guð, av öllum tjóðum undir himni.
 1	Men	_	CCONJ	CONJ	_	5	cc	_	_
@@ -961,7 +961,7 @@
 19	himni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	17	obl	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.24
+# sent_id = 1928.NTACTS.REL-BIB,.24-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.39 ; 1928.NTACTS.REL-BIB,.40
 # text = Tá ið nú hetta ljóðið hoyrdist, kom mannamúgvan saman, og henni varð dátt við; tí at teir hoyrdu, ein og hvör, teir tala á sínum egna máli.
 1	Tá	_	ADV	ADV	Degree=Pos	8	advmod	_	_
@@ -998,7 +998,7 @@
 32	máli	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	28	obl	_	SpaceAfter=No
 33	.	.	PUNCT	.	_	32	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.25
+# sent_id = 1928.NTACTS.REL-BIB,.25-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.41 ; 1928.NTACTS.REL-BIB,.42 ; 1928.NTACTS.REL-BIB,.43
 # text = Og teir vórðu allir bilsnir og undraðust og sögdu: " Sí, eru ikki allir hesir, ið tala, Galileumenn?
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -1025,7 +1025,7 @@
 22	Galileumenn	_	PROPN	NPRS-N	Case=Nom|Definite=Ind|Number=Plur	14	xcomp	_	SpaceAfter=No
 23	?	?	PUNCT	.	_	22	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.26
+# sent_id = 1928.NTACTS.REL-BIB,.26-dev
 # X_ID = 1928.NTACTS.REL-BIB,.44
 # text = Hvussu ber tað tá til, at vit, ein og hvör, hoyra teir tala á okkara egna máli, sum vit eru föddir við?
 1	Hvussu	_	ADV	WADV	_	2	advmod	_	_
@@ -1056,7 +1056,7 @@
 26	við	_	ADP	P	_	25	obl	_	SpaceAfter=No
 27	?	?	PUNCT	.	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.27
+# sent_id = 1928.NTACTS.REL-BIB,.27-dev
 # X_ID = 1928.NTACTS.REL-BIB,.45
 # text = Partar og Medar og Elamitar og vit, sum eru búsettir í Mesopotámiu, Júdeu, Kappadókíu, Pontus og Ásiu, í Frýgíu og Pamfýliu, Egyptalandi og Libyubygdunum við Kýrene, og vit Rómverjar, sum her hava setst niður, Jödar og proselýtar; Kretoyingar og Árábar, vit hoyra teir tala á okkara tungum um stórverk Guðs?"
 1	Partar	_	PROPN	NPRS-N	Case=Nom|Definite=Ind|Number=Plur	53	obl	_	_
@@ -1123,7 +1123,7 @@
 62	?	?	PUNCT	.	_	61	punct	_	SpaceAfter=No
 63	"	_	PUNCT	"	_	62	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.28
+# sent_id = 1928.NTACTS.REL-BIB,.28-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.46 ; 1928.NTACTS.REL-BIB,.47 ; 1928.NTACTS.REL-BIB,.48
 # text = Men teir gjördust allir bilsnir og vóru í döpurhuga og sögdu hvör við annan: " Hvat man hetta vera?"
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -1149,7 +1149,7 @@
 21	?	?	PUNCT	.	_	20	punct	_	SpaceAfter=No
 22	"	_	PUNCT	"	_	21	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.29
+# sent_id = 1928.NTACTS.REL-BIB,.29-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.49 ; 1928.NTACTS.REL-BIB,.50
 # text = Men aðrir spottaðu og sögdu: " Teir eru druknir av sötum víni."
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -1168,7 +1168,7 @@
 14	.	.	PUNCT	.	_	13	punct	_	SpaceAfter=No
 15	"	_	PUNCT	"	_	14	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.30
+# sent_id = 1928.NTACTS.REL-BIB,.30-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.51 ; 1928.NTACTS.REL-BIB,.52 ; 1928.NTACTS.REL-BIB,.53 ; 1928.NTACTS.REL-BIB,.54
 # text = Tá steig Pætur fram saman við hinum ellivu, hevði upp rödd sína og mælti til teirra: " Tit, Jödar, og allir tit, sum búgva í Jerúsalem, hetta veri tykkum vituligt, og gevið orðum mínum ljóð! Tí at ikki eru hesir menn druknir, soleiðis sum tit halda; tí at nú er eisini landsuðurstíð.
 1	Tá	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -1235,7 +1235,7 @@
 62	landsuðurstíð	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	59	obl	_	SpaceAfter=No
 63	.	.	PUNCT	.	_	62	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.31
+# sent_id = 1928.NTACTS.REL-BIB,.31-dev
 # X_ID = 1928.NTACTS.REL-BIB,.55
 # text = Men hetta er tað, sum sagt hevur verið við Jóel profeti:
 1	Men	_	CCONJ	CONJ	_	2	cc	_	_
@@ -1252,7 +1252,7 @@
 12	profeti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	11	appos	_	SpaceAfter=No
 13	:	:	PUNCT	,	_	12	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.32
+# sent_id = 1928.NTACTS.REL-BIB,.32-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.56 ; 1928.NTACTS.REL-BIB,.57 ; 1928.NTACTS.REL-BIB,.58 ; 1928.NTACTS.REL-BIB,.59 ; 1928.NTACTS.REL-BIB,.60
 # text = " Og tað skal verða á hinum evstu dögunum, sigur Guð, tá skal eg hella út av anda mínum yvir alt hold; og synir tykkara og dötur tykkara skulu profetera, og ungmenni tykkara skulu síggja sjónir, og gamalmenni tykkara skulu droyma dreymar.
 1	"	_	PUNCT	"	_	5	punct	_	_
@@ -1304,7 +1304,7 @@
 47	dreymar	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	46	obj	_	SpaceAfter=No
 48	.	.	PUNCT	.	_	47	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.33
+# sent_id = 1928.NTACTS.REL-BIB,.33-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.61 ; 1928.NTACTS.REL-BIB,.62
 # text = Ja, eisini yvir trælir mínar og yvir trælkvinnur mínar skal eg á teimum dögunum hella út av anda mínum og tey skulu profetera.
 1	Ja	_	INTJ	INTJ	_	16	discourse	_	SpaceAfter=No
@@ -1333,7 +1333,7 @@
 24	profetera	_	VERB	VB	VerbForm=Inf	16	conj	_	OriginalHead=0|SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.34
+# sent_id = 1928.NTACTS.REL-BIB,.34-dev
 # X_ID = 1928.NTACTS.REL-BIB,.63
 # text = Og eg skal lata undur verða á himlinum í erva og tekin á jörðini í neðra, blóð og eld og guvurok.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -1360,7 +1360,7 @@
 22	guvurok	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	18	conj	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	22	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.35
+# sent_id = 1928.NTACTS.REL-BIB,.35-dev
 # X_ID = 1928.NTACTS.REL-BIB,.64
 # text = Sólin skal umskapast til myrkur og mánin til blóð, áðrenn hin mikli og dýri dagur Harrans kemur.
 1	Sólin	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
@@ -1385,7 +1385,7 @@
 20	kemur	_	VERB	VBPI	Mood=Ind|Tense=Pres	12	obl	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.36
+# sent_id = 1928.NTACTS.REL-BIB,.36-dev
 # X_ID = 1928.NTACTS.REL-BIB,.65
 # text = Og tað skal verða, at hvör tann, sum ákallar navn Harrans, skal verða frelstur."
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -1408,7 +1408,7 @@
 18	.	.	PUNCT	.	_	17	punct	_	SpaceAfter=No
 19	"	_	PUNCT	"	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.37
+# sent_id = 1928.NTACTS.REL-BIB,.37-dev
 # X_ID = 1928.NTACTS.REL-BIB,.66
 # text = Tit Ísraelsmenn, hoyrið hesi orð:
 1	Tit	_	PRON	PRO-N	Case=Nom	4	nsubj	_	_
@@ -1419,7 +1419,7 @@
 6	orð	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	4	obj	_	SpaceAfter=No
 7	:	:	PUNCT	,	_	6	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.38
+# sent_id = 1928.NTACTS.REL-BIB,.38-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.67 ; 1928.NTACTS.REL-BIB,.68
 # text = Jesus úr Nasaret, ein mann, sum av Guði var sannaður fyri tykkum við kraftargerningum og undurum og teknum, sum Guð læt hann gera tykkara millum, so sum tit sjálvir vita, hann, sum eftir Guðs fyriskipaða ráði og fyrivitan var vorðin givin upp, hava tit krossfest við vándra manna hondum og tikið av lívi; men hann reisti Guð upp, í tí hann lætti av deyðans ríðum, við tað at tað ikki var möguligt, at hann skuldi verða hildin av honum; tí at Dávid sigur viðvíkjandi honum: " Altíð hevði eg Harran fyri eygum mínum; tí at hann er við högru hond mína, til tess at eg ikki skal vikast.
 1	Jesus	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	52	obl	_	_
@@ -1547,7 +1547,7 @@
 123	vikast	_	VERB	VB	VerbForm=Inf	118	ccomp	_	SpaceAfter=No
 124	.	.	PUNCT	.	_	123	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.39
+# sent_id = 1928.NTACTS.REL-BIB,.39-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.69 ; 1928.NTACTS.REL-BIB,.70 ; 1928.NTACTS.REL-BIB,.71
 # text = Harfyri gleddist hjarta mítt, og tunga mín fegnaðist; ja, enntá meira skal eisini likam mítt hvíla í vón; tí at ikki vilt tú lata sál mína verða eftir í helheimi, og ikki heldur vilt tú lata tín heilaga síggja rot.
 1	Har	_	ADV	ADV	Degree=Pos	3	obl	_	SpaceAfter=No
@@ -1598,7 +1598,7 @@
 46	rot	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	45	obj	_	SpaceAfter=No
 47	.	.	PUNCT	.	_	46	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.40
+# sent_id = 1928.NTACTS.REL-BIB,.40-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.72 ; 1928.NTACTS.REL-BIB,.73
 # text = Tú hevur kunnar gjört mær lívsins vegir; tú vilt meg fylla við gleði fyri ásjón tíni."
 1	Tú	_	PRON	PRO-N	Case=Nom	4	nsubj	_	_
@@ -1621,7 +1621,7 @@
 18	.	.	PUNCT	.	_	17	punct	_	SpaceAfter=No
 19	"	_	PUNCT	"	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.41
+# sent_id = 1928.NTACTS.REL-BIB,.41-dev
 # X_ID = 1928.NTACTS.REL-BIB,.74
 # text = Góðu menn og bröður! Eg kann tala beint fram til tykkara um ættarfaðirin Dávid, at hann er bæði deyður og grivin, og leiði hansara er til hjá okkum líka til dagin í dag.
 1	Góðu	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	2	amod	_	_
@@ -1662,7 +1662,7 @@
 36	dag	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	34	obl	_	SpaceAfter=No
 37	.	.	PUNCT	.	_	36	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.42
+# sent_id = 1928.NTACTS.REL-BIB,.42-dev
 # X_ID = 1928.NTACTS.REL-BIB,.75
 # text = Tá ið hann nú var ein profetur og visti, at Guð við eiði hevði svorið honum at seta ein av fruktini úr lendum hansara í hásæti hansara, so talaði hann, av tí at hann sá hetta frammanundan, um uppreisn Krists, at hvörki varð hann latin eftir í helheimi og ikki heldur sá likam hansara rot.
 1	Tá	_	ADV	ADV	Degree=Pos	31	advmod	_	_
@@ -1729,7 +1729,7 @@
 61	rot	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	58	obj	_	SpaceAfter=No
 62	.	.	PUNCT	.	_	61	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.43
+# sent_id = 1928.NTACTS.REL-BIB,.43-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.76 ; 1928.NTACTS.REL-BIB,.77
 # text = Henda Jesus reisti Guð upp, og um tað eru vit allir vitni.
 1	Henda	_	DET	D-A	Case=Acc	2	det	_	_
@@ -1747,7 +1747,7 @@
 13	vitni	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	11	xcomp	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.44
+# sent_id = 1928.NTACTS.REL-BIB,.44-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.78 ; 1928.NTACTS.REL-BIB,.79
 # text = Tá ið hann nú er hevjaður upp við Guðs högru hond og hevur av faðirinum fingið fyrijáttan um heilagan anda, hevur hann úthelt hann, sum tit bæði síggja og hoyra. Tí at Dávid fór ikki upp til himna, men hann sigur sjálvur: " Harrin segði við harra mín: Set teg við högru hond mína, til eg leggi fíggindar tínar sum eina fótskör fyri fötur tínar."
 1	Tá	_	ADV	ADV	Degree=Pos	24	advmod	_	_
@@ -1825,7 +1825,7 @@
 73	.	.	PUNCT	.	_	72	punct	_	SpaceAfter=No
 74	"	_	PUNCT	"	_	73	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.45
+# sent_id = 1928.NTACTS.REL-BIB,.45-dev
 # X_ID = 1928.NTACTS.REL-BIB,.80
 # text = Tí skal alt Ísraels hús vita tað av sonnum, at Guð hevur gjört hann bæði til harra og Krist, henda Jesus, sum tit krossfestu."
 1	Tí	_	PRON	PRO-D	Case=Dat	6	obl	_	_
@@ -1858,7 +1858,7 @@
 28	.	.	PUNCT	.	_	27	punct	_	SpaceAfter=No
 29	"	_	PUNCT	"	_	28	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.46
+# sent_id = 1928.NTACTS.REL-BIB,.46-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.81 ; 1928.NTACTS.REL-BIB,.82
 # text = Men tá ið teir hoyrdu hetta, fingu teir sum ein sting í hjartað, og teir sögdu við Pætur og hinar ápostlarnar: " Hvat eiga vit at gera, góðu menn og bröður?"
 1	Men	_	CCONJ	CONJ	_	8	cc	_	_
@@ -1899,7 +1899,7 @@
 36	?	?	PUNCT	.	_	35	punct	_	SpaceAfter=No
 37	"	_	PUNCT	"	_	36	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.47
+# sent_id = 1928.NTACTS.REL-BIB,.47-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.83 ; 1928.NTACTS.REL-BIB,.84 ; 1928.NTACTS.REL-BIB,.85
 # text = Men Pætur segði við teir: " Vendið um, og ein og hvör tykkara lati seg doypa í navni Jesu Krists til fyrigevingar syndanna, og tit skulu fáa gávu heilaga andans. Tí at tykkum er fyrijáttanin ætlað og börnum tykkara og öllum teimum, sum eru langt burtur, so mongum sum Harrin Guð vár vil kalla til sín."
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -1967,7 +1967,7 @@
 63	.	.	PUNCT	.	_	62	punct	_	SpaceAfter=No
 64	"	_	PUNCT	"	_	63	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.48
+# sent_id = 1928.NTACTS.REL-BIB,.48-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.86 ; 1928.NTACTS.REL-BIB,.87 ; 1928.NTACTS.REL-BIB,.88
 # text = Og við mongum öðrum orðum vitnaði hann, og hann áminti tey og segði: " Latið tykkum frelsast frá hesi rongu slekt!"
 1	Og	_	CCONJ	CONJ	_	6	cc	_	_
@@ -1996,7 +1996,7 @@
 24	!	!	PUNCT	.	_	23	punct	_	SpaceAfter=No
 25	"	_	PUNCT	"	_	24	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.49
+# sent_id = 1928.NTACTS.REL-BIB,.49-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.89 ; 1928.NTACTS.REL-BIB,.90
 # text = Tey, sum nú tóku við orði hansara, vórðu doypt, og tann dagin lögdust okkurt um trý túsund sálir til.
 1	Tey	_	PRON	PRO-N	Case=Nom	11	nsubj	_	SpaceAfter=No
@@ -2023,7 +2023,7 @@
 22	til	_	ADP	RP	_	16	compound:prt	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	22	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.50
+# sent_id = 1928.NTACTS.REL-BIB,.50-dev
 # X_ID = 1928.NTACTS.REL-BIB,.91
 # text = Og tey hildu fast saman um læru ápostlanna og samfelagið og breyðbrótingina og bönirnar.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2042,7 +2042,7 @@
 14	bönirnar	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	7	conj	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.51
+# sent_id = 1928.NTACTS.REL-BIB,.51-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.92 ; 1928.NTACTS.REL-BIB,.93
 # text = Men ótti kom á eina og hvörja sál, og mong undur og tekin vórðu gjörd av ápostlunum.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2065,7 +2065,7 @@
 18	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	15	obl	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.52
+# sent_id = 1928.NTACTS.REL-BIB,.52-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.94 ; 1928.NTACTS.REL-BIB,.95 ; 1928.NTACTS.REL-BIB,.96 ; 1928.NTACTS.REL-BIB,.97
 # text = Men öll tey, sum trúðu, hildu saman og hövdu alt í felagi; og tey seldu ognir sínar og góðs sítt og býttu tað sundur millum öll, eftir tí sum ein og hvör trongdi.
 1	Men	_	CCONJ	CONJ	_	8	cc	_	_
@@ -2107,7 +2107,7 @@
 37	trongdi	_	VERB	VBDI	Mood=Ind|Tense=Past	32	acl:relcl	_	SpaceAfter=No
 38	.	.	PUNCT	.	_	37	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.53
+# sent_id = 1928.NTACTS.REL-BIB,.53-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.98 ; 1928.NTACTS.REL-BIB,.99 ; 1928.NTACTS.REL-BIB,.100 ; 1928.NTACTS.REL-BIB,.101 ; 1928.NTACTS.REL-BIB,.102
 # text = Og hvönn dag hildu tey sær samhugað stöðugt í halgidóminum og brutu breyðið heima við hús og fingu föði sína við gleði og í hjartans einfaldi, og tey lovaðu Guði og hövdu yndi hjá öllum fólkinum.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -2149,7 +2149,7 @@
 37	fólkinum	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	33	obl	_	SpaceAfter=No
 38	.	.	PUNCT	.	_	37	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.54
+# sent_id = 1928.NTACTS.REL-BIB,.54-dev
 # X_ID = 1928.NTACTS.REL-BIB,.103
 # text = Men Harrin legði hvönn dag nökur aftur at teimum, sum verða frelst.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2167,7 +2167,7 @@
 13	frelst	_	VERB	VAN	Tense=Past|VerbForm=Part	9	acl:relcl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.55
+# sent_id = 1928.NTACTS.REL-BIB,.55-dev
 # X_ID = 1928.NTACTS.REL-BIB,.104
 # text = Men Pætur og Jóhannes gingu niðan í halgidómin um bönastundina, um nónbil.
 1	Men	_	CCONJ	CONJ	_	5	cc	_	_
@@ -2185,7 +2185,7 @@
 13	nónbil	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	12	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.56
+# sent_id = 1928.NTACTS.REL-BIB,.56-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.105 ; 1928.NTACTS.REL-BIB,.106
 # text = Og ein maður, sum var haltur frá móðurlívi, varð borin hagar; hann lögdu tey hvönn dag við tær dyrnar á halgidóminum, sum kallast Fögrudyr, so at hann kundi biðja olmussu av teimum, sum gingu inn í halgidómin.
 1	Og	_	CCONJ	CONJ	_	12	cc	_	_
@@ -2233,7 +2233,7 @@
 43	halgidómin	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	40	obl	_	SpaceAfter=No
 44	.	.	PUNCT	.	_	43	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.57
+# sent_id = 1928.NTACTS.REL-BIB,.57-dev
 # X_ID = 1928.NTACTS.REL-BIB,.107
 # text = Tá ið hann sá Pætur og Jóhannes, sum ætlaðu sær at ganga inn í halgidómin, bað hann geva sær olmussu.
 1	Tá	_	ADV	ADV	Degree=Pos	18	advmod	_	_
@@ -2260,7 +2260,7 @@
 22	olmussu	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	20	obj	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	22	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.58
+# sent_id = 1928.NTACTS.REL-BIB,.58-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.108 ; 1928.NTACTS.REL-BIB,.109
 # text = Men Pætur leit fastliga at honum, saman við Jóhannesi, og segði: " Hygg upp á okkum!"
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2285,7 +2285,7 @@
 20	!	!	PUNCT	.	_	19	punct	_	SpaceAfter=No
 21	"	_	PUNCT	"	_	20	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.59
+# sent_id = 1928.NTACTS.REL-BIB,.59-dev
 # X_ID = 1928.NTACTS.REL-BIB,.110
 # text = Og hann bíndi at teimum, við tað at hann væntaði sær at fáa okkurt frá teimum.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2307,7 +2307,7 @@
 17	teimum	_	PRON	PRO-D	Case=Dat	14	obl	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.60
+# sent_id = 1928.NTACTS.REL-BIB,.60-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.111 ; 1928.NTACTS.REL-BIB,.112
 # text = Men Pætur segði: " Silvur og gull eigi eg ikki; men tað sum eg havi, tað gevi eg tær:
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2334,7 +2334,7 @@
 22	tær	_	PRON	PRO-D	Case=Dat	20	iobj	_	SpaceAfter=No
 23	:	:	PUNCT	.	_	22	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.61
+# sent_id = 1928.NTACTS.REL-BIB,.61-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.113 ; 1928.NTACTS.REL-BIB,.114
 # text = Í navni Jesu Krists úr Nasaret, statt upp og gakk!"
 1	Í	_	ADP	P	_	2	case	_	_
@@ -2351,7 +2351,7 @@
 12	!	!	PUNCT	.	_	11	punct	_	SpaceAfter=No
 13	"	_	PUNCT	"	_	12	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.62
+# sent_id = 1928.NTACTS.REL-BIB,.62-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.115 ; 1928.NTACTS.REL-BIB,.116
 # text = Og hann tók í högru hond á honum og reisti hann á fötur.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2369,7 +2369,7 @@
 13	fötur	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	10	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.63
+# sent_id = 1928.NTACTS.REL-BIB,.63-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.117 ; 1928.NTACTS.REL-BIB,.118 ; 1928.NTACTS.REL-BIB,.119 ; 1928.NTACTS.REL-BIB,.120 ; 1928.NTACTS.REL-BIB,.121 ; 1928.NTACTS.REL-BIB,.122 ; 1928.NTACTS.REL-BIB,.123 ; 1928.NTACTS.REL-BIB,.124
 # text = Men í stundini vórðu fötur hansara og öklar sterkir, og hann sprakk upp og stóð og gekk, og fór við teimum inn í halgidómin og gekk umkring og leyp og lovaði Guði.
 1	Men	_	CCONJ	CONJ	_	4	cc	_	_
@@ -2409,7 +2409,7 @@
 35	Guði	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	34	obj	_	SpaceAfter=No
 36	.	.	PUNCT	.	_	35	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.64
+# sent_id = 1928.NTACTS.REL-BIB,.64-dev
 # X_ID = 1928.NTACTS.REL-BIB,.125
 # text = Og alt fólkið sá hann ganga umkring og lova Guði.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -2425,7 +2425,7 @@
 11	Guði	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	10	obj	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.65
+# sent_id = 1928.NTACTS.REL-BIB,.65-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.126 ; 1928.NTACTS.REL-BIB,.127
 # text = Og tey komust við hann, at tað var hann, sum hevði sitið við Fögrudyr á halgidóminum fyri at fáa olmussu; og tey vórðu full av undran og ræðslu um tað, sum hent var honum.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2468,7 +2468,7 @@
 38	honum	_	PRON	PRO-D	Case=Dat	36	nsubj	_	SpaceAfter=No
 39	.	.	PUNCT	.	_	38	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.66
+# sent_id = 1928.NTACTS.REL-BIB,.66-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.128 ; 1928.NTACTS.REL-BIB,.129
 # text = Men tá ið hann helt seg aftur at Pæturi og Jóhannesi, flokkaðist alt fólkið um teir í teirri súlnagongini, sum er kallað eftir Sálomoni, og tey vóru heilt óttafull.
 1	Men	_	CCONJ	CONJ	_	13	cc	_	_
@@ -2505,7 +2505,7 @@
 32	óttafull	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	13	conj	_	OriginalHead=0|SpaceAfter=No
 33	.	.	PUNCT	.	_	32	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.67
+# sent_id = 1928.NTACTS.REL-BIB,.67-dev
 # X_ID = 1928.NTACTS.REL-BIB,.130
 # text = Men tá ið Pætur sá tað, talaði hann til fólkið: " Tit Ísraels menn, hví eru tit bilsnir av hesum?
 1	Men	_	CCONJ	CONJ	_	8	cc	_	_
@@ -2533,7 +2533,7 @@
 23	hesum	_	DET	D-D	Case=Dat	21	obl	_	SpaceAfter=No
 24	?	?	PUNCT	.	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.68
+# sent_id = 1928.NTACTS.REL-BIB,.68-dev
 # X_ID = 1928.NTACTS.REL-BIB,.131
 # text = ella hví stara tit á okkum, sum at vit av egnum mátti ella gudsótta hövdu gjört tað, at hann gongur?
 1	ella	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2560,7 +2560,7 @@
 22	gongur	_	VERB	VBPI	Mood=Ind|Tense=Pres	18	ccomp	_	SpaceAfter=No
 23	?	?	PUNCT	.	_	22	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.69
+# sent_id = 1928.NTACTS.REL-BIB,.69-dev
 # X_ID = 1928.NTACTS.REL-BIB,.132
 # text = Guð Ábrahams og Ísaks og Jákups, og Guð fedra vára hevur dýrmætan gjört tænara sín, Jesus, sum tit góvu upp og avnoktaðu frammi fyri Pilatusi, tá ið hann dömdi, at hann skuldi sleppa leysur.
 1	Guð	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	14	nsubj	_	_
@@ -2604,7 +2604,7 @@
 39	leysur	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	38	amod	_	SpaceAfter=No
 40	.	.	PUNCT	.	_	39	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.70
+# sent_id = 1928.NTACTS.REL-BIB,.70-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.133 ; 1928.NTACTS.REL-BIB,.134 ; 1928.NTACTS.REL-BIB,.135 ; 1928.NTACTS.REL-BIB,.136
 # text = Men tit avnoktaðu hin heilaga og rættvísa, og bóðu um, at ein manndrápari skuldi verða tykkum givin; men lívsins hövdinga tóku tit av lívi, sum Guð reisti upp frá deyðum, og um tað eru vit vitni.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2650,7 +2650,7 @@
 41	vitni	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	40	xcomp	_	SpaceAfter=No
 42	.	.	PUNCT	.	_	41	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.71
+# sent_id = 1928.NTACTS.REL-BIB,.71-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.137 ; 1928.NTACTS.REL-BIB,.138
 # text = Og við trúnni á navn hansara hevur navn hansara styrkt henda mann, sum tit síggja og kenna; og trúgvin, sum elvdist av honum, hevur givið hesum manni hansara fulla förleika, so tit öll somul síggja.
 1	Og	_	CCONJ	CONJ	_	10	cc	_	_
@@ -2695,7 +2695,7 @@
 40	síggja	_	VERB	VBPI	Mood=Ind|Tense=Pres	29	obl	_	SpaceAfter=No
 41	.	.	PUNCT	.	_	40	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.72
+# sent_id = 1928.NTACTS.REL-BIB,.72-dev
 # X_ID = 1928.NTACTS.REL-BIB,.139
 # text = Og nú veit eg, bröður, at tit gjördu tað av vankunnu, eins og ráðharrar tykkara.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2718,7 +2718,7 @@
 18	tykkara	_	PRON	PRO-G	Case=Gen	17	nmod:poss	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.73
+# sent_id = 1928.NTACTS.REL-BIB,.73-dev
 # X_ID = 1928.NTACTS.REL-BIB,.140
 # text = Men Guð læt soleiðis tað ganga út, sum hann frammanundan hevði boðað við munninum á öllum profetunum, at Kristus hansara skuldi líða.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -2749,7 +2749,7 @@
 25	líða	_	VERB	VB	VerbForm=Inf	6	ccomp	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.74
+# sent_id = 1928.NTACTS.REL-BIB,.74-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.141 ; 1928.NTACTS.REL-BIB,.142 ; 1928.NTACTS.REL-BIB,.143
 # text = Fáið tí eitt annað sinnalag og vendið um, fyri at syndir tykkara mega verða strikaðar, so at sálarbótar tíðir kunnu koma frá ásjón Harrans, og hann kann senda tann Krist, sum tykkum er tilætlaður, Jesus, sum himmalin eigur at taka ímóti, líka til endurreisnartíðin fyri öllum lutum er komin, sum Guð hevur talað um við munninum á sínum heilagu profetum frá fyrndartíðum. Tí at Móses segði: " Ein profet skal Harrin Guð tykkara reisa tykkum upp av bröðrum tykkara eins og meg; á hann skulu tit lýða í öllum tí, sum hann talar til tykkara.
 1	Fáið	_	VERB	VBI	Mood=Imp	0	root	_	_
@@ -2862,7 +2862,7 @@
 108	tykkara	_	PRON	PRO-G	Case=Gen	106	obl	_	SpaceAfter=No
 109	.	.	PUNCT	.	_	108	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.75
+# sent_id = 1928.NTACTS.REL-BIB,.75-dev
 # X_ID = 1928.NTACTS.REL-BIB,.144
 # text = Og so skal verða, at ein og hvör sál, sum ikki lýðir á henda profet, skal verða týnd burtur úr fólkinum."
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -2892,7 +2892,7 @@
 25	.	.	PUNCT	.	_	24	punct	_	SpaceAfter=No
 26	"	_	PUNCT	"	_	25	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.76
+# sent_id = 1928.NTACTS.REL-BIB,.76-dev
 # X_ID = 1928.NTACTS.REL-BIB,.145
 # text = Og eisini allir profetarnir frá Sámuel og teir, sum aftaná komu, so mangir sum hava talað, teir hava eisini boðað hesar dagarnar.
 1	Og	_	CCONJ	CONJ	_	24	cc	_	_
@@ -2923,7 +2923,7 @@
 26	dagarnar	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	24	obj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.77
+# sent_id = 1928.NTACTS.REL-BIB,.77-dev
 # X_ID = 1928.NTACTS.REL-BIB,.146
 # text = Tit eru synir profetanna og synir sáttmálans, sum Guð gjördi við fedrar tykkara, tá ið hann segði við Ábraham: " Og av avkomi tínum skulu allar ættir á jörðini fáa signing."
 1	Tit	_	PRON	PRO-N	Case=Nom	0	root	_	_
@@ -2963,7 +2963,7 @@
 35	.	.	PUNCT	.	_	34	punct	_	SpaceAfter=No
 36	"	_	PUNCT	"	_	35	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.78
+# sent_id = 1928.NTACTS.REL-BIB,.78-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.147 ; 1928.NTACTS.REL-BIB,.148
 # text = Fyri tykkum hevur Guð fyrst reist upp tænara sín, og hevur sent hann at vælsigna tykkum, við tað at ein og hvör tykkara vendir sær frá illskapi sínum."
 1	Fyri	_	ADP	P	_	2	case	_	_
@@ -2999,7 +2999,7 @@
 31	.	.	PUNCT	.	_	30	punct	_	SpaceAfter=No
 32	"	_	PUNCT	"	_	31	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.79
+# sent_id = 1928.NTACTS.REL-BIB,.79-dev
 # X_ID = 1928.NTACTS.REL-BIB,.149
 # text = Men meðan teir talaðu til fólkið, komu prestarnir og hövuðsmaðurin fyri halgidóminum og Saddukeararnir á teir, av tí at teir vóru illir um, at teir lærdu fólkið og í Jesusi boðaðu uppreisn frá deyðum.
 1	Men	_	CCONJ	CONJ	_	8	cc	_	_
@@ -3041,7 +3041,7 @@
 37	deyðum	_	ADJ	ADJ-D	Case=Dat|Degree=Pos	34	obl	_	SpaceAfter=No
 38	.	.	PUNCT	.	_	37	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.80
+# sent_id = 1928.NTACTS.REL-BIB,.80-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.150 ; 1928.NTACTS.REL-BIB,.151
 # text = Og teir lögdu hendur á teir og settu teir í varðhald til morgunin eftir; tí at kvöldið var longu komið.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -3067,7 +3067,7 @@
 21	komið	_	VERB	VBN	Tense=Past|VerbForm=Part	16	ccomp	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.81
+# sent_id = 1928.NTACTS.REL-BIB,.81-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.152 ; 1928.NTACTS.REL-BIB,.153
 # text = Men mong av teimum, sum hoyrt hövdu orðið, tóku við trúgv, og talið á kallmonnum var okkurt um fimm túsund.
 1	Men	_	CCONJ	CONJ	_	11	cc	_	_
@@ -3095,7 +3095,7 @@
 23	túsund	_	NUM	NUM-N	Case=Nom	22	nummod	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.82
+# sent_id = 1928.NTACTS.REL-BIB,.82-dev
 # X_ID = 1928.NTACTS.REL-BIB,.154
 # text = Morgunin eftir hendi so tað, at ráðharrar teirra og hinir elstu og hinir skriftlærdu komu saman í Jerúsalem, og eisini Annas, og hövuðspresturin, og Kajfas og Jóhannes og Aleksander og allir, sum vóru av hövuðspresta ætt.
 1	Morgunin	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	obl	_	_
@@ -3141,7 +3141,7 @@
 41	ætt	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	35	acl:relcl	_	SpaceAfter=No
 42	.	.	PUNCT	.	_	41	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.83
+# sent_id = 1928.NTACTS.REL-BIB,.83-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.155 ; 1928.NTACTS.REL-BIB,.156
 # text = Og teir leiddu teir fram fyri seg og spurdu teir: " Við hvörjum mátti ella í hvörjum navni hava tit gjört hetta?"
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -3170,7 +3170,7 @@
 24	?	?	PUNCT	.	_	23	punct	_	SpaceAfter=No
 25	"	_	PUNCT	"	_	24	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.84
+# sent_id = 1928.NTACTS.REL-BIB,.84-dev
 # X_ID = 1928.NTACTS.REL-BIB,.157
 # text = Tá segði Pætur við teir, fyltur av heilagum anda: " Tit, ráðharrar fólksins og elstu! Tá ið vit í dag verða rannsóktir fyri eina góðgerð móti einum vanförum manni, um hvat hann er vorðin heilskapaður við, so skal tað vera öllum tykkum og öllum Ísraels fólki kunnigt, at í navni Jesu Krists úr Nasaret, sum tit krossfestu og Guð reisti upp frá deyðum, fyri hansara navns skuld stendur hesin maður frískur og ferðugur her fyri eygum tykkara.
 1	Tá	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -3261,7 +3261,7 @@
 86	tykkara	_	PRON	PRO-G	Case=Gen	85	nmod:poss	_	SpaceAfter=No
 87	.	.	PUNCT	.	_	86	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.85
+# sent_id = 1928.NTACTS.REL-BIB,.85-dev
 # X_ID = 1928.NTACTS.REL-BIB,.158
 # text = Hann er tann steinurin, sum varð vrakaður av tykkum, húsasmiðunum, men sum er vorðin hornasteinur.
 1	Hann	_	PRON	PRO-N	Case=Nom	0	root	_	_
@@ -3284,7 +3284,7 @@
 18	hornasteinur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	16	xcomp	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.86
+# sent_id = 1928.NTACTS.REL-BIB,.86-dev
 # X_ID = 1928.NTACTS.REL-BIB,.159
 # text = Og ikki er frelsa í nökrum öðrum; tí at ikki er heldur nakað annað navn undir himlinum, givið millum manna, sum vit skulu verða frelstir við."
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -3319,7 +3319,7 @@
 30	.	.	PUNCT	.	_	29	punct	_	SpaceAfter=No
 31	"	_	PUNCT	"	_	30	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.87
+# sent_id = 1928.NTACTS.REL-BIB,.87-dev
 # X_ID = 1928.NTACTS.REL-BIB,.160
 # text = Men tá ið teir sóu hetta dirvið í Pæturi og Jóhannesi og fingu at vita, at teir vóru ólærdir menn og leikmenn, undraðust teir.
 1	Men	_	CCONJ	CONJ	_	25	cc	_	_
@@ -3350,7 +3350,7 @@
 26	teir	_	PRON	PRO-N	Case=Nom	25	nsubj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.88
+# sent_id = 1928.NTACTS.REL-BIB,.88-dev
 # X_ID = 1928.NTACTS.REL-BIB,.161
 # text = Og teir komust við teir, at teir hövdu verið við Jesusi.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -3367,7 +3367,7 @@
 12	Jesusi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	10	obl	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.89
+# sent_id = 1928.NTACTS.REL-BIB,.89-dev
 # X_ID = 1928.NTACTS.REL-BIB,.162
 # text = Og tá ið teir sóu mannin, sum var vorðin lektur, standa hjá teimum, hövdu teir einki at siga ímóti tí.
 1	Og	_	CCONJ	CONJ	_	17	cc	_	_
@@ -3396,7 +3396,7 @@
 24	tí	_	PRON	PRO-D	Case=Dat	23	nmod:poss	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.90
+# sent_id = 1928.NTACTS.REL-BIB,.90-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.163 ; 1928.NTACTS.REL-BIB,.164 ; 1928.NTACTS.REL-BIB,.165 ; 1928.NTACTS.REL-BIB,.166 ; 1928.NTACTS.REL-BIB,.167
 # text = Men teir buðu teimum at fara út frá ráðinum, og teir samráddust sín ámillum og sögdu: " Hvat skulu vit gera við hesar menn? Tí at eitt skilligt tekin er hent av teirra ávum, tað er öllum teimum kunnigt, sum búgva í Jerúsalem, og vit kunnu ikki nokta fyri tí.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -3458,7 +3458,7 @@
 57	tí	_	PRON	PRO-D	Case=Dat	55	obl	_	SpaceAfter=No
 58	.	.	PUNCT	.	_	57	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.91
+# sent_id = 1928.NTACTS.REL-BIB,.91-dev
 # X_ID = 1928.NTACTS.REL-BIB,.168
 # text = Men fyri at tað ikki skal verða borið longur út millum manna, tá latum okkum hótta teir harðliga, at teir ikki meira mega tala til nakað menniskja í hesum navni."
 1	Men	_	CCONJ	CONJ	_	15	cc	_	_
@@ -3496,7 +3496,7 @@
 33	.	.	PUNCT	.	_	32	punct	_	SpaceAfter=No
 34	"	_	PUNCT	"	_	33	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.92
+# sent_id = 1928.NTACTS.REL-BIB,.92-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.169 ; 1928.NTACTS.REL-BIB,.170
 # text = So kallaðu teir teir inn og buðu teimum, at teir als ikki máttu tala ella læra í Jesu navni.
 1	So	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -3521,7 +3521,7 @@
 20	navni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	15	obl	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.93
+# sent_id = 1928.NTACTS.REL-BIB,.93-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.171 ; 1928.NTACTS.REL-BIB,.172
 # text = Men Pætur og Jóhannes svaraðu og sögdu við teir: " Dömið sjálvir, um tað er rætt fyri Guðs eygum at vera tykkum lýðin heldur enn Guði. Tí at vit kunnu ikki annað enn."
 1	Men	_	CCONJ	CONJ	_	5	cc	_	_
@@ -3563,7 +3563,7 @@
 37	.	.	PUNCT	.	_	36	punct	_	SpaceAfter=No
 38	"	_	PUNCT	"	_	37	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.94
+# sent_id = 1928.NTACTS.REL-BIB,.94-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.173 ; 1928.NTACTS.REL-BIB,.174
 # text = Men teir hóttu teir tá enn meira, og sleptu teimum, tí at teir vistu sær eingi ráð at revsa teir, fyri fólksins skuld; tí at öll lovaðu Guði fyri tað, sum hent var. Tí at maðurin var yvir fjöruti ára gamal, sum hetta heilsubótartekinið hevði verið fyri.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -3622,7 +3622,7 @@
 54	fyri	_	ADP	P	_	53	obl	_	SpaceAfter=No
 55	.	.	PUNCT	.	_	54	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.95
+# sent_id = 1928.NTACTS.REL-BIB,.95-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.175 ; 1928.NTACTS.REL-BIB,.176
 # text = Men tá ið teir vóru slopnir leysir, komu teir til felagar sínar og sögdu teimum frá öllum, sum hövuðsprestarnir og hinir elstu hövdu sagt við teir.
 1	Men	_	CCONJ	CONJ	_	9	cc	_	_
@@ -3655,7 +3655,7 @@
 28	teir	_	PRON	PRO-A	Case=Acc	26	obl	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	28	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.96
+# sent_id = 1928.NTACTS.REL-BIB,.96-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.177 ; 1928.NTACTS.REL-BIB,.178 ; 1928.NTACTS.REL-BIB,.179
 # text = Tá ið tey hoyrdu tað, hevjaðu tey samhugað reyst sína til Guðs og sögdu: " Harri, tú ert tann, sum gjört hevur himmalin og jörðina og havið og alt, sum í teimum er, tú sum við heilagum anda hevur sagt gjögnum munn Dávids, faðirs várs, tænara tíns: " Hví leikaðu heidningarnir óðir og hövdu fólk fáfongt í ráði?
 1	Tá	_	ADV	ADV	Degree=Pos	7	advmod	_	_
@@ -3727,7 +3727,7 @@
 67	ráði	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	63	obl	_	SpaceAfter=No
 68	?	?	PUNCT	.	_	67	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.97
+# sent_id = 1928.NTACTS.REL-BIB,.97-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.180 ; 1928.NTACTS.REL-BIB,.181
 # text = Heimsins kongar risu upp og hövdingarnir tóku seg saman móti Harranum og móti hinum salvaða hansara. Tí av sonnum tóku teir seg saman í hesum staði móti hinum heilaga tænara tínum, Jesusi, sum tú salvaði, bæði Heródes og Pontius Pilatus tillíka við heidningunum og Ísraels fólkum, at gera alt tað, sum hond tín og ráð títt frammanundan hövdu fyriskipað skuldi hendast.
 1	Heimsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	2	nmod:poss	_	_
@@ -3801,7 +3801,7 @@
 68	hendast	_	VERB	VB	VerbForm=Inf	66	ccomp	_	SpaceAfter=No
 69	.	.	PUNCT	.	_	68	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.98
+# sent_id = 1928.NTACTS.REL-BIB,.98-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.182 ; 1928.NTACTS.REL-BIB,.183
 # text = Og nú, Harri, lít at hóttum teirra, og gev tænarum tínum við öllum dirvi at tala orð títt, við tað at tú rættir út hond tína til heilsubótar, og tekin og undur henda við navn heilaga tænara tíns, Jesu."
 1	Og	_	CCONJ	CONJ	_	6	cc	_	_
@@ -3852,7 +3852,7 @@
 46	.	.	PUNCT	.	_	45	punct	_	SpaceAfter=No
 47	"	_	PUNCT	"	_	46	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.99
+# sent_id = 1928.NTACTS.REL-BIB,.99-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.184 ; 1928.NTACTS.REL-BIB,.185 ; 1928.NTACTS.REL-BIB,.186
 # text = Og tá ið tey hövdu biðið, ristist staðurin, har sum tey vóru saman komin, og tey fyltust öll av heilagum anda, og tey talaðu Guðs orð við dirvi.
 1	Og	_	CCONJ	CONJ	_	8	cc	_	_
@@ -3889,7 +3889,7 @@
 32	dirvi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	28	obl	_	SpaceAfter=No
 33	.	.	PUNCT	.	_	32	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.100
+# sent_id = 1928.NTACTS.REL-BIB,.100-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.187 ; 1928.NTACTS.REL-BIB,.188 ; 1928.NTACTS.REL-BIB,.189
 # text = Men allur flokkurin av teimum, sum tikið hövdu við trúgv, hevði eitt hjarta og eina sál, og ikki ein teirra segði nakað vera sítt av tí, hann átti, men alt var samogn hjá teimum.
 1	Men	_	CCONJ	CONJ	_	13	cc	_	_
@@ -3933,7 +3933,7 @@
 39	teimum	_	PRON	PRO-D	Case=Dat	13	conj	_	OriginalHead=0|SpaceAfter=No
 40	.	.	PUNCT	.	_	39	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.101
+# sent_id = 1928.NTACTS.REL-BIB,.101-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.190 ; 1928.NTACTS.REL-BIB,.191 ; 1928.NTACTS.REL-BIB,.192
 # text = Og við miklari kraft bóru ápostlarnir vitni um Harrans Jesu Krists uppreisn, og stór náði var yvir teimum öllum. Tí at ikki heldur var nakar törvandi millum teirra; tí at allir, sum áttu jörð ella hús, seldu tey og komu við peningavirðinum fyri tað, sum teir hövdu selt, og lögdu tað fyri föturnar á ápostlunum; og tað varð sundurbýtt til ein og hvönn, eftir sum honum var törvur á.
 1	Og	_	CCONJ	CONJ	_	5	cc	_	_
@@ -4016,7 +4016,7 @@
 78	á	_	ADP	P	_	77	obl	_	SpaceAfter=No
 79	.	.	PUNCT	.	_	78	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.102
+# sent_id = 1928.NTACTS.REL-BIB,.102-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.193 ; 1928.NTACTS.REL-BIB,.194 ; 1928.NTACTS.REL-BIB,.195
 # text = Men Jósef, sum kallaður varð av ápostlunum við tilnavninum Barnabas, tað er útlagt: ugganar sonur, ein Levitur, ættaður frá Kýpern, sum átti eitt jarðarstykki, seldi tað og kom við peningunum og legði teir fyri föturnar á ápostlunum.
 1	Men	_	CCONJ	CONJ	_	32	cc	_	_
@@ -4065,7 +4065,7 @@
 44	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	42	obl	_	SpaceAfter=No
 45	.	.	PUNCT	.	_	44	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.103
+# sent_id = 1928.NTACTS.REL-BIB,.103-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.196 ; 1928.NTACTS.REL-BIB,.197 ; 1928.NTACTS.REL-BIB,.198 ; 1928.NTACTS.REL-BIB,.199
 # text = Men ein maður, Ánanias at navni, saman við Saffiru konu síni, seldi ein eigindóm, og tók nakað av virðinum burtur av, so kona hansara visti tað, og kom við einum parti av tí og legði fyri föturnar á ápostlunum.
 1	Men	_	CCONJ	CONJ	_	15	cc	_	_
@@ -4115,7 +4115,7 @@
 45	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	43	obl	_	SpaceAfter=No
 46	.	.	PUNCT	.	_	45	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.104
+# sent_id = 1928.NTACTS.REL-BIB,.104-dev
 # X_ID = 1928.NTACTS.REL-BIB,.200
 # text = Men Pætur mælti: " Ánanias, hví hevur Sátan fylt hjarta títt, so at tú hevur logið fyri hinum heilaga anda og hevur tikið burtur av peningavirðinum fyri jörðina?
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -4151,7 +4151,7 @@
 31	jörðina	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	26	obl	_	SpaceAfter=No
 32	?	?	PUNCT	.	_	31	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.105
+# sent_id = 1928.NTACTS.REL-BIB,.105-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.201 ; 1928.NTACTS.REL-BIB,.202
 # text = Var hon ikki tín, meðan hon var í tíni ogn, og hevði tú ikki ræði á söluvirðinum?
 1	Var	_	VERB	BEDI	Mood=Ind|Tense=Past	0	root	_	_
@@ -4175,7 +4175,7 @@
 19	söluvirðinum	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	14	obl	_	SpaceAfter=No
 20	?	?	PUNCT	.	_	19	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.106
+# sent_id = 1928.NTACTS.REL-BIB,.106-dev
 # X_ID = 1928.NTACTS.REL-BIB,.203
 # text = Hví hevur tú tá í hjarta tínum sett tær hesa gerð fyri?
 1	Hví	_	ADV	WADV	_	8	advmod	_	_
@@ -4192,7 +4192,7 @@
 12	fyri	_	ADP	P	_	8	obl	_	SpaceAfter=No
 13	?	?	PUNCT	.	_	12	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.107
+# sent_id = 1928.NTACTS.REL-BIB,.107-dev
 # X_ID = 1928.NTACTS.REL-BIB,.204
 # text = Tú hevur ikki logið fyri menniskjum men fyri Guði."
 1	Tú	_	PRON	PRO-N	Case=Nom	4	nsubj	_	_
@@ -4207,7 +4207,7 @@
 10	.	.	PUNCT	.	_	9	punct	_	SpaceAfter=No
 11	"	_	PUNCT	"	_	10	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.108
+# sent_id = 1928.NTACTS.REL-BIB,.108-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.205 ; 1928.NTACTS.REL-BIB,.206
 # text = Men tá ið Ánanias hoyrdi hesi orð, fell hann niður og gav upp andan.
 1	Men	_	CCONJ	CONJ	_	9	cc	_	_
@@ -4227,7 +4227,7 @@
 15	andan	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	13	obj	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.109
+# sent_id = 1928.NTACTS.REL-BIB,.109-dev
 # X_ID = 1928.NTACTS.REL-BIB,.207
 # text = Og mikil ótti kom á öll tey, sum hetta hoyrdu.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -4243,7 +4243,7 @@
 11	hoyrdu	_	VERB	VBDI	Mood=Ind|Tense=Past	7	acl:relcl	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.110
+# sent_id = 1928.NTACTS.REL-BIB,.110-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.208 ; 1928.NTACTS.REL-BIB,.209 ; 1928.NTACTS.REL-BIB,.210 ; 1928.NTACTS.REL-BIB,.211
 # text = Men teir ungu menninir stóðu upp og vældu um hann og bóru hann út og jarðaðu hann.
 1	Men	_	CCONJ	CONJ	_	5	cc	_	_
@@ -4265,7 +4265,7 @@
 17	hann	_	PRON	PRO-A	Case=Acc	16	obj	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.111
+# sent_id = 1928.NTACTS.REL-BIB,.111-dev
 # X_ID = 1928.NTACTS.REL-BIB,.212
 # text = Og okkurt um tríggjar tímar seinni bar tað so til, at kona hansara, sum einki visti um tað, ið hent hevði, kom inn.
 1	Og	_	CCONJ	CONJ	_	7	cc	_	_
@@ -4297,7 +4297,7 @@
 27	inn	_	ADP	RP	_	26	compound:prt	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	27	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.112
+# sent_id = 1928.NTACTS.REL-BIB,.112-dev
 # X_ID = 1928.NTACTS.REL-BIB,.213
 # text = Og Pætur segði tá við hana: " Sig mær, seldu tit jörðina fyri hetta virðið?"
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -4320,7 +4320,7 @@
 18	?	?	PUNCT	.	_	17	punct	_	SpaceAfter=No
 19	"	_	PUNCT	"	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.113
+# sent_id = 1928.NTACTS.REL-BIB,.113-dev
 # X_ID = 1928.NTACTS.REL-BIB,.214
 # text = Men hon segði: " Ja, fyri hetta virðið."
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -4336,7 +4336,7 @@
 11	.	.	PUNCT	.	_	10	punct	_	SpaceAfter=No
 12	"	_	PUNCT	"	_	11	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.114
+# sent_id = 1928.NTACTS.REL-BIB,.114-dev
 # X_ID = 1928.NTACTS.REL-BIB,.215
 # text = Tá segði Pætur við hana: " Hví hava tit verið samsint um at freista anda Harrans?
 1	Tá	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -4358,7 +4358,7 @@
 17	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	16	nmod:poss	_	SpaceAfter=No
 18	?	?	PUNCT	.	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.115
+# sent_id = 1928.NTACTS.REL-BIB,.115-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.216 ; 1928.NTACTS.REL-BIB,.217
 # text = Sí, fötur teirra, sum jarðaðu mann tín, eru við dyrnar, og teir skulu bera teg út."
 1	Sí	_	VERB	VBI	Mood=Imp	3	ccomp	_	SpaceAfter=No
@@ -4384,7 +4384,7 @@
 21	.	.	PUNCT	.	_	20	punct	_	SpaceAfter=No
 22	"	_	PUNCT	"	_	21	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.116
+# sent_id = 1928.NTACTS.REL-BIB,.116-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.218 ; 1928.NTACTS.REL-BIB,.219 ; 1928.NTACTS.REL-BIB,.220 ; 1928.NTACTS.REL-BIB,.221 ; 1928.NTACTS.REL-BIB,.222
 # text = Men hon fell í stundini niður fyri föturnar á honum og gav upp andan; og tá ið teir ungu menninir komu inn, funnu teir hana deyða, og teir bóru hana út og jarðaðu hana hjá manni hennara.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -4429,7 +4429,7 @@
 40	hennara	_	PRON	PRO-G	Case=Gen	39	nmod:poss	_	SpaceAfter=No
 41	.	.	PUNCT	.	_	40	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.117
+# sent_id = 1928.NTACTS.REL-BIB,.117-dev
 # X_ID = 1928.NTACTS.REL-BIB,.223
 # text = Og mikil ótti kom á alt kirkjuliðið og á öll tey, sum hetta hoyrdu.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -4449,7 +4449,7 @@
 15	hoyrdu	_	VERB	VBDI	Mood=Ind|Tense=Past	11	acl:relcl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.118
+# sent_id = 1928.NTACTS.REL-BIB,.118-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.224 ; 1928.NTACTS.REL-BIB,.225
 # text = Men fyri hondunum á ápostlunum hendu mong tekin og undur millum fólkið, og teir vóru allir samhugaðir í súlnagong Sálomons.
 1	Men	_	CCONJ	CONJ	_	6	cc	_	_
@@ -4475,7 +4475,7 @@
 21	Sálomons	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	20	nmod:poss	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.119
+# sent_id = 1928.NTACTS.REL-BIB,.119-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.226 ; 1928.NTACTS.REL-BIB,.227
 # text = Men av hinum tordi eingin at fara í felag við teir, men fólkið prísaði teir hátt.
 1	Men	_	CCONJ	CONJ	_	4	cc	_	_
@@ -4497,7 +4497,7 @@
 17	hátt	_	ADV	ADV	Degree=Pos	15	advmod	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.120
+# sent_id = 1928.NTACTS.REL-BIB,.120-dev
 # X_ID = 1928.NTACTS.REL-BIB,.228
 # text = Og fleiri og fleiri, sum trúðu, lögdust til hjá Harranum, ein fjöld bæði av monnum og kvinnum, so at tey eisini bóru sjúk fólk út á göturnar og lögdu tey á sengur og legubeinkir, fyri at, um tað so ikki var meira enn skuggin av Pæturi, tá ið hann kom, skuldi skugga á einhvönn av teimum.
 1	Og	_	CCONJ	CONJ	_	9	cc	_	_
@@ -4566,7 +4566,7 @@
 64	teimum	_	PRON	PRO-D	Case=Dat	62	obl	_	SpaceAfter=No
 65	.	.	PUNCT	.	_	64	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.121
+# sent_id = 1928.NTACTS.REL-BIB,.121-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.229 ; 1928.NTACTS.REL-BIB,.230 ; 1928.NTACTS.REL-BIB,.231
 # text = Ja, um tað so var úr bygdunum uttan um Jerúsalem, so kom haðan ein mongd saman, og tey hövdu við sær sjúk fólk og slík, sum vóru plágað av óreinum andum; og tey fingu öll heilsuna aftur.
 1	Ja	_	INTJ	INTJ	_	14	discourse	_	SpaceAfter=No
@@ -4613,7 +4613,7 @@
 42	aftur	_	ADV	ADV	Degree=Pos	39	advmod	_	SpaceAfter=No
 43	.	.	PUNCT	.	_	42	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.122
+# sent_id = 1928.NTACTS.REL-BIB,.122-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.232 ; 1928.NTACTS.REL-BIB,.233 ; 1928.NTACTS.REL-BIB,.234 ; 1928.NTACTS.REL-BIB,.235
 # text = Men hövuðspresturin reistist og allir teir, sum vóru í parti við honum, tað var Saddukearaflokkurin, og teir vórðu fullir av ágrýtni; og teir lögdu hendur á ápostlarnar og settu teir í hitt almenna varðhaldið.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -4656,7 +4656,7 @@
 38	varðhaldið	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	33	obl	_	SpaceAfter=No
 39	.	.	PUNCT	.	_	38	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.123
+# sent_id = 1928.NTACTS.REL-BIB,.123-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.236 ; 1928.NTACTS.REL-BIB,.237 ; 1928.NTACTS.REL-BIB,.238 ; 1928.NTACTS.REL-BIB,.239 ; 1928.NTACTS.REL-BIB,.240
 # text = Men eingil Harrans opnaði um náttina dyrnar á fangahúsinum og leiddi teir út og segði: " Farið og stígið fram og talið í halgidóminum öll hesi lívsins orð til fólkið!"
 1	Men	_	CCONJ	CONJ	_	4	cc	_	_
@@ -4693,7 +4693,7 @@
 32	!	!	PUNCT	.	_	31	punct	_	SpaceAfter=No
 33	"	_	PUNCT	"	_	32	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.124
+# sent_id = 1928.NTACTS.REL-BIB,.124-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.241 ; 1928.NTACTS.REL-BIB,.242
 # text = Og tá ið teir hövdu hoyrt hetta, fóru teir í lýsingini inn í halgidómin og lærdu.
 1	Og	_	CCONJ	CONJ	_	9	cc	_	_
@@ -4715,7 +4715,7 @@
 17	lærdu	_	VERB	VBDI	Mood=Ind|Tense=Past	9	conj	_	OriginalHead=0|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.125
+# sent_id = 1928.NTACTS.REL-BIB,.125-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.243 ; 1928.NTACTS.REL-BIB,.244
 # text = Men tá ið so hövuðspresturin kom og teir, sum vóru í parti við honum, kallaðu teir saman ráðið og allar hinar elstu hjá Ísraels börnum og sendu boð í fangahúsið, at teir skuldu koma við teimum.
 1	Men	_	CCONJ	CONJ	_	17	cc	_	_
@@ -4759,7 +4759,7 @@
 39	teimum	_	PRON	PRO-D	Case=Dat	37	obl	_	SpaceAfter=No
 40	.	.	PUNCT	.	_	39	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.126
+# sent_id = 1928.NTACTS.REL-BIB,.126-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.245 ; 1928.NTACTS.REL-BIB,.246 ; 1928.NTACTS.REL-BIB,.247 ; 1928.NTACTS.REL-BIB,.248 ; 1928.NTACTS.REL-BIB,.249
 # text = Men tá ið tænararnir komu hagar, funnu teir teir ikki í fangahúsinum; og teir komu aftur og sögdu frá hesum og mæltu: " Fangahúsið funnu vit stongt bæði væl og virðiliga og vaktarmenninar standandi fyri durunum; men tá ið vit lótu upp, funnu vit ongan inni."
 1	Men	_	CCONJ	CONJ	_	8	cc	_	_
@@ -4816,7 +4816,7 @@
 52	.	.	PUNCT	.	_	51	punct	_	SpaceAfter=No
 53	"	_	PUNCT	"	_	52	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.127
+# sent_id = 1928.NTACTS.REL-BIB,.127-dev
 # X_ID = 1928.NTACTS.REL-BIB,.250
 # text = Men tá ið teir hoyrdu hesi orð, bæði hövuðsmaðurin fyri halgidóminum og hövuðsprestarnir, vórðu teir ráðvillir um teir, hvat ið mundi fara at verða úr hesum.
 1	Men	_	CCONJ	CONJ	_	16	cc	_	_
@@ -4850,7 +4850,7 @@
 29	hesum	_	DET	D-D	Case=Dat	26	obl	_	SpaceAfter=No
 30	.	.	PUNCT	.	_	29	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.128
+# sent_id = 1928.NTACTS.REL-BIB,.128-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.251 ; 1928.NTACTS.REL-BIB,.252
 # text = Men tá kom ein maður og bar teimum tey tíðindini:
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -4865,7 +4865,7 @@
 10	tíðindini	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	7	obj	_	SpaceAfter=No
 11	:	:	PUNCT	,	_	10	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.129
+# sent_id = 1928.NTACTS.REL-BIB,.129-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.253 ; 1928.NTACTS.REL-BIB,.254
 # text = " Sí, menninir, sum tit settu í varðhald, teir standa í halgidóminum og læra fólkið."
 1	"	_	PUNCT	"	_	13	punct	_	_
@@ -4889,7 +4889,7 @@
 19	.	.	PUNCT	.	_	18	punct	_	SpaceAfter=No
 20	"	_	PUNCT	"	_	19	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.130
+# sent_id = 1928.NTACTS.REL-BIB,.130-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.255 ; 1928.NTACTS.REL-BIB,.256
 # text = Tá fór hövuðsmaðurin avstað við tænarunum eftir teimum og heimtaði teir, men ikki við makt; tí at teir óttaðust fyri fólkinum, at teir skuldu verða steinaðir.
 1	Tá	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -4924,7 +4924,7 @@
 30	steinaðir	_	VERB	VAN	Tense=Past|VerbForm=Part	22	ccomp	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	30	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.131
+# sent_id = 1928.NTACTS.REL-BIB,.131-dev
 # X_ID = 1928.NTACTS.REL-BIB,.257
 # text = Men tá ið teir vóru komnir við teimum, leiddu teir teir inn fyri ráðið.
 1	Men	_	CCONJ	CONJ	_	10	cc	_	_
@@ -4944,7 +4944,7 @@
 15	ráðið	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	10	obl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.132
+# sent_id = 1928.NTACTS.REL-BIB,.132-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.258 ; 1928.NTACTS.REL-BIB,.259 ; 1928.NTACTS.REL-BIB,.260 ; 1928.NTACTS.REL-BIB,.261
 # text = Og hövuðspresturin spurdi teir og segði: " Strangliga buðu vit tykkum ikki at læra í hesum navni, og sí, tit hava fylt Jerúsalem við læru tykkara, og tit vilja föra yvir okkum blóðið av hesum manni."
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -4990,7 +4990,7 @@
 41	.	.	PUNCT	.	_	40	punct	_	SpaceAfter=No
 42	"	_	PUNCT	"	_	41	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.133
+# sent_id = 1928.NTACTS.REL-BIB,.133-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.262 ; 1928.NTACTS.REL-BIB,.263
 # text = Men Pætur og ápostlarnir svaraðu og sögdu: " Guði er meir at vera lýðin enn monnum.
 1	Men	_	CCONJ	CONJ	_	5	cc	_	_
@@ -5012,7 +5012,7 @@
 17	monnum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	10	obl	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.134
+# sent_id = 1928.NTACTS.REL-BIB,.134-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.264 ; 1928.NTACTS.REL-BIB,.265
 # text = Guð fedra vára hevur reist upp Jesus, sum tit hongdu upp á træ og tóku av lívi; henda hevur Guð hevjað upp við síni högru hond til hövdinga og frelsara til at veita Ísrael umvending og syndafyrigeving.
 1	Guð	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	_
@@ -5056,7 +5056,7 @@
 39	syndafyrigeving	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	37	conj	_	SpaceAfter=No
 40	.	.	PUNCT	.	_	39	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.135
+# sent_id = 1928.NTACTS.REL-BIB,.135-dev
 # X_ID = 1928.NTACTS.REL-BIB,.266
 # text = Og vit eru vitni um hesar lutir, og heilagi andin, sum Guð hevur givið teimum, sum eru honum lýðin."
 1	Og	_	CCONJ	CONJ	_	2	cc	_	_
@@ -5084,7 +5084,7 @@
 23	.	.	PUNCT	.	_	22	punct	_	SpaceAfter=No
 24	"	_	PUNCT	"	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.136
+# sent_id = 1928.NTACTS.REL-BIB,.136-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.267 ; 1928.NTACTS.REL-BIB,.268
 # text = Men tá ið teir hoyrdu hetta, neit tað teir í hjartað, og teir ráðlögdu um at drepa teir.
 1	Men	_	CCONJ	CONJ	_	8	cc	_	_
@@ -5109,7 +5109,7 @@
 20	teir	_	PRON	PRO-A	Case=Acc	19	obj	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.137
+# sent_id = 1928.NTACTS.REL-BIB,.137-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.269 ; 1928.NTACTS.REL-BIB,.270
 # text = Men í ráðinum reistist tá ein Fariseari, Gamaliel at navni, ein lóglærari, sum var í miklum metum hjá öllum fólkinum, og hann beyð, at teir skuldu lata menninar fara útum eina lítla lötu.
 1	Men	_	CCONJ	CONJ	_	4	cc	_	_
@@ -5154,7 +5154,7 @@
 39	lötu	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	34	obl	_	SpaceAfter=No
 40	.	.	PUNCT	.	_	39	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.138
+# sent_id = 1928.NTACTS.REL-BIB,.138-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.271 ; 1928.NTACTS.REL-BIB,.272 ; 1928.NTACTS.REL-BIB,.273 ; 1928.NTACTS.REL-BIB,.274 ; 1928.NTACTS.REL-BIB,.275
 # text = Og hann segði við teir: " Tit Ísraels menn, hyggið tykkum væl fyri, hvat tit ætla at gera við hesar menninar! Tí at nakað herfyri hendi tað, at Tevdas steig fram, sum segði seg sjálvan at vera nakað; og ein flokkur av okkurt um fýra hundrað mans fóru í hóslag við hann; men hann varð dipin, og allir teir, sum góvu seg undir hann, spjaddust og vórðu fyri ongum.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -5240,7 +5240,7 @@
 81	ongum	_	DET	Q-D	Case=Dat	79	obl	_	SpaceAfter=No
 82	.	.	PUNCT	.	_	81	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.139
+# sent_id = 1928.NTACTS.REL-BIB,.139-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.276 ; 1928.NTACTS.REL-BIB,.277
 # text = Aftan á hann reis upp Judas frá Galileu, í teirri tíðini, tá ið skattaútskrivingin var, og fekk fólk í fylgi við sær.
 1	Aftan	_	ADV	ADV	Degree=Pos	3	advmod	_	_
@@ -5270,7 +5270,7 @@
 25	sær	_	PRON	PRO-D	Case=Dat	20	obl	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.140
+# sent_id = 1928.NTACTS.REL-BIB,.140-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.278 ; 1928.NTACTS.REL-BIB,.279
 # text = Hann læt eisini lív, og allir teir, sum góvu seg undir hann, vórðu drivnir hvör frá öðrum.
 1	Hann	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -5295,7 +5295,7 @@
 20	öðrum	_	PRON	OTHER-D	Case=Dat	18	obl	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.141
+# sent_id = 1928.NTACTS.REL-BIB,.141-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.280 ; 1928.NTACTS.REL-BIB,.281 ; 1928.NTACTS.REL-BIB,.282
 # text = Og nú sigi eg tykkum: " Latið hesar menn vera og sleppið teimum; tí at um hetta ráð ella hetta verk er av monnum, tá verður tað fyri ongum; men um tað er av Guði, tá eru tit ikki mentir at gera tað til einkis.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -5350,7 +5350,7 @@
 50	einkis	_	DET	Q-G	Case=Gen	47	obl	_	SpaceAfter=No
 51	.	.	PUNCT	.	_	50	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.142
+# sent_id = 1928.NTACTS.REL-BIB,.142-dev
 # X_ID = 1928.NTACTS.REL-BIB,.283
 # text = Latið ikki tað verða, at tit eru slíkir, sum stríðast móti Guði!""
 1	Latið	_	VERB	VBI	Mood=Imp	0	root	_	_
@@ -5371,7 +5371,7 @@
 16	"	_	PUNCT	"	_	15	punct	_	SpaceAfter=No
 17	"	_	PUNCT	"	_	16	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.143
+# sent_id = 1928.NTACTS.REL-BIB,.143-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.284 ; 1928.NTACTS.REL-BIB,.285 ; 1928.NTACTS.REL-BIB,.286 ; 1928.NTACTS.REL-BIB,.287 ; 1928.NTACTS.REL-BIB,.288
 # text = Og teir góvu honum viðhald og kallaðu ápostlarnar inn aftur og húðflettu teir og buðu teimum ikki at tala í Jesu navni og lótu teir sleppa.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -5402,7 +5402,7 @@
 26	sleppa	_	VERB	VB	VerbForm=Inf	24	acl	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.144
+# sent_id = 1928.NTACTS.REL-BIB,.144-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.289 ; 1928.NTACTS.REL-BIB,.290
 # text = Teir fóru tá burtur frá ráðinum, glaðir um at teir hövdu verið hildnir verdir at líða vanvirðing fyri navnsins skuld; og teir lótu ikki av at læra hvönn dag í halgidóminum og heima og at boða gleðiboðskapin um Krist Jesus.
 1	Teir	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -5449,7 +5449,7 @@
 42	Jesus	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	41	flat:name	_	SpaceAfter=No
 43	.	.	PUNCT	.	_	42	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.145
+# sent_id = 1928.NTACTS.REL-BIB,.145-dev
 # X_ID = 1928.NTACTS.REL-BIB,.291
 # text = Men í hesum dögunum, tá ið talið á lærusveinunum vaks, kom upp eitt illmæli millum Hellenistar mót Hebrearum um tað, at einkjur teirra vórðu misbýttar við hina dagligu útbýtingina.
 1	Men	_	CCONJ	CONJ	_	13	cc	_	_
@@ -5486,7 +5486,7 @@
 32	útbýtingina	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	28	obl	_	SpaceAfter=No
 33	.	.	PUNCT	.	_	32	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.146
+# sent_id = 1928.NTACTS.REL-BIB,.146-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.292 ; 1928.NTACTS.REL-BIB,.293
 # text = Og teir tólv kallaðu tá lærusveinaflokkin saman og sögdu: " Tað sömir seg ikki, at vit skulu geva Guðs orð yvir fyri at tæna við borðini.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -5519,7 +5519,7 @@
 28	borðini	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	26	obl	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	28	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.147
+# sent_id = 1928.NTACTS.REL-BIB,.147-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.294 ; 1928.NTACTS.REL-BIB,.295
 # text = Hyggið tykkum tí, bröður, um eftir sjey monnum tykkara millum, sum hava gott orð á sær og eru fullir av heilagum anda og vísdómi, teir vilja vit so seta yvir hesum starvi.
 1	Hyggið	_	VERB	VBI	Mood=Imp	0	root	_	_
@@ -5560,7 +5560,7 @@
 36	starvi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	33	obl	_	SpaceAfter=No
 37	.	.	PUNCT	.	_	36	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.148
+# sent_id = 1928.NTACTS.REL-BIB,.148-dev
 # X_ID = 1928.NTACTS.REL-BIB,.296
 # text = Men vit vilja halda trúliga á í bönini og í tænastu orðsins."
 1	Men	_	CCONJ	CONJ	_	4	cc	_	_
@@ -5578,7 +5578,7 @@
 13	.	.	PUNCT	.	_	12	punct	_	SpaceAfter=No
 14	"	_	PUNCT	"	_	13	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.149
+# sent_id = 1928.NTACTS.REL-BIB,.149-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.297 ; 1928.NTACTS.REL-BIB,.298
 # text = Og hetta orðið líkaði allari samkomuni væl, og tey valdu Stefan, ein mann fullan av trúgv og heilagum anda, og Filippus og Prokorus og Nikanor og Timon og Parmenas og Nikolaus frá Antiokíu, sum tikið hevði við Jöda trúgv.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -5626,7 +5626,7 @@
 43	trúgv	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	39	obl	_	SpaceAfter=No
 44	.	.	PUNCT	.	_	43	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.150
+# sent_id = 1928.NTACTS.REL-BIB,.150-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.299 ; 1928.NTACTS.REL-BIB,.300 ; 1928.NTACTS.REL-BIB,.301
 # text = Og tey leiddu teir fram fyri ápostlarnar, og teir hildu bön og lögdu hendurnar á teir.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -5648,7 +5648,7 @@
 17	teir	_	PRON	PRO-A	Case=Acc	14	obl	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.151
+# sent_id = 1928.NTACTS.REL-BIB,.151-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.302 ; 1928.NTACTS.REL-BIB,.303 ; 1928.NTACTS.REL-BIB,.304
 # text = Og Guðs orð vann fram og talið á lærusveinunum í Jerúsalem öktist í stórum, og ein stórur hópur av prestunum gjördist lýðin móti trúnni.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -5678,7 +5678,7 @@
 25	trúnni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	24	nmod:poss	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.152
+# sent_id = 1928.NTACTS.REL-BIB,.152-dev
 # X_ID = 1928.NTACTS.REL-BIB,.305
 # text = Men Stefan gjördi, fullur av náði og kraft, undur og stór tekin millum fólkið.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -5699,7 +5699,7 @@
 16	fólkið	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.153
+# sent_id = 1928.NTACTS.REL-BIB,.153-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.306 ; 1928.NTACTS.REL-BIB,.307
 # text = Men tá stigu upp nakrir menn frá tí samkomuhúsinum, sum er kallað eftir Libertinum og Kýreneingum og Aleksandriumonnum, og nakrir av teimum frá Kilikíu og Ásiu og hövdu orðadrátt við Stefan.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -5737,7 +5737,7 @@
 33	Stefan	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	30	obl	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	33	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.154
+# sent_id = 1928.NTACTS.REL-BIB,.154-dev
 # X_ID = 1928.NTACTS.REL-BIB,.308
 # text = Og teir kundu ikki standa móti tí vísdómi og tí anda, sum hann talaði av.
 1	Og	_	CCONJ	CONJ	_	5	cc	_	_
@@ -5758,7 +5758,7 @@
 16	av	_	ADP	P	_	15	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.155
+# sent_id = 1928.NTACTS.REL-BIB,.155-dev
 # X_ID = 1928.NTACTS.REL-BIB,.309
 # text = Tá fingu teir loyniliga nakrar menn til at siga: " Vit hava hoyrt hann tala spottorð móti Mósesi og móti Guði."
 1	Tá	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -5786,7 +5786,7 @@
 23	.	.	PUNCT	.	_	22	punct	_	SpaceAfter=No
 24	"	_	PUNCT	"	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.156
+# sent_id = 1928.NTACTS.REL-BIB,.156-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.310 ; 1928.NTACTS.REL-BIB,.311 ; 1928.NTACTS.REL-BIB,.312 ; 1928.NTACTS.REL-BIB,.313
 # text = Og teir östu upp fólkið og hinar elstu og hinar skriftlærdu, og teir fóru eftir honum og tóku hann og fóru við honum til ráðið.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -5817,7 +5817,7 @@
 26	ráðið	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	22	obj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.157
+# sent_id = 1928.NTACTS.REL-BIB,.157-dev
 # X_ID = 1928.NTACTS.REL-BIB,.314
 # text = Og teir fördu fram lygivitni, sum sögdu: " Hesin maður heldur ikki uppat at tala móti hesum heilaga staði og móti lógini; tí at vit hava hoyrt hann siga, at hesin Jesus úr Nasaret skal bróta niður henda staðin og broyta teir siðir, sum Móses hevur fingið okkum."
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -5877,7 +5877,7 @@
 55	.	.	PUNCT	.	_	54	punct	_	SpaceAfter=No
 56	"	_	PUNCT	"	_	55	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.158
+# sent_id = 1928.NTACTS.REL-BIB,.158-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.315 ; 1928.NTACTS.REL-BIB,.316
 # text = Og allir, sum sótu í ráðinum, stardu upp á hann, og teimum tóktist ásjón hansara vera á at líta eins og eingils ásjón.
 1	Og	_	CCONJ	CONJ	_	9	cc	_	_
@@ -5908,7 +5908,7 @@
 26	ásjón	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	23	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.159
+# sent_id = 1928.NTACTS.REL-BIB,.159-dev
 # X_ID = 1928.NTACTS.REL-BIB,.317
 # text = Men hövuðspresturin segði: " Er hetta so?"
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -5922,7 +5922,7 @@
 9	?	?	PUNCT	.	_	8	punct	_	SpaceAfter=No
 10	"	_	PUNCT	"	_	9	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.160
+# sent_id = 1928.NTACTS.REL-BIB,.160-dev
 # X_ID = 1928.NTACTS.REL-BIB,.318
 # text = Men hann segði: " Hoyrið meg, bröður og fedrar!
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -5938,7 +5938,7 @@
 11	fedrar	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	9	conj	_	SpaceAfter=No
 12	!	!	PUNCT	.	_	11	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.161
+# sent_id = 1928.NTACTS.REL-BIB,.161-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.319 ; 1928.NTACTS.REL-BIB,.320 ; 1928.NTACTS.REL-BIB,.321
 # text = Dýrdarinnar Guð birtist fyri faðir okkara Ábrahami, meðan hann var í Mesopotámiu, áðrenn hann búsettist í Káran, og segði við hann: " Far tú burtur úr landi tínum og frá skyldfólki tínum og far til landið, sum eg vil vísa tær á."
 1	Dýrdarinnar	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	2	nmod:poss	_	_
@@ -5992,7 +5992,7 @@
 49	.	.	PUNCT	.	_	48	punct	_	SpaceAfter=No
 50	"	_	PUNCT	"	_	49	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.162
+# sent_id = 1928.NTACTS.REL-BIB,.162-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.322 ; 1928.NTACTS.REL-BIB,.323
 # text = Tá fór hann avstað úr Kaldealandinum og búsettist í Káran.
 1	Tá	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -6008,7 +6008,7 @@
 11	Káran	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	9	obl	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.163
+# sent_id = 1928.NTACTS.REL-BIB,.163-dev
 # X_ID = 1928.NTACTS.REL-BIB,.324
 # text = Og eftir at faðir hansara var deyður, læt Guð hann flyta haðan og higar í hetta landið, sum tit nú búgva í.
 1	Og	_	CCONJ	CONJ	_	9	cc	_	_
@@ -6037,7 +6037,7 @@
 24	í	_	ADP	P	_	23	obl	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.164
+# sent_id = 1928.NTACTS.REL-BIB,.164-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.325 ; 1928.NTACTS.REL-BIB,.326
 # text = Og ikki gav hann honum arvalut í landinum, ikki so mikið sum eitt fótmál; men hann lovaði at geva honum tað í ogn og avkomi hansara eftir hann, tó at hann einki barn átti.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6079,7 +6079,7 @@
 37	átti	_	VERB	VBDI	Mood=Ind|Tense=Past	19	obl	_	SpaceAfter=No
 38	.	.	PUNCT	.	_	37	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.165
+# sent_id = 1928.NTACTS.REL-BIB,.165-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.327 ; 1928.NTACTS.REL-BIB,.328
 # text = Og Guð talaði soleiðis: " Avkom hansara skal búgva sum útlendingar í fremmandum landi, og menn skulu trælka teir og fara illa við teimum í fýra hundrað ár.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6114,7 +6114,7 @@
 30	ár	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	23	obl	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	30	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.166
+# sent_id = 1928.NTACTS.REL-BIB,.166-dev
 # X_ID = 1928.NTACTS.REL-BIB,.329
 # text = Og fólkið sum teir træla undir, skal eg döma," segði Guð.
 1	Og	_	CCONJ	CONJ	_	10	cc	_	_
@@ -6133,7 +6133,7 @@
 14	Guð	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	13	nsubj	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.167
+# sent_id = 1928.NTACTS.REL-BIB,.167-dev
 # X_ID = 1928.NTACTS.REL-BIB,.330
 # text = " Og eftir tað skulu teir fara avstað og tæna mær á hesum staði."
 1	"	_	PUNCT	"	_	7	punct	_	_
@@ -6154,7 +6154,7 @@
 16	.	.	PUNCT	.	_	15	punct	_	SpaceAfter=No
 17	"	_	PUNCT	"	_	16	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.168
+# sent_id = 1928.NTACTS.REL-BIB,.168-dev
 # X_ID = 1928.NTACTS.REL-BIB,.331
 # text = Og hann gav honum umskeringarsáttmálan.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6164,7 +6164,7 @@
 5	umskeringarsáttmálan	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.169
+# sent_id = 1928.NTACTS.REL-BIB,.169-dev
 # X_ID = 1928.NTACTS.REL-BIB,.332
 # text = Og so gat hann Ísak og umskar hann áttanda dagin, og Ísakur Jákup og Jákup teir tólv ættarfedrarnar.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6188,7 +6188,7 @@
 19	ættarfedrarnar	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	16	obj	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.170
+# sent_id = 1928.NTACTS.REL-BIB,.170-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.333 ; 1928.NTACTS.REL-BIB,.334 ; 1928.NTACTS.REL-BIB,.335 ; 1928.NTACTS.REL-BIB,.336 ; 1928.NTACTS.REL-BIB,.337 ; 1928.NTACTS.REL-BIB,.338
 # text = Og ættarfedrarnir övundaðu Jósef og seldu hann til Egyptalands; men Guð var við honum og bjargaði honum út úr öllum trongdum hansara og gav honum náði og vísdóm frammi fyri Fárao, Egyptalandskonginum, og hann setti hann at vera hövdinga yvir Egyptalandi og öllum húsi sínum.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6241,7 +6241,7 @@
 48	sínum	_	PRON	PRO-D	Case=Dat	47	nmod:poss	_	SpaceAfter=No
 49	.	.	PUNCT	.	_	48	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.171
+# sent_id = 1928.NTACTS.REL-BIB,.171-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.339 ; 1928.NTACTS.REL-BIB,.340
 # text = Men hungur kom um alt Egyptaland og Kánáan og stór trongd, og fedrar okkara fingu ikki föðslu.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6264,7 +6264,7 @@
 18	föðslu	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	16	obj	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.172
+# sent_id = 1928.NTACTS.REL-BIB,.172-dev
 # X_ID = 1928.NTACTS.REL-BIB,.341
 # text = Men tá ið Jákup hoyrdi, at korn var til í Egyptalandi, sendi hann fedrar okkara avstað fyrru ferðina.
 1	Men	_	CCONJ	CONJ	_	14	cc	_	_
@@ -6290,7 +6290,7 @@
 21	ferðina	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	14	obl	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.173
+# sent_id = 1928.NTACTS.REL-BIB,.173-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.342 ; 1928.NTACTS.REL-BIB,.343
 # text = Og aðra ferðina varð Jósef kendur aftur av bröðrum sínum, og Fárao fekk at kenna ætt Jósefs.
 1	Og	_	CCONJ	CONJ	_	6	cc	_	_
@@ -6313,7 +6313,7 @@
 18	Jósefs	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	17	nmod:poss	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.174
+# sent_id = 1928.NTACTS.REL-BIB,.174-dev
 # X_ID = 1928.NTACTS.REL-BIB,.344
 # text = Men Jósef sendi boð eftir Jákupi, faðir sínum, og öllum ættarfólki sínum, sjúti og fimm sálum.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6337,7 +6337,7 @@
 19	sálum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	13	appos	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.175
+# sent_id = 1928.NTACTS.REL-BIB,.175-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.345 ; 1928.NTACTS.REL-BIB,.346
 # text = Og Jákup fór suður til Egyptalands og hann andaðist, hann og fedrar okkara.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6356,7 +6356,7 @@
 14	okkara	_	PRON	PRO-G	Case=Gen	13	nmod:poss	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.176
+# sent_id = 1928.NTACTS.REL-BIB,.176-dev
 # X_ID = 1928.NTACTS.REL-BIB,.347
 # text = Og teir vórðu fluttir haðan til Sikem og lagdir í grövina, sum Ábraham hevði keypt fyri silvur av sonum Hemors í Sikem.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -6384,7 +6384,7 @@
 23	Sikem	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	16	obl	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.177
+# sent_id = 1928.NTACTS.REL-BIB,.177-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.348 ; 1928.NTACTS.REL-BIB,.349
 # text = Men so hvört sum tíðin nærkaðist fyri teirri fyrijáttan, sum Guð hevði lovað Ábrahami, vaks fólkið og tók til í Egyptalandi, inntil ein annar kongur tók við ræði yvir Egyptalandi, sum einki visti um Jósef.
 1	Men	_	CCONJ	CONJ	_	17	cc	_	_
@@ -6429,7 +6429,7 @@
 40	Jósef	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	38	obl	_	SpaceAfter=No
 41	.	.	PUNCT	.	_	40	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.178
+# sent_id = 1928.NTACTS.REL-BIB,.178-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.350 ; 1928.NTACTS.REL-BIB,.351
 # text = Hann nýtti svikaráð móti ætt okkara og fór so illa við fedrum okkara, at teir noyddust at bera út smábörn síni, at tey ikki skuldu sleppa at liva.
 1	Hann	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -6464,7 +6464,7 @@
 30	liva	_	VERB	VB	VerbForm=Inf	28	acl	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	30	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.179
+# sent_id = 1928.NTACTS.REL-BIB,.179-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.352 ; 1928.NTACTS.REL-BIB,.353
 # text = Um tað mundið varð Móses föddur, og hann var yndisligur fyri Guði.
 1	Um	_	ADP	P	_	3	case	_	_
@@ -6482,7 +6482,7 @@
 13	Guði	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	11	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.180
+# sent_id = 1928.NTACTS.REL-BIB,.180-dev
 # X_ID = 1928.NTACTS.REL-BIB,.354
 # text = Og hann varð fostraður í húsinum hjá faðir sínum í tríggjar mánaðir.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -6499,7 +6499,7 @@
 12	mánaðir	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	4	obl	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.181
+# sent_id = 1928.NTACTS.REL-BIB,.181-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.355 ; 1928.NTACTS.REL-BIB,.356
 # text = Men tá ið hann varð útborin, tók dóttir Fáraos hann upp og fostraði hann sum sín egna son.
 1	Men	_	CCONJ	CONJ	_	8	cc	_	_
@@ -6523,7 +6523,7 @@
 19	son	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	17	obj	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.182
+# sent_id = 1928.NTACTS.REL-BIB,.182-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.357 ; 1928.NTACTS.REL-BIB,.358
 # text = Og Móses varð upplærdur í öllum vísdómi hjá Egyptum, og hann var megnaður í orðum sínum og verkum.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -6547,7 +6547,7 @@
 19	verkum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	16	conj	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.183
+# sent_id = 1928.NTACTS.REL-BIB,.183-dev
 # X_ID = 1928.NTACTS.REL-BIB,.359
 # text = Men tá ið hann hevði fylt fjöruti ár, fekk hann tað í huga at finna bröður sínar, Ísraels menn.
 1	Men	_	CCONJ	CONJ	_	10	cc	_	_
@@ -6573,7 +6573,7 @@
 21	menn	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	17	appos	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.184
+# sent_id = 1928.NTACTS.REL-BIB,.184-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.360 ; 1928.NTACTS.REL-BIB,.361 ; 1928.NTACTS.REL-BIB,.362
 # text = Og tá ið hann sá ein teirra verða órættaðan, kom hann honum til hjálpar og hevndi tann, sum varð illa viðfarin, og drap Egyptan.
 1	Og	_	CCONJ	CONJ	_	11	cc	_	_
@@ -6606,7 +6606,7 @@
 28	Egyptan	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	27	obj	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	28	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.185
+# sent_id = 1928.NTACTS.REL-BIB,.185-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.363 ; 1928.NTACTS.REL-BIB,.364
 # text = Hann hugsaði, at bröður hansara mundu skilja, at Guð gav teimum frelsu við hansara hond; men teir skildu tað ikki.
 1	Hann	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -6634,7 +6634,7 @@
 23	ikki	_	ADV	NEG	_	21	advmod	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.186
+# sent_id = 1928.NTACTS.REL-BIB,.186-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.365 ; 1928.NTACTS.REL-BIB,.366 ; 1928.NTACTS.REL-BIB,.367 ; 1928.NTACTS.REL-BIB,.368
 # text = Og dagin eftir kom hann til teirra, sum teir klandraðust, og vildi fáa teir til at halda frið og segði: " Góðu menn, tit eru bröður, hví gera tit hvör öðrum órætt?"
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -6677,7 +6677,7 @@
 38	?	?	PUNCT	.	_	37	punct	_	SpaceAfter=No
 39	"	_	PUNCT	"	_	38	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.187
+# sent_id = 1928.NTACTS.REL-BIB,.187-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.369 ; 1928.NTACTS.REL-BIB,.370
 # text = Men tann, sum órættaði næsta sín, koyrdi hann frá sær og segði: " Hvör hevur sett teg til hövdinga og dómara yvir okkum?
 1	Men	_	CCONJ	CONJ	_	9	cc	_	_
@@ -6708,7 +6708,7 @@
 26	okkum	_	PRON	PRO-D	Case=Dat	19	obl	_	SpaceAfter=No
 27	?	?	PUNCT	.	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.188
+# sent_id = 1928.NTACTS.REL-BIB,.188-dev
 # X_ID = 1928.NTACTS.REL-BIB,.371
 # text = Manst tú ætla at drepa meg, soleiðis sum tú drapst Egyptan í gjár?"
 1	Manst	_	AUX	MDPI	Mood=Ind|Tense=Pres	3	aux	_	_
@@ -6728,7 +6728,7 @@
 15	?	?	PUNCT	.	_	14	punct	_	SpaceAfter=No
 16	"	_	PUNCT	"	_	15	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.189
+# sent_id = 1928.NTACTS.REL-BIB,.189-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.372 ; 1928.NTACTS.REL-BIB,.373
 # text = Við hetta orðið flýddi Móses og gjördist útlendingur í Midianslandi, har sum hann gat tveir synir.
 1	Við	_	ADP	P	_	3	case	_	_
@@ -6750,7 +6750,7 @@
 17	synir	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	14	obj	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.190
+# sent_id = 1928.NTACTS.REL-BIB,.190-dev
 # X_ID = 1928.NTACTS.REL-BIB,.374
 # text = Og tá ið fjöruti ár vóru umliðin, birtist ein eingil fyri honum í oyðimörkini við Sinaifjallið í eldsloga í einum tornarunni.
 1	Og	_	CCONJ	CONJ	_	9	cc	_	_
@@ -6777,7 +6777,7 @@
 22	tornarunni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	9	obl	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	22	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.191
+# sent_id = 1928.NTACTS.REL-BIB,.191-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.375 ; 1928.NTACTS.REL-BIB,.376
 # text = Og tá ið Móses sá tað, undraðist hann á hesa sjón; og tá ið hann fór hagar fyri at hyggja at, ljóðaði rödd Harrans:
 1	Og	_	CCONJ	CONJ	_	8	cc	_	_
@@ -6809,7 +6809,7 @@
 27	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	26	nmod:poss	_	SpaceAfter=No
 28	:	:	PUNCT	.	_	27	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.192
+# sent_id = 1928.NTACTS.REL-BIB,.192-dev
 # X_ID = 1928.NTACTS.REL-BIB,.377
 # text = " Eg eri Guð fedra tína, Guð Ábrahams og Ísaks og Jákups."
 1	"	_	PUNCT	"	_	2	punct	_	_
@@ -6828,7 +6828,7 @@
 14	.	.	PUNCT	.	_	13	punct	_	SpaceAfter=No
 15	"	_	PUNCT	"	_	14	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.193
+# sent_id = 1928.NTACTS.REL-BIB,.193-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.378 ; 1928.NTACTS.REL-BIB,.379
 # text = Men Móses skalv av ræðslu og tordi ikki at hyggja at.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6844,7 +6844,7 @@
 11	at	_	ADP	RP	_	10	compound:prt	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.194
+# sent_id = 1928.NTACTS.REL-BIB,.194-dev
 # X_ID = 1928.NTACTS.REL-BIB,.380
 # text = Men Harrin segði við hann: " Loys skógvarnar av fótunum, tí at staðurin, sum tú stendur á, er heilag jörð.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6873,7 +6873,7 @@
 24	jörð	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	23	conj	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.195
+# sent_id = 1928.NTACTS.REL-BIB,.195-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.381 ; 1928.NTACTS.REL-BIB,.382 ; 1928.NTACTS.REL-BIB,.383
 # text = Skilliga havi eg sæð ta ringu viðgerð, sum fólk mítt fær í Egyptalandi, og hoyrt havi eg stynjan teirra, og eg eri nú komin oman at frelsa tey.
 1	Skilliga	_	ADV	ADV	Degree=Pos	4	advmod	_	_
@@ -6909,7 +6909,7 @@
 31	tey	_	PRON	PRO-A	Case=Acc	30	obj	_	SpaceAfter=No
 32	.	.	PUNCT	.	_	31	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.196
+# sent_id = 1928.NTACTS.REL-BIB,.196-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.384 ; 1928.NTACTS.REL-BIB,.385
 # text = Og kom nú, lat meg senda teg til Egyptalands."
 1	Og	_	CCONJ	CONJ	_	2	cc	_	_
@@ -6925,7 +6925,7 @@
 11	.	.	PUNCT	.	_	10	punct	_	SpaceAfter=No
 12	"	_	PUNCT	"	_	11	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.197
+# sent_id = 1928.NTACTS.REL-BIB,.197-dev
 # X_ID = 1928.NTACTS.REL-BIB,.386
 # text = Henda sama Móses, sum teir avnoktaðu, tá ið teir sögdu: " Hvör hevur sett teg til hövdinga og dómara," hann sendi Guð bæði til hövdinga og loysnara við hendi tess eingils, sum birtist fyri honum í tornarunninum.
 1	Henda	_	DET	D-A	Case=Acc	3	det	_	_
@@ -6973,7 +6973,7 @@
 43	tornarunninum	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	39	obl	_	SpaceAfter=No
 44	.	.	PUNCT	.	_	43	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.198
+# sent_id = 1928.NTACTS.REL-BIB,.198-dev
 # X_ID = 1928.NTACTS.REL-BIB,.387
 # text = Hesin maður fördi tey út, meðan hann gjördi undur og tekin í Egyptalandi og í Reyðahavinum og í oyðimörkini í fjöruti ár.
 1	Hesin	_	DET	D-N	Case=Nom	2	det	_	_
@@ -7001,7 +7001,7 @@
 23	ár	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	9	obl	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.199
+# sent_id = 1928.NTACTS.REL-BIB,.199-dev
 # X_ID = 1928.NTACTS.REL-BIB,.388
 # text = Hetta er tann Móses, sum segði við Ísraelsmenn: " Ein profet, tílíkan sum meg, skal Guð reisa tykkum upp av bröðrum tykkara."
 1	Hetta	_	DET	D-N	Case=Nom	21	nsubj	_	_
@@ -7033,7 +7033,7 @@
 27	.	.	PUNCT	.	_	26	punct	_	SpaceAfter=No
 28	"	_	PUNCT	"	_	27	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.200
+# sent_id = 1928.NTACTS.REL-BIB,.200-dev
 # X_ID = 1928.NTACTS.REL-BIB,.389
 # text = Hetta er tann, sum í kirkjuliðinum í oyðimörkini var við einglinum, sum talaði til hansara á Sinaifjalli, og við fedrum okkara; hann sum tók móti livandi orðum at geva okkum.
 1	Hetta	_	DET	D-N	Case=Nom	0	root	_	_
@@ -7072,7 +7072,7 @@
 34	okkum	_	PRON	PRO-D	Case=Dat	33	iobj	_	SpaceAfter=No
 35	.	.	PUNCT	.	_	34	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.201
+# sent_id = 1928.NTACTS.REL-BIB,.201-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.390 ; 1928.NTACTS.REL-BIB,.391 ; 1928.NTACTS.REL-BIB,.392 ; 1928.NTACTS.REL-BIB,.393
 # text = Honum vildu fedrar okkara ikki vera lýdnir, men teir koyrdu hann frá sær og vendu sær í hjörtum sínum til Egyptalands og sögdu við Áron: " Ger okkum gudar, sum kunnu ganga undan okkum, tí at vit vita ikki, hvat ið er vorðið av hesum Mósesi, sum fördi okkum út úr Egyptalandi.
 1	Honum	_	PRON	PRO-D	Case=Dat	7	obl	_	_
@@ -7135,7 +7135,7 @@
 58	Egyptalandi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	54	obl	_	SpaceAfter=No
 59	.	.	PUNCT	.	_	58	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.202
+# sent_id = 1928.NTACTS.REL-BIB,.202-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.394 ; 1928.NTACTS.REL-BIB,.395 ; 1928.NTACTS.REL-BIB,.396
 # text = Og í teimum dögunum gjördu teir ein kálv og bóru skurðgudinum offur, og vóru fegnir uppi yvir handaverkum sínum.
 1	Og	_	CCONJ	CONJ	_	5	cc	_	_
@@ -7160,7 +7160,7 @@
 20	sínum	_	PRON	PRO-D	Case=Dat	19	nmod:poss	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.203
+# sent_id = 1928.NTACTS.REL-BIB,.203-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.397 ; 1928.NTACTS.REL-BIB,.398
 # text = Men Guð vendi sær frá teimum og læt teir fara at tæna herliði himmalsins, soleiðis sum skrivað stendur í profetabókini:
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7186,7 +7186,7 @@
 21	profetabókini	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	19	obl	_	SpaceAfter=No
 22	:	:	PUNCT	,	_	21	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.204
+# sent_id = 1928.NTACTS.REL-BIB,.204-dev
 # X_ID = 1928.NTACTS.REL-BIB,.399
 # text = " Fördu tit mær, Ísraels hús, sláturoffur og onnur offur í fjöruti ár í oyðimörkini?
 1	"	_	PUNCT	"	_	2	punct	_	_
@@ -7208,7 +7208,7 @@
 17	oyðimörkini	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	2	obl	_	SpaceAfter=No
 18	?	?	PUNCT	.	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.205
+# sent_id = 1928.NTACTS.REL-BIB,.205-dev
 # X_ID = 1928.NTACTS.REL-BIB,.400
 # text = Og tit bóru við tykkum tjald Moloks og stjörnu Remfans guds, tær myndirnar, sum tit gjördu fyri at tilbiðja tær.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7235,7 +7235,7 @@
 22	tær	_	PRON	PRO-A	Case=Acc	21	obj	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	22	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.206
+# sent_id = 1928.NTACTS.REL-BIB,.206-dev
 # X_ID = 1928.NTACTS.REL-BIB,.401
 # text = Og eg skal flyta tykkum burtur eystur um Bábylon."
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -7250,7 +7250,7 @@
 10	.	.	PUNCT	.	_	9	punct	_	SpaceAfter=No
 11	"	_	PUNCT	"	_	10	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.207
+# sent_id = 1928.NTACTS.REL-BIB,.207-dev
 # X_ID = 1928.NTACTS.REL-BIB,.402
 # text = Vitnisburðar-tjaldið hövdu fedrar okkara í oyðimörkini, soleiðis sum hann, ið talaði til Móses, hevði skipað fyri at gera tað eftir teirri fyrimynd, sum hann hevði sæð.
 1	Vitnisburðar-	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	2	nmod:poss	_	SpaceAfter=No
@@ -7286,7 +7286,7 @@
 31	sæð	_	VERB	VBN	Tense=Past|VerbForm=Part	26	acl:relcl	_	SpaceAfter=No
 32	.	.	PUNCT	.	_	31	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.208
+# sent_id = 1928.NTACTS.REL-BIB,.208-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.403 ; 1928.NTACTS.REL-BIB,.404
 # text = Hetta tóku eisini fedrar okkara í arv og fluttu tað við Jósva inn í landið, sum heidningarnir sótu við, teir sum Guð rak út undan fedrum okkara, líka til Dávids dagar.
 1	Hetta	_	DET	D-A	Case=Acc	2	obj	_	_
@@ -7325,7 +7325,7 @@
 34	dagar	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	25	obl	_	SpaceAfter=No
 35	.	.	PUNCT	.	_	34	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.209
+# sent_id = 1928.NTACTS.REL-BIB,.209-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.405 ; 1928.NTACTS.REL-BIB,.406
 # text = Hann fann náði hjá Guði og bað um, at hann mátti finna ein bústað fyri Guði Jákups.
 1	Hann	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -7348,7 +7348,7 @@
 18	Jákups	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	17	flat:name	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.210
+# sent_id = 1928.NTACTS.REL-BIB,.210-dev
 # X_ID = 1928.NTACTS.REL-BIB,.407
 # text = Men Sálomon bygdi honum hús.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7358,7 +7358,7 @@
 5	hús	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.211
+# sent_id = 1928.NTACTS.REL-BIB,.211-dev
 # X_ID = 1928.NTACTS.REL-BIB,.408
 # text = Men ikki býr hin hægsti í tí, sum er gjört við hondum, soleiðis sum profeturin sigur:
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7381,7 +7381,7 @@
 18	sigur	_	VERB	VBPI	Mood=Ind|Tense=Pres	15	advcl	_	SpaceAfter=No
 19	:	:	PUNCT	,	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.212
+# sent_id = 1928.NTACTS.REL-BIB,.212-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.409 ; 1928.NTACTS.REL-BIB,.410
 # text = " Himmalin er hásæti mítt, og jörðin er skammul undir fótum mínum.
 1	"	_	PUNCT	"	_	2	punct	_	_
@@ -7399,7 +7399,7 @@
 13	mínum	_	PRON	PRO-D	Case=Dat	12	nmod:poss	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.213
+# sent_id = 1928.NTACTS.REL-BIB,.213-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.411 ; 1928.NTACTS.REL-BIB,.412
 # text = Hvat hús vilja tit byggja mær? sigur Harrin, ella hvör er hvíldarstaður mín?
 1	Hvat	_	DET	WD-A	Case=Acc	2	det	_	_
@@ -7419,7 +7419,7 @@
 15	mín	_	PRON	PRO-N	Case=Nom	14	nmod:poss	_	SpaceAfter=No
 16	?	?	PUNCT	.	_	15	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.214
+# sent_id = 1928.NTACTS.REL-BIB,.214-dev
 # X_ID = 1928.NTACTS.REL-BIB,.413
 # text = Hevur ikki hond mín gjört alt hetta?"
 1	Hevur	_	VERB	HVPI	Mood=Ind|Tense=Pres	0	root	_	_
@@ -7432,7 +7432,7 @@
 8	?	?	PUNCT	.	_	7	punct	_	SpaceAfter=No
 9	"	_	PUNCT	"	_	8	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.215
+# sent_id = 1928.NTACTS.REL-BIB,.215-dev
 # X_ID = 1928.NTACTS.REL-BIB,.414
 # text = Tykkara harðu svírar og óumskornu í hjörtum og á oyrum, tit standa altíð móti heilagum anda, tit eins og fedrar tykkara!
 1	Tykkara	_	PRON	PRO-G	Case=Gen	3	nmod:poss	_	_
@@ -7460,7 +7460,7 @@
 23	tykkara	_	PRON	PRO-G	Case=Gen	22	nmod:poss	_	SpaceAfter=No
 24	!	!	PUNCT	.	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.216
+# sent_id = 1928.NTACTS.REL-BIB,.216-dev
 # X_ID = 1928.NTACTS.REL-BIB,.415
 # text = Hvör var tann av profetunum, sum fedrar tykkara ikki söktu at?
 1	Hvör	_	PRON	WPRO-N	Case=Nom	2	obj	_	_
@@ -7477,7 +7477,7 @@
 12	at	_	ADP	P	_	11	obl	_	SpaceAfter=No
 13	?	?	PUNCT	.	_	12	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.217
+# sent_id = 1928.NTACTS.REL-BIB,.217-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.416 ; 1928.NTACTS.REL-BIB,.417
 # text = Og teir drópu teir, sum frammanundan boðaðu um komu hins rættvísa, og svíkjarar og banamenn hansara eru tit nú vorðnir, tit sum hava fingið lógina við umboði av einglum, og tó ikki hava hildið hana!"
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7524,7 +7524,7 @@
 41	!	!	PUNCT	.	_	40	punct	_	SpaceAfter=No
 42	"	_	PUNCT	"	_	41	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.218
+# sent_id = 1928.NTACTS.REL-BIB,.218-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.418 ; 1928.NTACTS.REL-BIB,.419
 # text = Men tá ið teir hoyrdu hetta, neit tað teimum at hjarta, og teir bitu á kampi móti honum.
 1	Men	_	CCONJ	CONJ	_	8	cc	_	_
@@ -7549,7 +7549,7 @@
 20	honum	_	PRON	PRO-D	Case=Dat	19	nmod:poss	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.219
+# sent_id = 1928.NTACTS.REL-BIB,.219-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.420 ; 1928.NTACTS.REL-BIB,.421
 # text = Men hann hugdi upp til himmals, fullur av heilagum anda, og sá Guðs dýrd og Jesus standandi við högru hond Guðs.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7577,7 +7577,7 @@
 23	Guðs	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	22	nmod:poss	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.220
+# sent_id = 1928.NTACTS.REL-BIB,.220-dev
 # X_ID = 1928.NTACTS.REL-BIB,.422
 # text = Og hann segði: " Sí, eg síggi himlarnar opnar og menniskjusonin standandi við högru hond Guðs!"
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7601,7 +7601,7 @@
 19	!	!	PUNCT	.	_	18	punct	_	SpaceAfter=No
 20	"	_	PUNCT	"	_	19	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.221
+# sent_id = 1928.NTACTS.REL-BIB,.221-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.423 ; 1928.NTACTS.REL-BIB,.424 ; 1928.NTACTS.REL-BIB,.425 ; 1928.NTACTS.REL-BIB,.426 ; 1928.NTACTS.REL-BIB,.427
 # text = Men teir skóru í eitt hart róp og hildu fyri oyruni á sær og lupu á hann allir sum ein; og teir koyrdu hann út úr staðinum og steinaðu hann.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7637,7 +7637,7 @@
 31	hann	_	PRON	PRO-A	Case=Acc	30	obj	_	SpaceAfter=No
 32	.	.	PUNCT	.	_	31	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.222
+# sent_id = 1928.NTACTS.REL-BIB,.222-dev
 # X_ID = 1928.NTACTS.REL-BIB,.428
 # text = Og vitnini lögdu klæði síni niður við föturnar á einum ungum manni, sum æt Saul.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7658,7 +7658,7 @@
 16	Saul	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	15	xcomp	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.223
+# sent_id = 1928.NTACTS.REL-BIB,.223-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.429 ; 1928.NTACTS.REL-BIB,.430 ; 1928.NTACTS.REL-BIB,.431
 # text = Og teir steinaðu Stefan; meðan bað hann og segði: " Harri Jesus, tak tú móti anda mínum!"
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7684,7 +7684,7 @@
 21	!	!	PUNCT	.	_	20	punct	_	SpaceAfter=No
 22	"	_	PUNCT	"	_	21	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.224
+# sent_id = 1928.NTACTS.REL-BIB,.224-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.432 ; 1928.NTACTS.REL-BIB,.433
 # text = Og hann fell á knæ og rópaði við harðari rödd: " Harri, rokna teimum ikki hesa synd uppí!"
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7711,7 +7711,7 @@
 22	!	!	PUNCT	.	_	21	punct	_	SpaceAfter=No
 23	"	_	PUNCT	"	_	22	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.225
+# sent_id = 1928.NTACTS.REL-BIB,.225-dev
 # X_ID = 1928.NTACTS.REL-BIB,.434
 # text = Og í tí hann hetta segði, sovnaði hann burtur.
 1	Og	_	CCONJ	CONJ	_	8	cc	_	_
@@ -7726,7 +7726,7 @@
 10	burtur	_	ADV	ADV	Degree=Pos	8	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.226
+# sent_id = 1928.NTACTS.REL-BIB,.226-dev
 # X_ID = 1928.NTACTS.REL-BIB,.435
 # text = Og Saul hevði góðan hugnað í lívláti hansara.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7739,7 +7739,7 @@
 8	hansara	_	PRON	PRO-G	Case=Gen	7	nmod:poss	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.227
+# sent_id = 1928.NTACTS.REL-BIB,.227-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.436 ; 1928.NTACTS.REL-BIB,.437
 # text = Men tann dagin kom í ein stór atsókn móti kirkjuliðinum í Jerúsalem; og öll vórðu spjödd út um bygdir í Júdeu og Sámáriu, uttan ápostlarnir.
 1	Men	_	CCONJ	CONJ	_	4	cc	_	_
@@ -7771,7 +7771,7 @@
 27	ápostlarnir	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	17	obl	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	27	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.228
+# sent_id = 1928.NTACTS.REL-BIB,.228-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.438 ; 1928.NTACTS.REL-BIB,.439
 # text = Men nakrir menn, sum óttaðust Guð, gróvu Stefan og hildu mikla harmaklagu yvir honum.
 1	Men	_	CCONJ	CONJ	_	9	cc	_	_
@@ -7792,7 +7792,7 @@
 16	honum	_	PRON	PRO-D	Case=Dat	12	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.229
+# sent_id = 1928.NTACTS.REL-BIB,.229-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.440 ; 1928.NTACTS.REL-BIB,.441 ; 1928.NTACTS.REL-BIB,.442 ; 1928.NTACTS.REL-BIB,.443
 # text = Men Saul fór illa við kirkjuliðinum; hann fór hús úr húsi og dró haðan bæði menn og konur og koyrdi tey í fangahús.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7821,7 +7821,7 @@
 24	fangahús	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	21	obl	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.230
+# sent_id = 1928.NTACTS.REL-BIB,.230-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.444 ; 1928.NTACTS.REL-BIB,.445
 # text = Men tey, sum nú spjödd vóru umkring, fóru víða hvar og boðaðu orð gleðiboðskaparins.
 1	Men	_	CCONJ	CONJ	_	11	cc	_	_
@@ -7843,7 +7843,7 @@
 17	gleðiboðskaparins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	16	nmod:poss	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.231
+# sent_id = 1928.NTACTS.REL-BIB,.231-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.446 ; 1928.NTACTS.REL-BIB,.447
 # text = Men Filippus kom tá oman í bygdina í Sámáriu og prædikaði Krist fyri teimum.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7862,7 +7862,7 @@
 14	teimum	_	PRON	PRO-D	Case=Dat	11	obl	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.232
+# sent_id = 1928.NTACTS.REL-BIB,.232-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.448 ; 1928.NTACTS.REL-BIB,.449 ; 1928.NTACTS.REL-BIB,.450
 # text = Og samhugað gav fólkið gætur eftir orðum Filippusar, tá ið tey hoyrdu tey og sóu tey tekin, sum hann gjördi; tí at tað vóru mong, sum hövdu óreinar andar; teir fóru út úr teimum, rópandi við harðari rödd, og mong lamin og vanför vórðu lekt.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7919,7 +7919,7 @@
 52	lekt	_	VERB	VAN	Tense=Past|VerbForm=Part	3	conj	_	OriginalHead=0|SpaceAfter=No
 53	.	.	PUNCT	.	_	52	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.233
+# sent_id = 1928.NTACTS.REL-BIB,.233-dev
 # X_ID = 1928.NTACTS.REL-BIB,.451
 # text = Og har varð stór gleði í teirri bygdini.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -7932,7 +7932,7 @@
 8	bygdini	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	3	obl	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.234
+# sent_id = 1928.NTACTS.REL-BIB,.234-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.452 ; 1928.NTACTS.REL-BIB,.453 ; 1928.NTACTS.REL-BIB,.454
 # text = Men ein maður, Símun at navni, var frammanundan har í bygdini; hann hevði gand fyri og gjördi fólkið í Sámáriu bilsið, við tað at hann segði seg sjálvan vera nakað stórt.
 1	Men	_	CCONJ	CONJ	_	14	cc	_	_
@@ -7974,7 +7974,7 @@
 36	stórt	_	ADJ	ADJ-A	Case=Acc|Degree=Pos	35	amod	_	SpaceAfter=No
 37	.	.	PUNCT	.	_	36	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.235
+# sent_id = 1928.NTACTS.REL-BIB,.235-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.455 ; 1928.NTACTS.REL-BIB,.456
 # text = Öll góvu sær far um hann, bæði smá og stór, og sögdu: " Hesin maður er tann Guðs kraft, sum kallast mikil."
 1	Öll	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -8006,7 +8006,7 @@
 27	.	.	PUNCT	.	_	26	punct	_	SpaceAfter=No
 28	"	_	PUNCT	"	_	27	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.236
+# sent_id = 1928.NTACTS.REL-BIB,.236-dev
 # X_ID = 1928.NTACTS.REL-BIB,.457
 # text = Men tey góvu sær far um hann av teirri orsök, at hann í langa tíð hevði gjört tey bilsin við sínum gandakunstum.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8034,7 +8034,7 @@
 23	gandakunstum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	18	obl	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.237
+# sent_id = 1928.NTACTS.REL-BIB,.237-dev
 # X_ID = 1928.NTACTS.REL-BIB,.458
 # text = Men tá ið tey nú trúðu Filippusi, sum boðaði teimum gleðiboðskapin um Guðs ríki og Jesu Krists navn, lótu tey seg doypa bæði menn og konur.
 1	Men	_	CCONJ	CONJ	_	21	cc	_	_
@@ -8067,7 +8067,7 @@
 28	konur	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	26	conj	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	28	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.238
+# sent_id = 1928.NTACTS.REL-BIB,.238-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.459 ; 1928.NTACTS.REL-BIB,.460 ; 1928.NTACTS.REL-BIB,.461
 # text = Men Símun trúði eisini sjálvur við, og tá ið hann var doyptur, helt hann seg stöðugt aftur at Filippusi; og tá ið hann sá tey tekin og tær stóru kraftargerðir, sum gjörd vórðu, undraðist hann.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8112,7 +8112,7 @@
 40	hann	_	PRON	PRO-N	Case=Nom	39	nsubj	_	SpaceAfter=No
 41	.	.	PUNCT	.	_	40	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.239
+# sent_id = 1928.NTACTS.REL-BIB,.239-dev
 # X_ID = 1928.NTACTS.REL-BIB,.462
 # text = Men tá ið ápostlarnir, teir sum vóru í Jerúsalem, hoyrdu, at Sámária hevði tikið við Guðs orði, sendu teir til teirra Pætur og Jóhannes.
 1	Men	_	CCONJ	CONJ	_	22	cc	_	_
@@ -8145,7 +8145,7 @@
 28	Jóhannes	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	26	dep	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	28	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.240
+# sent_id = 1928.NTACTS.REL-BIB,.240-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.463 ; 1928.NTACTS.REL-BIB,.464 ; 1928.NTACTS.REL-BIB,.465
 # text = Teir fóru oman hagar og bóðu fyri teimum um, at tey máttu fáa heilagan anda; tí at enn var hann ikki fallin á nakran teirra, men tey vóru eina doypt til navns Harrans Jesu.
 1	Teir	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -8187,7 +8187,7 @@
 37	Jesu	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	36	flat:name	_	SpaceAfter=No
 38	.	.	PUNCT	.	_	37	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.241
+# sent_id = 1928.NTACTS.REL-BIB,.241-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.466 ; 1928.NTACTS.REL-BIB,.467
 # text = Síðan lögdu teir hendurnar á tey, og tey fingu heilagan anda.
 1	Síðan	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -8204,7 +8204,7 @@
 12	anda	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	10	obj	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.242
+# sent_id = 1928.NTACTS.REL-BIB,.242-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.468 ; 1928.NTACTS.REL-BIB,.469
 # text = Men tá ið Símun sá, at heilagi andin varð givin, í tí at hendur ápostlanna vórðu álagdar, bar hann teimum pening og segði: " Gevið eisini mær handa mátt, so at hvör tann, sum eg leggi hendurnar á, kann fáa heilagan anda!"
 1	Men	_	CCONJ	CONJ	_	22	cc	_	_
@@ -8260,7 +8260,7 @@
 51	!	!	PUNCT	.	_	50	punct	_	SpaceAfter=No
 52	"	_	PUNCT	"	_	51	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.243
+# sent_id = 1928.NTACTS.REL-BIB,.243-dev
 # X_ID = 1928.NTACTS.REL-BIB,.470
 # text = Men Pætur segði við hann: " Illa veri silvuri tínum úr og tær sjálvum tillíka, av tí at tú hugsaði at kunna vinna Guðs gávu fyri pening!
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8294,7 +8294,7 @@
 29	pening	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	25	obl	_	SpaceAfter=No
 30	!	!	PUNCT	.	_	29	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.244
+# sent_id = 1928.NTACTS.REL-BIB,.244-dev
 # X_ID = 1928.NTACTS.REL-BIB,.471
 # text = Tú hevur hvörki part ella lut í hesum orði; tí at hjarta títt er ikki rætt fyri Guði.
 1	Tú	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -8318,7 +8318,7 @@
 19	Guði	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	17	obl	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.245
+# sent_id = 1928.NTACTS.REL-BIB,.245-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.472 ; 1928.NTACTS.REL-BIB,.473
 # text = Vend tí huga tínum frá hesum illskapi tínum, og bið Harran um, at hjartans ætlan tín kortini má verða tær fyrigivin; tí at eg síggi, at tú ert staddur í beiskleikagalli og órættvísifjötri."
 1	Vend	_	VERB	VBI	Mood=Imp	0	root	_	_
@@ -8361,7 +8361,7 @@
 38	.	.	PUNCT	.	_	37	punct	_	SpaceAfter=No
 39	"	_	PUNCT	"	_	38	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.246
+# sent_id = 1928.NTACTS.REL-BIB,.246-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.474 ; 1928.NTACTS.REL-BIB,.475
 # text = Men Símun svaraði og segði: " Biðið tit fyri mær til Harrans, fyri at einki skal koma yvir meg av tí, sum tit hava sagt!"
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8395,7 +8395,7 @@
 29	!	!	PUNCT	.	_	28	punct	_	SpaceAfter=No
 30	"	_	PUNCT	"	_	29	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.247
+# sent_id = 1928.NTACTS.REL-BIB,.247-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.476 ; 1928.NTACTS.REL-BIB,.477
 # text = Tá ið teir nú hövdu vitnað og talað orð Harrans, fóru teir avstað aftur til Jerúsalem og boðaðu gleðiboðskapin í nógvum bygdum hjá Sámáriubúgvum.
 1	Tá	_	ADV	ADV	Degree=Pos	12	advmod	_	_
@@ -8426,7 +8426,7 @@
 26	Sámáriubúgvum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	24	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.248
+# sent_id = 1928.NTACTS.REL-BIB,.248-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.478 ; 1928.NTACTS.REL-BIB,.479 ; 1928.NTACTS.REL-BIB,.480 ; 1928.NTACTS.REL-BIB,.481
 # text = Men eingil Harrans talaði til Filippusar og segði: " Statt upp og far suður eftir og gakk eftir tí veginum, sum gongur oman frá Jerúsalem til Gasa!"
 1	Men	_	CCONJ	CONJ	_	4	cc	_	_
@@ -8461,7 +8461,7 @@
 30	!	!	PUNCT	.	_	29	punct	_	SpaceAfter=No
 31	"	_	PUNCT	"	_	30	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.249
+# sent_id = 1928.NTACTS.REL-BIB,.249-dev
 # X_ID = 1928.NTACTS.REL-BIB,.482
 # text = Tað er ein oyðivegur.
 1	Tað	_	PRON	PRO-N	Case=Nom	4	nsubj	_	_
@@ -8470,7 +8470,7 @@
 4	oyðivegur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.250
+# sent_id = 1928.NTACTS.REL-BIB,.250-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.483 ; 1928.NTACTS.REL-BIB,.484
 # text = Og hann stóð upp og fór.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8481,7 +8481,7 @@
 6	fór	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0|SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.251
+# sent_id = 1928.NTACTS.REL-BIB,.251-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.485 ; 1928.NTACTS.REL-BIB,.486
 # text = Og sí, har var ein maður úr Etiópiu, hirðmaður og hövdingi hjá Kandake, drotning Etiópiumanna, sum hevði allar dýrgripir hennara í varðveitslu; hann var komin til Jerúsalem at halda bön.
 1	Og	_	CCONJ	CONJ	_	7	cc	_	_
@@ -8521,7 +8521,7 @@
 35	bön	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	34	obj	_	SpaceAfter=No
 36	.	.	PUNCT	.	_	35	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.252
+# sent_id = 1928.NTACTS.REL-BIB,.252-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.487 ; 1928.NTACTS.REL-BIB,.488 ; 1928.NTACTS.REL-BIB,.489
 # text = Og hann var nú á heimferðini og sat í vagni sínum og las Jesaja profet.
 1	Og	_	CCONJ	CONJ	_	6	cc	_	_
@@ -8541,7 +8541,7 @@
 15	profet	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	14	appos	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.253
+# sent_id = 1928.NTACTS.REL-BIB,.253-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.490 ; 1928.NTACTS.REL-BIB,.491
 # text = Men andin segði við Filippus: " Far og halt teg aftur at hesum vagni!"
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8562,7 +8562,7 @@
 16	!	!	PUNCT	.	_	15	punct	_	SpaceAfter=No
 17	"	_	PUNCT	"	_	16	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.254
+# sent_id = 1928.NTACTS.REL-BIB,.254-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.492 ; 1928.NTACTS.REL-BIB,.493 ; 1928.NTACTS.REL-BIB,.494
 # text = Men Filippus fór rennandi hagar og hoyrdi hann lesa Jesaja profet; og hann segði: " Skilir tú tað, sum tú lesur?"
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8592,7 +8592,7 @@
 25	?	?	PUNCT	.	_	24	punct	_	SpaceAfter=No
 26	"	_	PUNCT	"	_	25	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.255
+# sent_id = 1928.NTACTS.REL-BIB,.255-dev
 # X_ID = 1928.NTACTS.REL-BIB,.495
 # text = Men hann segði: " Hvussu skal eg kunna tað, uttan at onkur leiðbeinir meg?"
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8614,7 +8614,7 @@
 17	?	?	PUNCT	.	_	16	punct	_	SpaceAfter=No
 18	"	_	PUNCT	"	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.256
+# sent_id = 1928.NTACTS.REL-BIB,.256-dev
 # X_ID = 1928.NTACTS.REL-BIB,.496
 # text = Og hann bað Filippus stíga upp og seta seg hjá sær.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8630,7 +8630,7 @@
 11	sær	_	PRON	PRO-D	Case=Dat	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.257
+# sent_id = 1928.NTACTS.REL-BIB,.257-dev
 # X_ID = 1928.NTACTS.REL-BIB,.497
 # text = Men tað stykkið av skriftini, sum hann var við at lesa, var hetta:
 1	Men	_	CCONJ	CONJ	_	15	cc	_	_
@@ -8650,7 +8650,7 @@
 15	hetta	_	DET	D-N	Case=Nom	0	root	_	SpaceAfter=No
 16	:	:	PUNCT	.	_	15	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.258
+# sent_id = 1928.NTACTS.REL-BIB,.258-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.498 ; 1928.NTACTS.REL-BIB,.499
 # text = " Sum ein seyður varð hann leiddur til skurðar, og eins og lamb er tigandi móti tí, sum klippir tað, soleiðis letur hann ikki upp munn sín.
 1	"	_	PUNCT	"	_	7	punct	_	_
@@ -8685,7 +8685,7 @@
 30	sín	_	PRON	PRO-A	Case=Acc	29	nmod:poss	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	30	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.259
+# sent_id = 1928.NTACTS.REL-BIB,.259-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.500 ; 1928.NTACTS.REL-BIB,.501
 # text = Í neyðarstandinum varð dómur hansara avtikin; hvör kann siga frá ætt hansara, við tað at lív hansara er tikið burtur av jörðini?"
 1	Í	_	ADP	P	_	2	case	_	_
@@ -8716,7 +8716,7 @@
 26	?	?	PUNCT	.	_	25	punct	_	SpaceAfter=No
 27	"	_	PUNCT	"	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.260
+# sent_id = 1928.NTACTS.REL-BIB,.260-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.502 ; 1928.NTACTS.REL-BIB,.503
 # text = Men hirðmaðurin tók til orða og segði við Filippus: " Sig mær, um hvönn sigur profeturin hetta?
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8740,7 +8740,7 @@
 19	hetta	_	DET	D-A	Case=Acc	17	obj	_	SpaceAfter=No
 20	?	?	PUNCT	.	_	19	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.261
+# sent_id = 1928.NTACTS.REL-BIB,.261-dev
 # X_ID = 1928.NTACTS.REL-BIB,.504
 # text = um seg sjálvan ella um onkran annan?"
 1	um	_	ADP	P	_	3	case	_	_
@@ -8753,7 +8753,7 @@
 8	?	?	PUNCT	.	_	7	punct	_	SpaceAfter=No
 9	"	_	PUNCT	"	_	8	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.262
+# sent_id = 1928.NTACTS.REL-BIB,.262-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.505 ; 1928.NTACTS.REL-BIB,.506
 # text = Og Filippus læt upp munn sín, og í tí hann tók undir við hesum skriftorði, fór hann at boða honum gleðiboðskapin um Jesus.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8783,7 +8783,7 @@
 25	Jesus	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	23	obl	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.263
+# sent_id = 1928.NTACTS.REL-BIB,.263-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.507 ; 1928.NTACTS.REL-BIB,.508 ; 1928.NTACTS.REL-BIB,.509
 # text = Og sum teir fóru fram eftir veginum, komu teir at nökrum vatni, og hirðmaðurin segði: " Hygg, her er vatn; hvat forðar mær at verða doyptur?"
 1	Og	_	CCONJ	CONJ	_	9	cc	_	_
@@ -8820,7 +8820,7 @@
 32	?	?	PUNCT	.	_	31	punct	_	SpaceAfter=No
 33	"	_	PUNCT	"	_	32	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.264
+# sent_id = 1928.NTACTS.REL-BIB,.264-dev
 # X_ID = 1928.NTACTS.REL-BIB,.510
 # text = Og Filippus segði: " Trýrt tú av öllum hjarta tínum, so kann tað verða."
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8842,7 +8842,7 @@
 17	.	.	PUNCT	.	_	16	punct	_	SpaceAfter=No
 18	"	_	PUNCT	"	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.265
+# sent_id = 1928.NTACTS.REL-BIB,.265-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.511 ; 1928.NTACTS.REL-BIB,.512
 # text = Men hann svaraði og segði: " Eg trúgvi, at Jesus Kristus er sonur Guðs."
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8864,7 +8864,7 @@
 17	.	.	PUNCT	.	_	16	punct	_	SpaceAfter=No
 18	"	_	PUNCT	"	_	17	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.266
+# sent_id = 1928.NTACTS.REL-BIB,.266-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.513 ; 1928.NTACTS.REL-BIB,.514 ; 1928.NTACTS.REL-BIB,.515
 # text = Og hann beyð, at vagnurin skuldi steðga, og teir fóru báðir niður í vatnið, bæði Filippus og hirðmaðurin, og hann doypti hann.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -8895,7 +8895,7 @@
 26	hann	_	PRON	PRO-A	Case=Acc	25	obj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.267
+# sent_id = 1928.NTACTS.REL-BIB,.267-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.516 ; 1928.NTACTS.REL-BIB,.517
 # text = Men tá ið teir komu upp úr aftur vatninum, rykti andi Harrans Filippus burtur, og hirðmaðurin sá hann ikki meira; tí at glaður fór hann veg sín.
 1	Men	_	CCONJ	CONJ	_	11	cc	_	_
@@ -8930,7 +8930,7 @@
 30	sín	_	PRON	PRO-A	Case=Acc	29	nmod:poss	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	30	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.268
+# sent_id = 1928.NTACTS.REL-BIB,.268-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.518 ; 1928.NTACTS.REL-BIB,.519 ; 1928.NTACTS.REL-BIB,.520
 # text = Men Filippus varð funnin í Asdod, og hann ferðaðist um og boðaði gleðiboðskapin í öllum bygdunum, líka til hann kom til Kesareu.
 1	Men	_	CCONJ	CONJ	_	4	cc	_	_
@@ -8959,7 +8959,7 @@
 24	Kesareu	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	22	obl	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.269
+# sent_id = 1928.NTACTS.REL-BIB,.269-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.521 ; 1928.NTACTS.REL-BIB,.522
 # text = Men Saul, sum enn froysti hóttir og manndráp móti lærusveinum Harrans, fór til hövuðsprestin og bað hann um bræv til Damaskus, til samkomuhúsið har, fyri at hann, um hann hitti nökur, sum hoyrdu til" vegin", menn ella konur, kundi föra tey í bondum til Jerúsalem.
 1	Men	_	CCONJ	CONJ	_	14	cc	_	_
@@ -9019,7 +9019,7 @@
 55	Jerúsalem	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	50	obl	_	SpaceAfter=No
 56	.	.	PUNCT	.	_	55	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.270
+# sent_id = 1928.NTACTS.REL-BIB,.270-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.523 ; 1928.NTACTS.REL-BIB,.524 ; 1928.NTACTS.REL-BIB,.525
 # text = Men tá ið hann á ferðini var komin nær til Damaskus, ljómaði knappliga eitt ljós av himni um hann; og hann fell til jarðar og hoyrdi eina rödd siga við seg: " Saul, Saul, hví sökir tú at mær?"
 1	Men	_	CCONJ	CONJ	_	13	cc	_	_
@@ -9069,7 +9069,7 @@
 45	?	?	PUNCT	.	_	44	punct	_	SpaceAfter=No
 46	"	_	PUNCT	"	_	45	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.271
+# sent_id = 1928.NTACTS.REL-BIB,.271-dev
 # X_ID = 1928.NTACTS.REL-BIB,.526
 # text = Men hann segði: " Hvör ert tú, Harri?"
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9085,7 +9085,7 @@
 11	?	?	PUNCT	.	_	10	punct	_	SpaceAfter=No
 12	"	_	PUNCT	"	_	11	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.272
+# sent_id = 1928.NTACTS.REL-BIB,.272-dev
 # X_ID = 1928.NTACTS.REL-BIB,.527
 # text = Og hann svaraði: " Eg eri Jesus, sum tú sökir at.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9103,7 +9103,7 @@
 13	at	_	ADP	P	_	12	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.273
+# sent_id = 1928.NTACTS.REL-BIB,.273-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.528 ; 1928.NTACTS.REL-BIB,.529 ; 1928.NTACTS.REL-BIB,.530
 # text = Men statt upp og far inn í staðin, og har skal tær verða sagt, hvat tú eigur at gera."
 1	Men	_	CCONJ	CONJ	_	2	cc	_	_
@@ -9130,7 +9130,7 @@
 22	.	.	PUNCT	.	_	21	punct	_	SpaceAfter=No
 23	"	_	PUNCT	"	_	22	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.274
+# sent_id = 1928.NTACTS.REL-BIB,.274-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.531 ; 1928.NTACTS.REL-BIB,.532 ; 1928.NTACTS.REL-BIB,.533
 # text = Men menninir, sum vóru í ferðini við honum, stóðu málleysir; teir hoyrdu fullvæl röddina, men sóu ongan.
 1	Men	_	CCONJ	CONJ	_	11	cc	_	_
@@ -9156,7 +9156,7 @@
 21	ongan	_	DET	Q-A	Case=Acc	20	obj	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.275
+# sent_id = 1928.NTACTS.REL-BIB,.275-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.534 ; 1928.NTACTS.REL-BIB,.535 ; 1928.NTACTS.REL-BIB,.536 ; 1928.NTACTS.REL-BIB,.537
 # text = Og Saul reistist upp av jörðini; men tá ið hann læt eyguni upp, sá hann einki, og teir leiddu hann við hondunum og fóru við honum inn í Damaskus.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9193,7 +9193,7 @@
 32	Damaskus	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	27	obl	_	SpaceAfter=No
 33	.	.	PUNCT	.	_	32	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.276
+# sent_id = 1928.NTACTS.REL-BIB,.276-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.538 ; 1928.NTACTS.REL-BIB,.539
 # text = Og tríggjar dagar sá hann einki, og hann hvörki át ella drakk.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -9211,7 +9211,7 @@
 13	drakk	_	VERB	VBDI	Mood=Ind|Tense=Past	10	dep	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.277
+# sent_id = 1928.NTACTS.REL-BIB,.277-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.540 ; 1928.NTACTS.REL-BIB,.541
 # text = Men í Damaskus var ein lærusveinur, sum æt Ánanias, og Harrin segði við hann í eini sjón: " Ánanias!"
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9239,7 +9239,7 @@
 23	!	!	PUNCT	.	_	22	punct	_	SpaceAfter=No
 24	"	_	PUNCT	"	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.278
+# sent_id = 1928.NTACTS.REL-BIB,.278-dev
 # X_ID = 1928.NTACTS.REL-BIB,.542
 # text = Og hann segði: " Sí, her eri eg, Harri!"
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9257,7 +9257,7 @@
 13	!	!	PUNCT	.	_	12	punct	_	SpaceAfter=No
 14	"	_	PUNCT	"	_	13	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.279
+# sent_id = 1928.NTACTS.REL-BIB,.279-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.543 ; 1928.NTACTS.REL-BIB,.544 ; 1928.NTACTS.REL-BIB,.545
 # text = Men Harrin segði við hann: " Statt upp og far ta götuna, sum kallast hin beina, og spyr í húsinum hjá Judasi eftir einum manni frá Tarsus, sum eitur Saul; tí, sí, hann biður.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9303,7 +9303,7 @@
 41	biður	_	VERB	VBPI	Mood=Ind|Tense=Pres	36	ccomp	_	SpaceAfter=No
 42	.	.	PUNCT	.	_	41	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.280
+# sent_id = 1928.NTACTS.REL-BIB,.280-dev
 # X_ID = 1928.NTACTS.REL-BIB,.546
 # text = Og hann hevur í eini sjón sæð ein mann, sum eitur Ánanias, koma til sín og leggja hendurnar á seg, so at hann kundi fáa sjónina aftur!"
 1	Og	_	CCONJ	CONJ	_	7	cc	_	_
@@ -9339,7 +9339,7 @@
 31	!	!	PUNCT	.	_	30	punct	_	SpaceAfter=No
 32	"	_	PUNCT	"	_	31	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.281
+# sent_id = 1928.NTACTS.REL-BIB,.281-dev
 # X_ID = 1928.NTACTS.REL-BIB,.547
 # text = Men Ánanias svaraði: " Harri, eg havi hoyrt av mongum um henda mann, hvussu nógv ilt hann hevur gjört tínum heilagu í Jerúsalem.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9370,7 +9370,7 @@
 26	Jerúsalem	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	21	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.282
+# sent_id = 1928.NTACTS.REL-BIB,.282-dev
 # X_ID = 1928.NTACTS.REL-BIB,.548
 # text = Og her hevur hann í umboði frá hövuðsprestunum at binda öll tey, sum ákalla navn títt."
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9393,7 +9393,7 @@
 18	.	.	PUNCT	.	_	17	punct	_	SpaceAfter=No
 19	"	_	PUNCT	"	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.283
+# sent_id = 1928.NTACTS.REL-BIB,.283-dev
 # X_ID = 1928.NTACTS.REL-BIB,.549
 # text = Men Harrin segði við hann: " Far tú, tí at hesin maður er mær eitt útvalt ílat til at bera navn mítt fram fyri heidningar og kongar og Ísraels börn; tí at eg vil sýna honum, hvussu mikið hann eigur at líða fyri navns míns sakir."
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9450,7 +9450,7 @@
 52	.	.	PUNCT	.	_	51	punct	_	SpaceAfter=No
 53	"	_	PUNCT	"	_	52	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.284
+# sent_id = 1928.NTACTS.REL-BIB,.284-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.550 ; 1928.NTACTS.REL-BIB,.551 ; 1928.NTACTS.REL-BIB,.552 ; 1928.NTACTS.REL-BIB,.553
 # text = Og Ánanias fór tá avstað og kom inn í húsið og legði hendurnar á hann og segði: " Saul, bróðir, Harrin hevur sent meg, Jesus, tann sum birtist fyri tær á veginum, sum tú komst, til tess at tú skalt fáa sjón tína aftur og verða fyltur við heilagum anda."
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9514,7 +9514,7 @@
 59	.	.	PUNCT	.	_	58	punct	_	SpaceAfter=No
 60	"	_	PUNCT	"	_	59	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.285
+# sent_id = 1928.NTACTS.REL-BIB,.285-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.554 ; 1928.NTACTS.REL-BIB,.555 ; 1928.NTACTS.REL-BIB,.556 ; 1928.NTACTS.REL-BIB,.557
 # text = Og alt fyri eitt fell tað eins og sköl fra eygum hansara, og hann fekk sjónina aftur; og hann stóð upp og varð doyptur.
 1	Og	_	CCONJ	CONJ	_	5	cc	_	_
@@ -9545,7 +9545,7 @@
 26	doyptur	_	VERB	VAN	Tense=Past|VerbForm=Part	5	conj	_	OriginalHead=0|SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.286
+# sent_id = 1928.NTACTS.REL-BIB,.286-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.558 ; 1928.NTACTS.REL-BIB,.559
 # text = Og hann fekk sær mat og styrknaði.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9557,7 +9557,7 @@
 7	styrknaði	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0|SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.287
+# sent_id = 1928.NTACTS.REL-BIB,.287-dev
 # X_ID = 1928.NTACTS.REL-BIB,.560
 # text = Men hann varð nakrar dagar hjá lærusveinunum í Damaskus.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9571,7 +9571,7 @@
 9	Damaskus	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	3	obl	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.288
+# sent_id = 1928.NTACTS.REL-BIB,.288-dev
 # X_ID = 1928.NTACTS.REL-BIB,.561
 # text = Og við tað sama fór hann at prædika í samkomuhúsunum um Jesus, at hann er sonur Guðs.
 1	Og	_	CCONJ	CONJ	_	5	cc	_	_
@@ -9594,7 +9594,7 @@
 18	Guðs	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	17	nmod:poss	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.289
+# sent_id = 1928.NTACTS.REL-BIB,.289-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.562 ; 1928.NTACTS.REL-BIB,.563
 # text = Men öll, sum hoyrdu tað, gjördust stórliga bilsin og sögdu: " Er hetta ikki tann maðurin, sum í Jerúsalem oyddi tey, sum ákallaðu hetta navnið, og var komin higar fyri at föra tey bundin til hövuðsprestarnar?"
 1	Men	_	CCONJ	CONJ	_	8	cc	_	_
@@ -9642,7 +9642,7 @@
 43	?	?	PUNCT	.	_	42	punct	_	SpaceAfter=No
 44	"	_	PUNCT	"	_	43	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.290
+# sent_id = 1928.NTACTS.REL-BIB,.290-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.564 ; 1928.NTACTS.REL-BIB,.565
 # text = Men Saul styrknaði enn meira og hann tepti Jödarnar, sum búðu í Damaskus, við tað at hann prógvaði, at hesin er Kristus.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9672,7 +9672,7 @@
 25	Kristus	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	20	ccomp	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.291
+# sent_id = 1928.NTACTS.REL-BIB,.291-dev
 # X_ID = 1928.NTACTS.REL-BIB,.566
 # text = Men tá ið nógvir dagar vóru lidnir, samráddust Jödarnir um at taka hann av lívi.
 1	Men	_	CCONJ	CONJ	_	9	cc	_	_
@@ -9693,7 +9693,7 @@
 16	lívi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	13	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.292
+# sent_id = 1928.NTACTS.REL-BIB,.292-dev
 # X_ID = 1928.NTACTS.REL-BIB,.567
 # text = Men Saul fekk at vita um svikaráð teirra.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9706,7 +9706,7 @@
 8	teirra	_	PRON	PRO-G	Case=Gen	7	nmod:poss	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.293
+# sent_id = 1928.NTACTS.REL-BIB,.293-dev
 # X_ID = 1928.NTACTS.REL-BIB,.568
 # text = Teir hildu eisini vakt um staðarliðini bæði nátt og dag, fyri at teir kundu taka hann av lívi.
 1	Teir	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -9730,7 +9730,7 @@
 19	lívi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	16	obl	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.294
+# sent_id = 1928.NTACTS.REL-BIB,.294-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.569 ; 1928.NTACTS.REL-BIB,.570
 # text = Men lærusveinarnir tóku hann á náttartíð og sleptu honum út um múrin, við tað at teir lestu hann niður í eini kurv.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9758,7 +9758,7 @@
 23	kurv	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	18	obl	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.295
+# sent_id = 1928.NTACTS.REL-BIB,.295-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.571 ; 1928.NTACTS.REL-BIB,.572
 # text = Og tá ið hann kom til Jerúsalem, royndi hann at halda seg til lærusveinarnar; men öll ræddust hann, av tí at tey ikki trúðu, at hann var lærusveinur.
 1	Og	_	CCONJ	CONJ	_	9	cc	_	_
@@ -9795,7 +9795,7 @@
 32	lærusveinur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	27	ccomp	_	SpaceAfter=No
 33	.	.	PUNCT	.	_	32	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.296
+# sent_id = 1928.NTACTS.REL-BIB,.296-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.573 ; 1928.NTACTS.REL-BIB,.574 ; 1928.NTACTS.REL-BIB,.575
 # text = Men Barnabas tók sær av honum og fór við honum til ápostlarnar, og hann segði teimum frá, hvussu hann á veginum hevði sæð Harran, og at hann hevði talað til hansara, og hvussu hann í Damaskus hevði talað frímóðiga í Jesu navni.
 1	Men	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9846,7 +9846,7 @@
 46	navni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	42	obl	_	SpaceAfter=No
 47	.	.	PUNCT	.	_	46	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.297
+# sent_id = 1928.NTACTS.REL-BIB,.297-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.576 ; 1928.NTACTS.REL-BIB,.577
 # text = Og hann gekk út og inn hjá teimum í Jerúsalem og talaði frímóðiga í Harrans navni.
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
@@ -9867,7 +9867,7 @@
 16	navni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	12	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.298
+# sent_id = 1928.NTACTS.REL-BIB,.298-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.578 ; 1928.NTACTS.REL-BIB,.579
 # text = Og hann bæði talaði og hevði orðadrátt við Hellenistarnar; og teir hövdu í umbúna at taka hann av dögum.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
@@ -9892,7 +9892,7 @@
 20	dögum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	17	obl	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.299
+# sent_id = 1928.NTACTS.REL-BIB,.299-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.580 ; 1928.NTACTS.REL-BIB,.581
 # text = Men tá ið bröðurnir fingu hetta at vita, fördu teir hann oman til Kesareu og sendu hann haðan til Tarsus.
 1	Men	_	CCONJ	CONJ	_	10	cc	_	_
@@ -9918,7 +9918,7 @@
 21	Tarsus	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	17	obl	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = 1928.NTACTS.REL-BIB,.300
+# sent_id = 1928.NTACTS.REL-BIB,.300-dev
 # X_IDs = 1928.NTACTS.REL-BIB,.582 ; 1928.NTACTS.REL-BIB,.583 ; 1928.NTACTS.REL-BIB,.584 ; 1928.NTACTS.REL-BIB,.585
 # text = So hevði nú kirkjuliðið frið um alla Júdeu og Galileu og Sámáriu og varð uppbygt og gekk fram í Harrans ótta og tók til við áminning heilaga andans.
 1	So	_	ADV	ADV	Degree=Pos	2	advmod	_	_
