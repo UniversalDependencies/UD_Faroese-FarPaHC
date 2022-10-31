@@ -2427,9 +2427,9 @@
 21	Krist	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	20	flat:name	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	32	punct	_	_
 23	hvör	_	PRON	WPRO-N	Case=Nom	32	obj	_	_
-24	var	_	AUX	BEDI	Mood=Ind|Tense=Past	32	cop	_	_
-25	tá	_	ADV	ADV	Degree=Pos	32	advmod	_	_
-26	eg	_	PRON	PRO-N	Case=Nom	32	nsubj	_	SpaceAfter=No
+24	var	_	AUX	BEDI	Mood=Ind|Tense=Past	23	cop	_	_
+25	tá	_	ADV	ADV	Degree=Pos	23	advmod	_	_
+26	eg	_	PRON	PRO-N	Case=Nom	23	nsubj	_	SpaceAfter=No
 27	,	,	PUNCT	,	_	26	punct	_	_
 28	at	_	SCONJ	C	_	32	mark	_	_
 29	eg	_	PRON	PRO-N	Case=Nom	32	nsubj	_	_
@@ -8734,8 +8734,8 @@
 57	boði	_	VERB	VBPI	Mood=Ind|Tense=Pres	53	acl:relcl	_	_
 58	tykkum	_	PRON	PRO-D	Case=Dat	57	iobj	_	SpaceAfter=No
 59	,	,	PUNCT	,	_	58	punct	_	_
-60	hann	_	PRON	PRO-N	Case=Nom	48	nsubj	_	_
-61	er	_	AUX	BEPI	Mood=Ind|Tense=Pres	48	cop	_	_
+60	hann	_	PRON	PRO-N	Case=Nom	62	nsubj	_	_
+61	er	_	AUX	BEPI	Mood=Ind|Tense=Pres	62	cop	_	_
 62	Kristus	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	48	xcomp	_	SpaceAfter=No
 63	.	.	PUNCT	.	_	62	punct	_	SpaceAfter=No
 64	"	_	PUNCT	"	_	63	punct	_	_
