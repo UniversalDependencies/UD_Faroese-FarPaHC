@@ -21983,7 +21983,7 @@
 44	í	_	ADP	P	_	45	case	_	_
 45	tær	_	PRON	PRO-D	Case=Dat	42	obl	_	SpaceAfter=No
 46	,	,	PUNCT	,	_	45	punct	_	_
-47	teir	_	PRON	PRO-N	Case=Nom	32	nsubj	_	_
+47	teir	_	PRON	PRO-N	Case=Nom	52	nsubj	_	_
 48	eisini	_	ADV	ALSO	_	52	advmod	_	_
 49	mega	_	AUX	MDPI	Mood=Ind|Tense=Pres	52	aux	_	_
 50	vera	_	AUX	BE	VerbForm=Inf	52	cop	_	_
