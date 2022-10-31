@@ -21965,7 +21965,7 @@
 26	allir	_	DET	Q-N	Case=Nom	25	amod	_	_
 27	mega	_	AUX	MDPI	Mood=Ind|Tense=Pres	29	aux	_	_
 28	vera	_	AUX	BE	VerbForm=Inf	29	cop	_	_
-29	eitt	_	DET	ONE-N	Case=Nom	32	xcomp	_	SpaceAfter=No
+29	eitt	_	DET	ONE-N	Case=Nom	40	xcomp	_	SpaceAfter=No
 30	,	,	PUNCT	,	_	29	punct	_	_
 31	at	_	SCONJ	C	_	40	mark	_	_
 32	eins	_	ADV	ADVR	Degree=Cmp	40	mark	_	_
@@ -21984,11 +21984,11 @@
 45	tær	_	PRON	PRO-D	Case=Dat	42	obl	_	SpaceAfter=No
 46	,	,	PUNCT	,	_	45	punct	_	_
 47	teir	_	PRON	PRO-N	Case=Nom	32	nsubj	_	_
-48	eisini	_	ADV	ALSO	_	32	advmod	_	_
-49	mega	_	AUX	MDPI	Mood=Ind|Tense=Pres	32	aux	_	_
-50	vera	_	AUX	BE	VerbForm=Inf	32	cop	_	_
+48	eisini	_	ADV	ALSO	_	52	advmod	_	_
+49	mega	_	AUX	MDPI	Mood=Ind|Tense=Pres	52	aux	_	_
+50	vera	_	AUX	BE	VerbForm=Inf	52	cop	_	_
 51	í	_	ADP	P	_	52	case	_	_
-52	okkum	_	PRON	PRO-D	Case=Dat	32	obl	_	SpaceAfter=No
+52	okkum	_	PRON	PRO-D	Case=Dat	40	obl	_	SpaceAfter=No
 53	,	,	PUNCT	,	_	52	punct	_	_
 54	til	_	ADP	P	_	55	case	_	_
 55	tess	_	PRON	PRO-G	Case=Gen	32	obl	_	_
