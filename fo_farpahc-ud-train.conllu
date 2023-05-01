@@ -398,7 +398,7 @@
 14	er	_	AUX	BEPI	Mood=Ind|Tense=Pres	16	cop	_	_
 15	í	_	ADP	P	_	16	case	_	_
 16	fangi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	11	acl:relcl	_	_
-17	faðirsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	16	nmod:poss	_	SpaceAfter=No
+17	faðirsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	16	nmod:poss	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	21	punct	_	_
 19	hann	_	PRON	PRO-N	Case=Nom	21	dep	_	_
 20	hevur	_	AUX	HVPI	Mood=Ind|Tense=Pres	21	aux	_	_
@@ -582,7 +582,7 @@
 16	Gerið	_	VERB	DOI	_	12	ccomp	_	_
 17	beinan	_	ADJ	ADJ-A	Case=Acc|Degree=Pos	16	ccomp	_	_
 18	veg	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	17	nsubj	_	_
-19	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	18	nmod:poss	_	SpaceAfter=No
+19	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	18	nmod:poss	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	19	punct	_	_
 21	eins	_	ADV	ADVR	Degree=Cmp	2	ccomp	_	_
 22	og	_	ADP	P	_	26	case	_	_
@@ -729,7 +729,7 @@
 18	sum	_	SCONJ	C	_	19	mark	_	_
 19	ber	_	VERB	VBPI	Mood=Ind|Tense=Pres	16	acl:relcl	_	_
 20	synd	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	19	obj	_	_
-21	heimsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	20	nmod:poss	_	SpaceAfter=No
+21	heimsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	20	nmod:poss	_	SpaceAfter=No
 22	!	!	PUNCT	.	_	21	punct	_	_
 
 # sent_id = 1936.NTJOHN.REL-BIB,.33
@@ -2988,7 +2988,7 @@
 9	;	;	PUNCT	.	_	8	punct	_	_
 10	men	_	CCONJ	CONJ	_	23	cc	_	_
 11	vinur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	23	nsubj	_	_
-12	brúðgómsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	11	nmod:poss	_	SpaceAfter=No
+12	brúðgómsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	11	nmod:poss	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	_	_
 14	sum	_	SCONJ	C	_	15	mark	_	_
 15	stendur	_	VERB	VBPI	Mood=Ind|Tense=Pres	11	acl:relcl	_	_
@@ -3003,7 +3003,7 @@
 24	inniliga	_	ADV	ADV	Degree=Pos	23	advmod	_	_
 25	um	_	ADP	P	_	26	case	_	_
 26	rödd	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	23	obl	_	_
-27	brúðgómsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	26	nmod:poss	_	SpaceAfter=No
+27	brúðgómsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	26	nmod:poss	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	27	punct	_	_
 
 # sent_id = 1936.NTJOHN.REL-BIB,.114
@@ -4411,7 +4411,7 @@
 31	sonnum	_	ADJ	ADJ-D	Case=Dat|Degree=Pos	29	obl	_	_
 32	er	_	AUX	BEPI	Mood=Ind|Tense=Pres	29	cop	_	_
 33	frelsari	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	29	xcomp	_	_
-34	heimsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	33	nmod:poss	_	SpaceAfter=No
+34	heimsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	33	nmod:poss	_	SpaceAfter=No
 35	.	.	PUNCT	.	_	34	punct	_	SpaceAfter=No
 36	"	_	PUNCT	"	_	35	punct	_	_
 
@@ -4861,7 +4861,7 @@
 29	hvört	_	DET	Q-A	Case=Acc	30	obl	_	_
 30	fór	_	VERB	VBDI	Mood=Ind|Tense=Past	26	ccomp	_	_
 31	eingil	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	30	nsubj	_	_
-32	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	31	nmod:poss	_	_
+32	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	31	nmod:poss	_	_
 33	niður	_	ADP	RP	_	30	compound:prt	_	_
 34	í	_	ADP	P	_	35	case	_	_
 35	hylin	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	30	obl	_	_
@@ -7168,7 +7168,7 @@
 6	"	_	PUNCT	"	_	5	punct	_	_
 7	Eg	_	PRON	PRO-N	Case=Nom	2	ccomp	_	_
 8	eri	_	AUX	BEPI	Mood=Ind|Tense=Pres	7	cop	_	_
-9	lívsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	10	nmod:poss	_	_
+9	lívsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	10	nmod:poss	_	_
 10	breyð	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	7	xcomp	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	_
 
@@ -7560,7 +7560,7 @@
 # text = Eg eri lívsins breyð.
 1	Eg	_	PRON	PRO-N	Case=Nom	0	root	_	_
 2	eri	_	AUX	BEPI	Mood=Ind|Tense=Pres	1	cop	_	_
-3	lívsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	4	nmod:poss	_	_
+3	lívsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	4	nmod:poss	_	_
 4	breyð	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	1	xcomp	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -7696,7 +7696,7 @@
 16	tit	_	PRON	PRO-N	Case=Nom	15	nsubj	_	_
 17	ikki	_	ADV	NEG	_	15	advmod	_	_
 18	hold	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	15	obj	_	_
-19	menniskjusonarins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	18	nmod:poss	_	_
+19	menniskjusonarins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	18	nmod:poss	_	_
 20	og	_	CCONJ	CONJ	_	21	cc	_	_
 21	drekka	_	VERB	VBPI	Mood=Ind|Tense=Pres	15	conj	_	_
 22	blóð	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	21	obj	_	_
@@ -7795,7 +7795,7 @@
 10	eg	_	PRON	PRO-N	Case=Nom	11	nsubj	_	_
 11	livi	_	VERB	VBPI	Mood=Ind|Tense=Pres	6	conj	_	_
 12	vegna	_	ADP	P	_	13	case	_	_
-13	faðirsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	11	obl	_	SpaceAfter=No
+13	faðirsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	11	obl	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	23	punct	_	_
 15	soleiðis	_	ADV	ADV	Degree=Pos	23	advmod	_	_
 16	skal	_	AUX	MDPI	Mood=Ind|Tense=Pres	23	aux	_	_
@@ -9990,7 +9990,7 @@
 11	Eg	_	PRON	PRO-N	Case=Nom	8	xcomp	_	_
 12	eri	_	AUX	BEPI	Mood=Ind|Tense=Pres	11	cop	_	_
 13	ljós	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	11	xcomp	_	_
-14	heimsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	13	nmod:poss	_	SpaceAfter=No
+14	heimsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	13	nmod:poss	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	_
 
 # sent_id = 1936.NTJOHN.REL-BIB,.366
@@ -10010,7 +10010,7 @@
 12	,	,	PUNCT	,	_	11	punct	_	_
 13	men	_	CCONJ	CONJ	_	14	cc	_	_
 14	hava	_	AUX	HV	VerbForm=Inf	9	ccomp	_	_
-15	lívsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	16	nmod:poss	_	_
+15	lívsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	16	nmod:poss	_	_
 16	ljós	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	14	obj	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	SpaceAfter=No
 18	"	_	PUNCT	"	_	17	punct	_	_
@@ -11691,7 +11691,7 @@
 7	eri	_	AUX	BEPI	Mood=Ind|Tense=Pres	8	cop	_	_
 8	eg	_	PRON	PRO-N	Case=Nom	0	root	_	_
 9	ljós	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	8	xcomp	_	_
-10	heimsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	9	nmod:poss	_	SpaceAfter=No
+10	heimsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	9	nmod:poss	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	SpaceAfter=No
 12	"	_	PUNCT	"	_	11	punct	_	_
 
@@ -13695,7 +13695,7 @@
 19	teir	_	PRON	PRO-A	Case=Acc	18	obj	_	_
 20	úr	_	ADP	P	_	21	case	_	_
 21	hond	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	18	obl	_	_
-22	faðirsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	21	nmod:poss	_	SpaceAfter=No
+22	faðirsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	21	nmod:poss	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	22	punct	_	_
 
 # sent_id = 1936.NTJOHN.REL-BIB,.518
@@ -16011,7 +16011,7 @@
 46	kemur	_	VERB	VBPI	Mood=Ind|Tense=Pres	43	acl:relcl	_	_
 47	í	_	ADP	P	_	48	case	_	_
 48	navni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	46	obl	_	_
-49	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	48	nmod:poss	_	SpaceAfter=No
+49	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	48	nmod:poss	_	SpaceAfter=No
 50	,	,	PUNCT	,	_	49	punct	_	_
 51	Ísraels	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	52	nmod:poss	_	_
 52	kongur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	46	xcomp	_	SpaceAfter=No
@@ -16732,7 +16732,7 @@
 15	mega	_	AUX	MDPI	Mood=Ind|Tense=Pres	14	aux	_	_
 16	verða	_	AUX	RD	VerbForm=Inf	14	aux	_	_
 17	börn	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	14	xcomp	_	_
-18	ljósins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	17	nmod:poss	_	SpaceAfter=No
+18	ljósins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	17	nmod:poss	_	SpaceAfter=No
 19	!	!	PUNCT	.	_	18	punct	_	SpaceAfter=No
 20	"	_	PUNCT	"	_	19	punct	_	_
 
@@ -16818,7 +16818,7 @@
 2	hvörjum	_	PRON	WPRO-D	Case=Dat	3	obj	_	_
 3	varð	_	VERB	RDDI	Mood=Ind|Tense=Past	0	root	_	_
 4	armur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	6	nsubj	_	_
-5	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	4	nmod:poss	_	_
+5	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	4	nmod:poss	_	_
 6	opinberur	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	3	ccomp	_	SpaceAfter=No
 7	?	?	PUNCT	.	_	6	punct	_	SpaceAfter=No
 8	"	_	PUNCT	"	_	7	punct	_	_
@@ -18939,7 +18939,7 @@
 22	allar	_	DET	Q-A	Case=Acc	23	amod	_	_
 23	ævir	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	17	obl	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	23	punct	_	_
-25	sannleikans	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	26	nmod:poss	_	_
+25	sannleikans	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	26	nmod:poss	_	_
 26	anda	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	10	appos	_	SpaceAfter=No
 27	,	,	PUNCT	,	_	26	punct	_	_
 28	sum	_	SCONJ	C	_	32	mark	_	_
@@ -19206,7 +19206,7 @@
 23	mítt	_	PRON	PRO-N	Case=Nom	15	xcomp	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	23	punct	_	_
 25	men	_	CCONJ	CONJ	_	26	cc	_	_
-26	faðirsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	23	conj	_	SpaceAfter=No
+26	faðirsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	23	conj	_	SpaceAfter=No
 27	,	,	PUNCT	,	_	26	punct	_	_
 28	sum	_	SCONJ	C	_	29	mark	_	_
 29	sendi	_	VERB	VBDI	Mood=Ind|Tense=Past	26	acl:relcl	_	_
@@ -20251,7 +20251,7 @@
 12	frá	_	ADP	P	_	13	case	_	_
 13	faðirinum	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	10	obl	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	_	_
-15	sannleikans	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	16	nmod:poss	_	_
+15	sannleikans	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	16	nmod:poss	_	_
 16	andi	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	5	appos	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	16	punct	_	_
 18	sum	_	SCONJ	C	_	19	mark	_	_
@@ -20620,7 +20620,7 @@
 4	hann	_	PRON	PRO-N	Case=Nom	5	nsubj	_	_
 5	kemur	_	VERB	VBPI	Mood=Ind|Tense=Pres	2	acl:relcl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
-7	sannleikans	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	8	nmod:poss	_	_
+7	sannleikans	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	8	nmod:poss	_	_
 8	andi	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	5	appos	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	_
 10	tá	_	ADV	ADV	Degree=Pos	13	advmod	_	_
@@ -23976,7 +23976,7 @@
 15	tú	_	PRON	PRO-N	Case=Nom	13	nsubj	_	_
 16	ikki	_	ADV	NEG	_	13	advmod	_	_
 17	vinur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	13	xcomp	_	_
-18	keisarans	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	17	nmod:poss	_	SpaceAfter=No
+18	keisarans	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	17	nmod:poss	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	_
 
 # sent_id = 1936.NTJOHN.REL-BIB,.898

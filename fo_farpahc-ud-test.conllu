@@ -122,7 +122,7 @@
 18	vendu	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
 19	um	_	ADP	RP	_	18	compound:prt	_	_
 20	til	_	ADP	P	_	21	case	_	_
-21	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	18	obl	_	SpaceAfter=No
+21	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	18	obl	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.6-test
@@ -768,7 +768,7 @@
 51	á	_	ADP	P	_	52	case	_	_
 52	jörðini	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	48	obl	_	_
 53	og	_	CCONJ	CONJ	_	55	cc	_	_
-54	himmalsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	55	nmod:poss	_	_
+54	himmalsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	55	nmod:poss	_	_
 55	fuglar	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	48	conj	_	SpaceAfter=No
 56	.	.	PUNCT	.	_	55	punct	_	_
 
@@ -1850,7 +1850,7 @@
 22	at	_	SCONJ	C	_	28	mark	_	_
 23	gáva	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	28	nsubj	_	_
 24	heilaga	_	ADJ	ADJ-G	Case=Gen|Degree=Pos	25	amod	_	_
-25	andans	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	23	nmod:poss	_	_
+25	andans	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	23	nmod:poss	_	_
 26	varð	_	AUX	RDDI	Mood=Ind|Tense=Past	28	aux	_	_
 27	út	_	ADP	RP	_	28	compound:prt	_	SpaceAfter=No
 28	helt	_	VERB	VAN	Tense=Past|VerbForm=Part	20	amod	_	_
@@ -2105,7 +2105,7 @@
 22	og	_	CCONJ	CONJ	_	23	cc	_	_
 23	skriðdjór	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	17	conj	_	_
 24	og	_	CCONJ	CONJ	_	26	cc	_	_
-25	himmalsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	26	nmod:poss	_	_
+25	himmalsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	26	nmod:poss	_	_
 26	fuglar	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	17	conj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
 
@@ -2378,7 +2378,7 @@
 5	minnast	_	VERB	VB	VerbForm=Inf	2	acl	_	_
 6	á	_	ADP	P	_	7	case	_	_
 7	orð	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	5	obl	_	_
-8	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	7	nmod:poss	_	SpaceAfter=No
+8	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	7	nmod:poss	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	at	_	SCONJ	C	_	12	mark	_	_
 11	hann	_	PRON	PRO-N	Case=Nom	12	nsubj	_	_
@@ -2558,7 +2558,7 @@
 # text = Og hond Harrans var við teimum, og eitt stórt tal, sum tók við trúgv, vendi um til Harrans.
 1	Og	_	CCONJ	CONJ	_	6	cc	_	_
 2	hond	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	6	nsubj	_	_
-3	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	2	nmod:poss	_	_
+3	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	2	nmod:poss	_	_
 4	var	_	AUX	BEDI	Mood=Ind|Tense=Past	6	cop	_	_
 5	við	_	ADP	P	_	6	case	_	_
 6	teimum	_	PRON	PRO-D	Case=Dat	0	root	_	SpaceAfter=No
@@ -2576,7 +2576,7 @@
 18	vendi	_	VERB	VBDI	Mood=Ind|Tense=Past	6	conj	_	OriginalHead=0
 19	um	_	ADP	RP	_	18	compound:prt	_	_
 20	til	_	ADP	P	_	21	case	_	_
-21	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	18	obl	_	SpaceAfter=No
+21	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	18	obl	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.83-test
@@ -2633,7 +2633,7 @@
 21	við	_	ADP	P	_	22	case	_	_
 22	Harran	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	19	obl	_	_
 23	eftir	_	ADP	P	_	25	case	_	_
-24	hjartans	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	25	nmod:poss	_	_
+24	hjartans	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	25	nmod:poss	_	_
 25	ráði	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	19	obl	_	SpaceAfter=No
 26	;	;	PUNCT	.	_	25	punct	_	_
 27	tí	_	PRON	PRO-D	Case=Dat	15	obl	_	_
@@ -2658,7 +2658,7 @@
 46	varð	_	AUX	RDDI	Mood=Ind|Tense=Past	47	aux	_	_
 47	fördur	_	VERB	VAN	Tense=Past|VerbForm=Part	11	conj	_	OriginalHead=0
 48	til	_	ADP	P	_	49	case	_	_
-49	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	47	obl	_	SpaceAfter=No
+49	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	47	obl	_	SpaceAfter=No
 50	.	.	PUNCT	.	_	49	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.85-test
@@ -3020,7 +3020,7 @@
 2	sí	_	VERB	VBI	Mood=Imp	6	ccomp	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	eingil	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	6	nsubj	_	_
-5	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	4	nmod:poss	_	_
+5	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	4	nmod:poss	_	_
 6	stóð	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
 7	har	_	ADV	ADV	Degree=Pos	6	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	.	_	7	punct	_	_
@@ -3603,7 +3603,7 @@
 11	sum	_	SCONJ	C	_	13	mark	_	_
 12	var	_	AUX	BEDI	Mood=Ind|Tense=Past	13	cop	_	_
 13	hirðmaður	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	9	acl:relcl	_	_
-14	kongsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	13	nmod:poss	_	SpaceAfter=No
+14	kongsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	13	nmod:poss	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	14	punct	_	_
 16	í	_	ADP	P	_	17	case	_	_
 17	lið	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	8	obl	_	_
@@ -3624,7 +3624,7 @@
 32	innlögur	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	31	obj	_	_
 33	úr	_	ADP	P	_	34	case	_	_
 34	landi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	31	obl	_	_
-35	kongsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	34	nmod:poss	_	SpaceAfter=No
+35	kongsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	34	nmod:poss	_	SpaceAfter=No
 36	.	.	PUNCT	.	_	35	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.118-test
@@ -3679,7 +3679,7 @@
 4	sama	_	ADJ	ADJ-D	Case=Dat|Degree=Pos	5	obl	_	_
 5	sló	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
 6	eingil	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	_
-7	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	6	nmod:poss	_	_
+7	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	6	nmod:poss	_	_
 8	hann	_	PRON	PRO-A	Case=Acc	5	obj	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	av	_	ADP	P	_	12	case	_	_
@@ -4052,7 +4052,7 @@
 53	snúgva	_	VERB	VB	VerbForm=Inf	50	obl	_	_
 54	beinu	_	ADJ	ADJ-A	Case=Acc|Degree=Pos	55	amod	_	_
 55	vegum	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	53	obj	_	_
-56	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	55	nmod:poss	_	SpaceAfter=No
+56	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	55	nmod:poss	_	SpaceAfter=No
 57	?	?	PUNCT	.	_	56	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.133-test
@@ -4064,7 +4064,7 @@
 4	sí	_	VERB	VBI	Mood=Imp	2	ccomp	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	hond	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	_
-7	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	6	nmod:poss	_	_
+7	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	6	nmod:poss	_	_
 8	er	_	AUX	BEPI	Mood=Ind|Tense=Pres	2	cop	_	_
 9	yvir	_	ADP	P	_	10	case	_	_
 10	tær	_	PRON	PRO-D	Case=Dat	2	obl	_	SpaceAfter=No
@@ -4134,7 +4134,7 @@
 17	stórliga	_	ADV	ADV	Degree=Pos	16	advmod	_	_
 18	á	_	ADP	P	_	19	case	_	_
 19	læru	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	16	obl	_	_
-20	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	19	nmod:poss	_	SpaceAfter=No
+20	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	19	nmod:poss	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.136-test
@@ -5081,7 +5081,7 @@
 9	saman	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 10	at	_	PART	TO	_	11	advcl	_	_
 11	hoyra	_	VERB	VB	VerbForm=Inf	4	advcl	_	_
-12	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	13	nmod:poss	_	_
+12	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	13	nmod:poss	_	_
 13	orð	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	11	obj	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
@@ -5226,7 +5226,7 @@
 10	og	_	CCONJ	CONJ	_	11	cc	_	_
 11	hálovaðu	_	VERB	VBDI	Mood=Ind|Tense=Past	8	conj	_	OriginalHead=0
 12	orði	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	11	obj	_	_
-13	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	12	nmod:poss	_	SpaceAfter=No
+13	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	12	nmod:poss	_	SpaceAfter=No
 14	,	,	PUNCT	.	_	13	punct	_	_
 15	og	_	CCONJ	CONJ	_	17	cc	_	_
 16	teir	_	PRON	PRO-N	Case=Nom	17	nsubj	_	_
@@ -5249,7 +5249,7 @@
 # text = Og orð Harrans breiddist út um alt landið.
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
 2	orð	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
-3	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	2	nmod:poss	_	_
+3	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	2	nmod:poss	_	_
 4	breiddist	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
 5	út	_	ADP	RP	_	4	compound:prt	_	_
 6	um	_	ADP	P	_	8	case	_	_
@@ -6026,7 +6026,7 @@
 21	upp	_	ADP	RP	_	23	compound:prt	_	_
 22	í	_	ADP	P	_	23	case	_	_
 23	hendur	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	14	obl	_	_
-24	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	23	nmod:poss	_	SpaceAfter=No
+24	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	23	nmod:poss	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	24	punct	_	_
 26	sum	_	SCONJ	C	_	28	mark	_	_
 27	tey	_	PRON	PRO-N	Case=Nom	28	nsubj	_	_
@@ -6416,7 +6416,7 @@
 42	skuldu	_	AUX	MDDS	Mood=Sub|Tense=Past	43	aux	_	_
 43	hoyra	_	VERB	VB	VerbForm=Inf	31	ccomp	_	_
 44	orð	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	43	obj	_	_
-45	gleðiboðskaparins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	44	nmod:poss	_	_
+45	gleðiboðskaparins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	44	nmod:poss	_	_
 46	og	_	CCONJ	CONJ	_	47	cc	_	_
 47	taka	_	VERB	VB	VerbForm=Inf	43	conj	_	_
 48	við	_	ADP	P	_	49	case	_	_
@@ -6512,7 +6512,7 @@
 7	verða	_	AUX	RDPI	Mood=Ind|Tense=Pres	8	aux	_	_
 8	frelstir	_	VERB	VAN	Tense=Past|VerbForm=Part	3	ccomp	_	_
 9	við	_	ADP	P	_	12	case	_	_
-10	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	12	nmod:poss	_	_
+10	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	12	nmod:poss	_	_
 11	Jesu	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	10	flat:name	_	_
 12	náði	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	8	obl	_	_
 13	á	_	ADP	P	_	15	case	_	_
@@ -6674,7 +6674,7 @@
 46	mega	_	AUX	MDPI	Mood=Ind|Tense=Pres	47	aux	_	_
 47	leita	_	VERB	VB	VerbForm=Inf	31	obl	_	_
 48	til	_	ADP	P	_	49	case	_	_
-49	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	47	obl	_	SpaceAfter=No
+49	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	47	obl	_	SpaceAfter=No
 50	,	,	PUNCT	.	_	49	punct	_	_
 51	og	_	CCONJ	CONJ	_	54	cc	_	_
 52	öll	_	DET	Q-N	Case=Nom	54	amod	_	_
@@ -7185,7 +7185,7 @@
 14	mongum	_	DET	Q-D	Case=Dat	11	obl	_	_
 15	öðrum	_	PRON	OTHERS-D	Case=Dat	14	det	_	_
 16	orð	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	11	obj	_	_
-17	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	16	nmod:poss	_	SpaceAfter=No
+17	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	16	nmod:poss	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.221-test
@@ -7223,7 +7223,7 @@
 30	vit	_	PRON	PRO-N	Case=Nom	31	nsubj	_	_
 31	boðaðu	_	VERB	VBDI	Mood=Ind|Tense=Past	26	acl:relcl	_	_
 32	orð	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	31	obj	_	_
-33	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	32	nmod:poss	_	SpaceAfter=No
+33	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	32	nmod:poss	_	SpaceAfter=No
 34	,	,	PUNCT	,	_	33	punct	_	_
 35	fyri	_	ADP	P	_	37	case	_	_
 36	at	_	PART	TO	_	37	mark	_	_
@@ -7328,7 +7328,7 @@
 11	givin	_	VERB	VAN	Tense=Past|VerbForm=Part	7	advcl	_	_
 12	upp	_	ADP	RP	_	11	compound:prt	_	_
 13	í	_	ADP	P	_	15	case	_	_
-14	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	15	nmod:poss	_	_
+14	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	15	nmod:poss	_	_
 15	náði	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	11	obl	_	_
 16	av	_	ADP	P	_	17	case	_	_
 17	bröðrunum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	11	obl	_	SpaceAfter=No
@@ -8346,7 +8346,7 @@
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
 2	teir	_	PRON	PRO-N	Case=Nom	3	nsubj	_	_
 3	talaðu	_	VERB	VBI	Mood=Imp	0	root	_	_
-4	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	5	nmod:poss	_	_
+4	Harrans	_	PROPN	NPR-G	Case=Gen|Definite=Def|Number=Sing	5	nmod:poss	_	_
 5	orð	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	3	obj	_	_
 6	fyri	_	ADP	P	_	7	case	_	_
 7	honum	_	PRON	PRO-D	Case=Dat	10	obl	_	_
@@ -8896,7 +8896,7 @@
 13	beint	_	ADV	ADV	Degree=Pos	14	advmod	_	_
 14	móti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	12	obl	_	_
 15	boðum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	14	nmod:poss	_	_
-16	keisarans	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	15	nmod:poss	_	SpaceAfter=No
+16	keisarans	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	15	nmod:poss	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	16	punct	_	_
 18	við	_	ADP	P	_	19	case	_	_
 19	tað	_	PRON	PRO-A	Case=Acc	12	obl	_	_
