@@ -26,7 +26,7 @@
 23	líka	_	ADV	ADV	Degree=Pos	26	advmod	_	_
 24	til	_	ADP	P	_	26	case	_	_
 25	tann	_	DET	D-A	Case=Acc	26	det	_	_
-26	dagin	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	15	obl	_	SpaceAfter=No
+26	dagin	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	15	obl	_	SpaceAfter=No
 27	,	,	PUNCT	,	_	26	punct	_	_
 28	tá	_	ADV	WADV	_	33	advmod	_	_
 29	ið	_	SCONJ	C	_	33	mark	_	_
@@ -41,7 +41,7 @@
 38	hann	_	PRON	PRO-N	Case=Nom	40	nsubj	_	_
 39	hevði	_	AUX	HVDI	Mood=Ind|Tense=Past	40	aux	_	_
 40	givið	_	VERB	VBN	Tense=Past|VerbForm=Part	36	ccomp	_	_
-41	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	40	iobj	_	SpaceAfter=No
+41	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	40	iobj	_	SpaceAfter=No
 42	,	,	PUNCT	,	_	41	punct	_	_
 43	sum	_	SCONJ	C	_	46	mark	_	_
 44	hann	_	PRON	PRO-N	Case=Nom	46	nsubj	_	_
@@ -187,7 +187,7 @@
 23	tíð	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	19	obl	_	_
 24	at	_	PART	TO	_	25	mark	_	_
 25	endurreisa	_	VERB	VB	VerbForm=Inf	19	acl	_	_
-26	ríkið	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	25	obj	_	_
+26	ríkið	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	25	obj	_	_
 27	fyri	_	ADP	P	_	28	case	_	_
 28	Ísrael	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	25	obl	_	SpaceAfter=No
 29	?	?	PUNCT	.	_	28	punct	_	SpaceAfter=No
@@ -214,7 +214,7 @@
 16	tímar	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	14	conj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	16	punct	_	_
 18	sum	_	SCONJ	C	_	21	mark	_	_
-19	faðirin	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	21	nsubj	_	_
+19	faðirin	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	21	nsubj	_	_
 20	hevur	_	AUX	HVPI	Mood=Ind|Tense=Pres	21	aux	_	_
 21	ásett	_	VERB	VBN	Tense=Past|VerbForm=Part	14	acl:relcl	_	_
 22	í	_	ADP	P	_	25	case	_	_
@@ -261,7 +261,7 @@
 33	ytstu	_	ADJ	ADJS-A	Case=Acc|Degree=Sup	34	amod	_	_
 34	endamark	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	21	conj	_	_
 35	á	_	ADP	P	_	36	case	_	_
-36	jörðini	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	34	obl	_	SpaceAfter=No
+36	jörðini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	34	obl	_	SpaceAfter=No
 37	.	.	PUNCT	.	_	36	punct	_	SpaceAfter=No
 38	"	_	PUNCT	"	_	37	punct	_	_
 
