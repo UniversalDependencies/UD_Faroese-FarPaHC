@@ -33,12 +33,13 @@
     <tag name="X">3</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="19">
-    <feat name="Case" value="Acc" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">4261</feat><!-- hann, tað, teir, meg, hetta, seg, teg, hvat, ein, tykkum -->
-    <feat name="Case" value="Dat" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">3207</feat><!-- tí, teimum, honum, tykkum, mær, sær, hesum, móti, tær, Guði -->
-    <feat name="Case" value="Gen" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN">1090</feat><!-- hansara, tykkara, teirra, Guðs, tess, Harrans, okkara, Jesu, sín, mín -->
-    <feat name="Case" value="Nom" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">5935</feat><!-- hann, eg, teir, tit, tú, Jesus, tað, vit, tann, ein -->
-    <feat name="Definite" value="Ind" upos="ADV,NOUN,PROPN">5963</feat><!-- Jesus, Guð, Pætur, Guðs, faðirin, orð, harri, móti, Jerúsalem, faðir -->
+  <feats unique="20">
+    <feat name="Case" value="Acc" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">4262</feat><!-- hann, tað, teir, meg, hetta, seg, teg, hvat, ein, tykkum -->
+    <feat name="Case" value="Dat" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">3206</feat><!-- tí, teimum, honum, tykkum, mær, sær, hesum, móti, tær, Guði -->
+    <feat name="Case" value="Gen" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN">1091</feat><!-- hansara, tykkara, teirra, Guðs, tess, Harrans, okkara, Jesu, sín, mín -->
+    <feat name="Case" value="Nom" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">5934</feat><!-- hann, eg, teir, tit, tú, Jesus, tað, vit, tann, ein -->
+    <feat name="Definite" value="Def" upos="NOUN,PROPN">1659</feat><!-- faðirin, Harrans, Jödarnir, fólkið, dagin, heiminum, orðið, harrin, heimin, heimurin -->
+    <feat name="Definite" value="Ind" upos="ADV,NOUN,PROPN">4304</feat><!-- Jesus, Guð, Pætur, Guðs, orð, harri, móti, Jerúsalem, faðir, Guði -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">171</feat><!-- eins, heldur, so, soleiðis, longur, störri, áðr, líka, enn, fyrr -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV">2161</feat><!-- tá, nú, har, aftur, so, saman, sanniliga, burtur, eftir, soleiðis -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">42</feat><!-- elstu, evsta, fyrst, næsta, ytstu, elstar, evstu, frelstur, fyrstir, fyrstur -->
@@ -47,8 +48,8 @@
     <feat name="Mood" value="Imp" upos="AUX,VERB">261</feat><!-- sí, far, statt, kom, latum, trúgvið, Takið, gev, latið, sig -->
     <feat name="Mood" value="Ind" upos="ADV,AUX,VERB">5188</feat><!-- er, var, segði, hevur, skal, sigur, hevði, sögdu, skulu, vóru -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">96</feat><!-- skuldi, skuldu, veri, mundi, kenni, komi, legði, verði, bjóði, drekki -->
-    <feat name="Number" value="Plur" upos="ADV,NOUN,PROPN">1212</feat><!-- menn, Jödarnir, lærusveinar, orð, bröður, dagar, tekin, gerningar, lærusveinarnir, lærusveinum -->
-    <feat name="Number" value="Sing" upos="NOUN,PRON,PROPN">4770</feat><!-- Jesus, Guð, Pætur, Guðs, faðirin, harri, móti, Jerúsalem, faðir, Guði -->
+    <feat name="Number" value="Plur" upos="ADV,NOUN,PROPN">1211</feat><!-- menn, Jödarnir, lærusveinar, orð, bröður, dagar, tekin, gerningar, lærusveinarnir, lærusveinum -->
+    <feat name="Number" value="Sing" upos="NOUN,PRON,PROPN">4771</feat><!-- Jesus, Guð, Pætur, Guðs, faðirin, harri, móti, Jerúsalem, faðir, Guði -->
     <feat name="Tense" value="Past" upos="ADV,AUX,VERB">3712</feat><!-- var, segði, hevði, sögdu, fór, kom, varð, hövdu, svaraði, vóru -->
     <feat name="Tense" value="Pres" upos="ADV,AUX,VERB">2550</feat><!-- er, hevur, skal, sigur, skulu, eri, eru, hava, havi, kemur -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">914</feat><!-- verða, koma, vera, fara, fáa, taka, siga, síggja, tala, halda -->

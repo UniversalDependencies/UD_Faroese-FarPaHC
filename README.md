@@ -96,6 +96,10 @@ This project is funded by The Icelandic Student Innovation Fund, grant no. 20645
 
 # Changelog
 
+* 2023-05-15 v2.12
+  * Systematically added definiteness to nouns where missing.
+* 2022-11-15 v2.11
+  * Validation syntax errors.
 * 2021-11-15 v2.9
   * Modified sentence ids in dev and test to make them unique corpus-wide.
 * 2020-11-15 v2.7
