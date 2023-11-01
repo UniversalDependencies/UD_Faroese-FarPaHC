@@ -87,7 +87,7 @@ The UD morphological features in the corpus were converted from the FarPaHC PoS 
 
 # Acknowledgments
 
-This project is funded by The Icelandic Student Innovation Fund, grant no. 206457-0091. Thanks are due to Örvar Kárason, whose previous work was used as a basis for the conversion.
+This project was funded by The Icelandic Student Innovation Fund, grant no. 206457-0091. Thanks are due to Örvar Kárason, whose previous work was used as a basis for the conversion.
 
 ## References
 
