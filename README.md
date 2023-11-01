@@ -89,6 +89,8 @@ The UD morphological features in the corpus were converted from the FarPaHC PoS 
 
 This project was funded by The Icelandic Student Innovation Fund, grant no. 206457-0091. Thanks are due to Örvar Kárason, whose previous work was used as a basis for the conversion.
 
+The Faroese Parsed Historical Corpus (FarPaHC) is available at https://repository.clarin.is/repository/xmlui/handle/20.500.12537/92.
+
 ## References
 
 ```
