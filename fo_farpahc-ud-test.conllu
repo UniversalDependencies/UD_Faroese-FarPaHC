@@ -902,7 +902,7 @@
 18	hevði	_	AUX	HVDI	Mood=Ind|Tense=Past	19	aux	_	_
 19	sæð	_	VERB	VBN	Tense=Past|VerbForm=Part	14	acl:relcl	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	22	punct	_	_
-21	mundi	_	AUX	MDDS	Mood=Sub|Tense=Past	22	aux	_	_
+21	mundi	_	AUX	MDDI	Mood=Ind|Tense=Past	22	aux	_	_
 22	hava	_	AUX	HV	VerbForm=Inf	8	obl	_	_
 23	at	_	PART	TO	_	24	mark	_	_
 24	týða	_	VERB	VB	VerbForm=Inf	22	xcomp	_	SpaceAfter=No
@@ -1084,7 +1084,7 @@
 37	,	,	PUNCT	,	_	36	punct	_	_
 38	at	_	SCONJ	C	_	41	mark	_	_
 39	hann	_	PRON	PRO-N	Case=Nom	41	nsubj	_	_
-40	skuldi	_	AUX	MDDS	Mood=Sub|Tense=Past	41	aux	_	_
+40	skuldi	_	AUX	MDDI	Mood=Ind|Tense=Past	41	aux	_	_
 41	heimta	_	VERB	VB	VerbForm=Inf	30	ccomp	_	_
 42	teg	_	PRON	PRO-A	Case=Acc	41	obj	_	_
 43	heim	_	ADV	ADV	Degree=Pos	41	advmod	_	_
@@ -1919,7 +1919,7 @@
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	at	_	SCONJ	C	_	9	mark	_	_
 6	tey	_	PRON	PRO-N	Case=Nom	9	nsubj	_	_
-7	skuldu	_	AUX	MDDS	Mood=Sub|Tense=Past	9	aux	_	_
+7	skuldu	_	AUX	MDDI	Mood=Ind|Tense=Past	9	aux	_	_
 8	verða	_	AUX	RD	VerbForm=Inf	9	aux	_	_
 9	doypt	_	VERB	VAN	Tense=Past|VerbForm=Part	3	ccomp	_	_
 10	í	_	ADP	P	_	11	case	_	_
@@ -2253,7 +2253,7 @@
 7	at	_	SCONJ	C	_	11	mark	_	_
 8	eg	_	PRON	PRO-N	Case=Nom	11	nsubj	_	_
 9	ikki	_	ADV	NEG	_	11	advmod	_	_
-10	skuldi	_	AUX	MDDS	Mood=Sub|Tense=Past	11	aux	_	_
+10	skuldi	_	AUX	MDDI	Mood=Ind|Tense=Past	11	aux	_	_
 11	ivast	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 12	í	_	ADP	P	_	14	case	_	_
 13	at	_	PART	TO	_	14	mark	_	_
@@ -2433,7 +2433,7 @@
 27	,	,	PUNCT	,	_	26	punct	_	_
 28	at	_	SCONJ	C	_	32	mark	_	_
 29	eg	_	PRON	PRO-N	Case=Nom	32	nsubj	_	_
-30	skuldi	_	AUX	MDDS	Mood=Sub|Tense=Past	32	aux	_	_
+30	skuldi	_	AUX	MDDI	Mood=Ind|Tense=Past	32	aux	_	_
 31	vera	_	AUX	BE	VerbForm=Inf	32	cop	_	_
 32	mentur	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 33	at	_	PART	TO	_	34	mark	_	_
@@ -2768,7 +2768,7 @@
 17	at	_	SCONJ	C	_	21	mark	_	_
 18	stór	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	19	amod	_	_
 19	hungursneyð	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	21	nsubj	_	_
-20	skuldi	_	AUX	MDDS	Mood=Sub|Tense=Past	21	aux	_	_
+20	skuldi	_	AUX	MDDI	Mood=Ind|Tense=Past	21	aux	_	_
 21	koma	_	VERB	VB	VerbForm=Inf	12	obl	_	_
 22	yvir	_	ADP	P	_	24	case	_	_
 23	allan	_	DET	Q-A	Case=Acc	24	amod	_	_
@@ -2803,7 +2803,7 @@
 13	eftir	_	ADP	P	_	15	case	_	_
 14	sínum	_	PRON	PRO-D	Case=Dat	15	nmod:poss	_	_
 15	förimuni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	17	obl	_	_
-16	skuldi	_	AUX	MDDS	Mood=Sub|Tense=Past	17	aux	_	_
+16	skuldi	_	AUX	MDDI	Mood=Ind|Tense=Past	17	aux	_	_
 17	senda	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 18	bröðrunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	17	iobj	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	18	punct	_	_
@@ -3551,7 +3551,7 @@
 21	,	,	PUNCT	,	_	20	punct	_	_
 22	at	_	SCONJ	C	_	26	mark	_	_
 23	teir	_	PRON	PRO-N	Case=Nom	26	nsubj	_	_
-24	skuldu	_	AUX	MDDS	Mood=Sub|Tense=Past	26	aux	_	_
+24	skuldu	_	AUX	MDDI	Mood=Ind|Tense=Past	26	aux	_	_
 25	verða	_	AUX	RD	VerbForm=Inf	26	aux	_	_
 26	dripnir	_	VERB	VAN	Tense=Past|VerbForm=Part	20	ccomp	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
@@ -4629,7 +4629,7 @@
 15	,	,	PUNCT	,	_	14	punct	_	_
 16	at	_	SCONJ	C	_	20	mark	_	_
 17	hann	_	PRON	PRO-N	Case=Nom	20	nsubj	_	_
-18	skuldi	_	AUX	MDDS	Mood=Sub|Tense=Past	20	aux	_	_
+18	skuldi	_	AUX	MDDI	Mood=Ind|Tense=Past	20	aux	_	_
 19	verða	_	AUX	RD	VerbForm=Inf	20	aux	_	_
 20	dipin	_	VERB	VAN	Tense=Past|VerbForm=Part	11	obl	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	_
@@ -6228,7 +6228,7 @@
 33	aðrir	_	PRON	OTHERS-N	Case=Nom	32	det	_	_
 34	av	_	ADP	P	_	35	case	_	_
 35	teimum	_	PRON	PRO-D	Case=Dat	32	obl	_	_
-36	skuldu	_	AUX	MDDS	Mood=Sub|Tense=Past	37	aux	_	_
+36	skuldu	_	AUX	MDDI	Mood=Ind|Tense=Past	37	aux	_	_
 37	fara	_	VERB	VB	VerbForm=Inf	23	ccomp	_	_
 38	niðan	_	ADV	ADV	Degree=Pos	37	advmod	_	_
 39	til	_	ADP	P	_	40	case	_	_
@@ -6413,7 +6413,7 @@
 39	av	_	ADP	P	_	40	case	_	_
 40	munni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	43	obl	_	_
 41	mínum	_	PRON	PRO-D	Case=Dat	40	nmod:poss	_	_
-42	skuldu	_	AUX	MDDS	Mood=Sub|Tense=Past	43	aux	_	_
+42	skuldu	_	AUX	MDDI	Mood=Ind|Tense=Past	43	aux	_	_
 43	hoyra	_	VERB	VB	VerbForm=Inf	31	ccomp	_	_
 44	orð	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	43	obj	_	_
 45	gleðiboðskaparins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	44	nmod:poss	_	_
@@ -7263,7 +7263,7 @@
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	at	_	SCONJ	C	_	9	mark	_	_
 7	teir	_	PRON	PRO-N	Case=Nom	9	nsubj	_	_
-8	skuldu	_	AUX	MDDS	Mood=Sub|Tense=Past	9	aux	_	_
+8	skuldu	_	AUX	MDDI	Mood=Ind|Tense=Past	9	aux	_	_
 9	taka	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 10	hann	_	PRON	PRO-A	Case=Acc	9	obj	_	_
 11	við	_	ADP	RP	_	9	compound:prt	_	SpaceAfter=No
@@ -7736,7 +7736,7 @@
 19	at	_	SCONJ	C	_	22	mark	_	_
 20	ein	_	DET	ONE-N	Case=Nom	21	det	_	_
 21	bönahaldsstaður	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	22	nsubj	_	_
-22	mundi	_	AUX	MDDS	Mood=Sub|Tense=Past	17	ccomp	_	_
+22	mundi	_	AUX	MDDI	Mood=Ind|Tense=Past	17	ccomp	_	_
 23	vera	_	AUX	BE	VerbForm=Inf	22	cop	_	SpaceAfter=No
 24	,	,	PUNCT	.	_	23	punct	_	_
 25	og	_	CCONJ	CONJ	_	27	cc	_	_
@@ -8079,7 +8079,7 @@
 15	,	,	PUNCT	,	_	14	punct	_	_
 16	at	_	SCONJ	C	_	20	mark	_	_
 17	teir	_	PRON	PRO-N	Case=Nom	20	nsubj	_	_
-18	skuldu	_	AUX	MDDS	Mood=Sub|Tense=Past	20	aux	_	_
+18	skuldu	_	AUX	MDDI	Mood=Ind|Tense=Past	20	aux	_	_
 19	verða	_	AUX	RD	VerbForm=Inf	20	aux	_	_
 20	bardir	_	VERB	VAN	Tense=Past|VerbForm=Part	14	ccomp	_	_
 21	við	_	ADP	P	_	22	case	_	_
@@ -9098,7 +9098,7 @@
 11	,	,	PUNCT	,	_	10	punct	_	_
 12	at	_	SCONJ	C	_	15	mark	_	_
 13	hann	_	PRON	PRO-N	Case=Nom	15	nsubj	_	_
-14	skuldi	_	AUX	MDDS	Mood=Sub|Tense=Past	15	aux	_	_
+14	skuldi	_	AUX	MDDI	Mood=Ind|Tense=Past	15	aux	_	_
 15	halda	_	VERB	VB	VerbForm=Inf	5	advcl	_	_
 16	leiðini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	15	obj	_	_
 17	líka	_	ADV	ADV	Degree=Pos	19	advmod	_	_
@@ -9150,7 +9150,7 @@
 29	teir	_	PRON	PRO-N	Case=Nom	33	nsubj	_	_
 30	sum	_	ADV	C	_	33	advmod	_	_
 31	skjótast	_	ADV	ADVS	Degree=Sup	30	acl	_	_
-32	skuldu	_	AUX	MDDS	Mood=Sub|Tense=Past	33	aux	_	_
+32	skuldu	_	AUX	MDDI	Mood=Ind|Tense=Past	33	aux	_	_
 33	koma	_	VERB	VB	VerbForm=Inf	19	ccomp	_	_
 34	til	_	ADP	P	_	35	case	_	_
 35	hansara	_	PRON	PRO-G	Case=Gen	33	obl	_	SpaceAfter=No
@@ -9523,7 +9523,7 @@
 39	sum	_	SCONJ	C	_	41	mark	_	_
 40	at	_	SCONJ	C	_	39	fixed	_	_
 41	honum	_	PRON	PRO-D	Case=Dat	35	advcl	_	_
-42	skuldi	_	AUX	MDDS	Mood=Sub|Tense=Past	41	aux	_	_
+42	skuldi	_	AUX	MDDI	Mood=Ind|Tense=Past	41	aux	_	_
 43	verið	_	AUX	BEN	Tense=Past|VerbForm=Part	41	cop	_	_
 44	törvur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	41	obj	_	_
 45	á	_	ADP	P	_	46	case	_	_
@@ -9573,7 +9573,7 @@
 25	so	_	ADP	P	_	29	case	_	_
 26	at	_	SCONJ	C	_	29	mark	_	_
 27	tey	_	PRON	PRO-N	Case=Nom	29	nsubj	_	_
-28	skuldu	_	AUX	MDDS	Mood=Sub|Tense=Past	29	aux	_	_
+28	skuldu	_	AUX	MDDI	Mood=Ind|Tense=Past	29	aux	_	_
 29	leita	_	VERB	VB	VerbForm=Inf	15	obl	_	_
 30	eftir	_	ADP	P	_	31	case	_	_
 31	Guði	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	29	obl	_	SpaceAfter=No

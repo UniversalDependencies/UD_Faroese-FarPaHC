@@ -46,8 +46,8 @@
     <feat name="Foreign" value="Yes" upos="X">3</feat><!-- Hosianna, Rabbuni, aloe -->
     <feat name="Gender" value="Neut" upos="PRON">19</feat><!-- tað -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">261</feat><!-- sí, far, statt, kom, latum, trúgvið, Takið, gev, latið, sig -->
-    <feat name="Mood" value="Ind" upos="ADV,AUX,VERB">5188</feat><!-- er, var, segði, hevur, skal, sigur, hevði, sögdu, skulu, vóru -->
-    <feat name="Mood" value="Sub" upos="AUX,VERB">96</feat><!-- skuldi, skuldu, veri, mundi, kenni, komi, legði, verði, bjóði, drekki -->
+    <feat name="Mood" value="Ind" upos="ADV,AUX,VERB">5266</feat><!-- er, var, segði, hevur, skal, sigur, hevði, sögdu, skulu, vóru -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">18</feat><!-- veri, komi, verði, drekki, fylgi, föri, kasti, lati, ræðist, óttist -->
     <feat name="Number" value="Plur" upos="ADV,NOUN,PROPN">1211</feat><!-- menn, Jödarnir, lærusveinar, orð, bröður, dagar, tekin, gerningar, lærusveinarnir, lærusveinum -->
     <feat name="Number" value="Sing" upos="NOUN,PRON,PROPN">4771</feat><!-- Jesus, Guð, Pætur, Guðs, faðirin, harri, móti, Jerúsalem, faðir, Guði -->
     <feat name="Tense" value="Past" upos="ADV,AUX,VERB">3712</feat><!-- var, segði, hevði, sögdu, fór, kom, varð, hövdu, svaraði, vóru -->
