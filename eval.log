@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Faroese-FarPaHC:
-commit 3cce28ab4bd2c86a53b165ea5a44abe0a11c4f1e
-Merge: 3e11d17 a5d7036
+commit acd5a43b75f1e878868350c3e7d12f5f843b70f5
+Merge: e620ba1 b51ae7f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 40484 of 40484 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.40181366865331.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      12953
-Udapi: found 12953 bugs.
+               TOTAL      11887
+Udapi: found 11887 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 40484 words.
 Genres: found 3 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fo --max-err=10 UD_Faroese-FarPaHC/fo_farpahc-ud-dev.conllu
@@ -29,6 +29,8 @@ Genres: found 3 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fo --max-err=10 UD_Faroese-FarPaHC/fo_farpahc-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang fo --max-err=10 UD_Faroese-FarPaHC/fo_farpahc-ud-train.conllu
+[Line 24946 Sent 1936.NTJOHN.REL-BIB,.934 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+Warnings: 1
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
