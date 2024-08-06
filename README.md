@@ -19,7 +19,7 @@ UD_Faroese-FarPaHC consists of two Faroese texts:
       Author:      Jákup Dahl
       Birthdate:   1878, died 1944 on his birthday, 5 June
       TextId:      ntacts
-      Textname:    Ápostlasögan (Acts of the Apostles)[Originally published in Varðin 8, 1928, 
+      Textname:    Ápostlasögan (Acts of the Apostles)[Originally published by Felagið Varðin, Tórshavn, 1928, 
                    as Ápostlasögan og hini almennu brævini (Acts of the Apostles and the Letters)]
       Edition:     "1937. Nýggja Testamenti. [The New Testament]
                    Givið út hevur Det danske Bibelselskab. [Published by the Danish Bible Society]
@@ -36,7 +36,7 @@ UD_Faroese-FarPaHC consists of two Faroese texts:
 	  Author:       Jákup Dahl
 	  Birthdate:    1878, died 1944 on his birthday, 5 June
 	  TextId:       ntjohn
-	  Textname:     Evangeliið eftir Jóhannes, (Gospel of St. John) [Originally published in Varðin 16, 1936.]
+	  Textname:     Evangeliið eftir Jóhannes, (Gospel of St. John) [Originally published by Varðin, 1936.]
 	  Edition:      "1937. Nýggja Testamenti. [The New Testament] 
 	                Givið út hevur Det danske Bibelselskab. [Published by the Danish Bible Society] 
 	                P. Haase og söns boghandel, Keypmannahavn. [Copenhagen]"
