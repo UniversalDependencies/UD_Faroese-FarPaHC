@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Faroese-FarPaHC:
-commit acd5a43b75f1e878868350c3e7d12f5f843b70f5
-Merge: e620ba1 b51ae7f
+commit 8c3d9159a46282cfb90535c1af11d652eb4d575b
+Merge: 9d69eb0 6e54dc0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 40484 of 40484 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.40181366865331.
