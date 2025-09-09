@@ -133,6 +133,7 @@ The Faroese Parsed Historical Corpus (FarPaHC) is available at https://repositor
 Data available since: UD v2.7
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: fiction bible nonfiction
 Lemmas: converted from manual
 UPOS: converted from manual
