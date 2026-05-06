@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Faroese-FarPaHC:
-commit 7b023e8de1c783dd802ace94a908d08f85b1b004
-Merge: 65e3d0a 3579b72
+commit 99b754eb30e7ea87142f047df2af75785686ad9d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 19:23:41 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'fo_farpahc'
 Language code (from CoNLL-U file name) = 'fo'
@@ -25,67 +25,88 @@ Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fo --max-err=10 UD_Faroese-FarPaHC/fo_farpahc-ud-dev.conllu
-[Line 4 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 Warning pron-det-without-prontype] The word 'Hina' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 8 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 Warning pron-det-without-prontype] The word 'eg' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 13 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 Warning pron-det-without-prontype] The word 'alt' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 14 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 Warning pron-det-without-prontype] The word 'tað' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 28 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 Warning pron-det-without-prontype] The word 'tann' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 33 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 Warning pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 39 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 Warning pron-det-without-prontype] The word 'tað' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 41 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 Warning pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 47 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 Warning pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 56 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 Warning pron-det-without-prontype] The word 'teimum' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 6701 Sent 1928.NTACTS.REL-BIB,.187-dev]: [L3 Syntax too-many-objects] Multiple direct objects [17, 20] ('Hvör', 'teg') under the predicate 'sett'.
-[Line 6947 Sent 1928.NTACTS.REL-BIB,.197-dev]: [L3 Syntax too-many-objects] Multiple direct objects [15, 18] ('Hvör', 'teg') under the predicate 'sett'.
-Syntax errors: 2
-Warnings: 1634
-*** FAILED *** with 2 errors
+[Line 4 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 WARNING pron-det-without-prontype] The word 'Hina' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 8 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 WARNING pron-det-without-prontype] The word 'eg' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 13 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 WARNING pron-det-without-prontype] The word 'alt' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 14 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 WARNING pron-det-without-prontype] The word 'tað' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 28 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 WARNING pron-det-without-prontype] The word 'tann' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 33 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 WARNING pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 39 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 WARNING pron-det-without-prontype] The word 'tað' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 41 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 WARNING pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 47 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 WARNING pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 56 Sent 1928.NTACTS.REL-BIB,.1-dev]: [L3 WARNING pron-det-without-prontype] The word 'teimum' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 476 Sent 1928.NTACTS.REL-BIB,.11-dev]: [L3 SYNTAX obl-should-be-nmod] The parent (node [20] 'bröðrum') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 511 Sent 1928.NTACTS.REL-BIB,.12-dev]: [L3 SYNTAX obl-should-be-nmod] The parent (node [18] 'flokkur') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 775 Sent 1928.NTACTS.REL-BIB,.18-dev]: [L3 SYNTAX obl-should-be-nmod] The parent (node [15] 'hjörtuni') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 783 Sent 1928.NTACTS.REL-BIB,.18-dev]: [L3 SYNTAX obl-should-be-nmod] The parent (node [22] 'hvönn') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 793 Sent 1928.NTACTS.REL-BIB,.18-dev]: [L3 SYNTAX obl-should-be-nmod] The parent (node [32] 'lut') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 961 Sent 1928.NTACTS.REL-BIB,.23-dev]: [L3 SYNTAX obl-should-be-nmod] The parent (node [17] 'tjóðum') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1314 Sent 1928.NTACTS.REL-BIB,.33-dev]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'trælkvinnur') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1427 Sent 1928.NTACTS.REL-BIB,.38-dev]: [L3 SYNTAX obl-should-be-nmod] The parent (node [1] 'Jesus') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1630 Sent 1928.NTACTS.REL-BIB,.41-dev]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'menn') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1662 Sent 1928.NTACTS.REL-BIB,.41-dev]: [L3 SYNTAX obl-should-be-nmod] The parent (node [34] 'dagin') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 2546 Sent 1928.NTACTS.REL-BIB,.68-dev]: [L3 WARNING fixed-without-extpos] Fixed expression 'sum at' does not have the 'ExtPos' feature
+Warnings: 1538
+SYNTAX errors: 93
+*** FAILED *** with 93 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang fo --max-err=10 UD_Faroese-FarPaHC/fo_farpahc-ud-test.conllu
-[Line 5 Sent 1928.NTACTS.REL-BIB,.1-test]: [L3 Warning pron-det-without-prontype] The word 'tað' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 15 Sent 1928.NTACTS.REL-BIB,.1-test]: [L3 Warning pron-det-without-prontype] The word 'allar' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 19 Sent 1928.NTACTS.REL-BIB,.1-test]: [L3 Warning pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 24 Sent 1928.NTACTS.REL-BIB,.1-test]: [L3 Warning pron-det-without-prontype] The word 'hini' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 39 Sent 1928.NTACTS.REL-BIB,.2-test]: [L3 Warning pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 40 Sent 1928.NTACTS.REL-BIB,.2-test]: [L3 Warning pron-det-without-prontype] The word 'ein' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 45 Sent 1928.NTACTS.REL-BIB,.2-test]: [L3 Warning obl-should-be-nmod] The parent (node [6] 'mann') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 58 Sent 1928.NTACTS.REL-BIB,.2-test]: [L3 Warning pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 69 Sent 1928.NTACTS.REL-BIB,.3-test]: [L3 Warning pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 77 Sent 1928.NTACTS.REL-BIB,.3-test]: [L3 Warning pron-det-without-prontype] The word 'teg' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 5944 Sent 1928.NTACTS.REL-BIB,.186-test]: [L3 Syntax too-many-objects] Multiple direct objects [7, 13] ('gleðiboðskapin', 'nógv') under the predicate 'boðað'.
-[Line 8636 Sent 1928.NTACTS.REL-BIB,.271-test]: [L3 Syntax too-many-objects] Multiple direct objects [23, 27] ('bröðurnar', 'áminningar') under the predicate 'hitt'.
-Syntax errors: 2
-Warnings: 1507
-*** FAILED *** with 2 errors
+[Line 5 Sent 1928.NTACTS.REL-BIB,.1-test]: [L3 WARNING pron-det-without-prontype] The word 'tað' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 15 Sent 1928.NTACTS.REL-BIB,.1-test]: [L3 WARNING pron-det-without-prontype] The word 'allar' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 19 Sent 1928.NTACTS.REL-BIB,.1-test]: [L3 WARNING pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 24 Sent 1928.NTACTS.REL-BIB,.1-test]: [L3 WARNING pron-det-without-prontype] The word 'hini' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 39 Sent 1928.NTACTS.REL-BIB,.2-test]: [L3 WARNING pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 40 Sent 1928.NTACTS.REL-BIB,.2-test]: [L3 WARNING pron-det-without-prontype] The word 'ein' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 45 Sent 1928.NTACTS.REL-BIB,.2-test]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'mann') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 58 Sent 1928.NTACTS.REL-BIB,.2-test]: [L3 WARNING pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 69 Sent 1928.NTACTS.REL-BIB,.3-test]: [L3 WARNING pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 77 Sent 1928.NTACTS.REL-BIB,.3-test]: [L3 WARNING pron-det-without-prontype] The word 'teg' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 86 Sent 1928.NTACTS.REL-BIB,.3-test]: [L3 WARNING pron-det-without-prontype] The word 'tær' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 391 Sent 1928.NTACTS.REL-BIB,.15-test]: [L3 SYNTAX obl-should-be-nmod] The parent (node [19] 'einkjurnar') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 508 Sent 1928.NTACTS.REL-BIB,.19-test]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'nóntíð') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 572 Sent 1928.NTACTS.REL-BIB,.21-test]: [L3 SYNTAX obl-should-be-nmod] The parent (node [17] 'áminnilsi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 638 Sent 1928.NTACTS.REL-BIB,.23-test]: [L3 SYNTAX obl-should-be-nmod] The parent (node [24] 'hermann') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 648 Sent 1928.NTACTS.REL-BIB,.23-test]: [L3 SYNTAX obl-should-be-nmod] The parent (node [24] 'hermann') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 769 Sent 1928.NTACTS.REL-BIB,.26-test]: [L3 SYNTAX obl-should-be-nmod] The parent (node [48] 'djór') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 926 Sent 1928.NTACTS.REL-BIB,.32-test]: [L3 SYNTAX obl-should-be-nmod] The parent (node [40] 'húsini') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1139 Sent 1928.NTACTS.REL-BIB,.38-test]: [L3 SYNTAX obl-should-be-nmod] The parent (node [16] 'bröðrunum') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1200 Sent 1928.NTACTS.REL-BIB,.41-test]: [L3 SYNTAX obl-should-be-nmod] The parent (node [21] 'honum') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 9523 Sent 1928.NTACTS.REL-BIB,.295-test]: [L3 WARNING fixed-without-extpos] Fixed expression 'sum at' does not have the 'ExtPos' feature
+Warnings: 1408
+SYNTAX errors: 100
+*** FAILED *** with 100 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang fo --max-err=10 UD_Faroese-FarPaHC/fo_farpahc-ud-train.conllu
-[Line 24 Sent 1936.NTJOHN.REL-BIB,.2]: [L3 Warning pron-det-without-prontype] The word 'Hetta' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 35 Sent 1936.NTJOHN.REL-BIB,.3]: [L3 Warning pron-det-without-prontype] The word 'Allir' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 41 Sent 1936.NTJOHN.REL-BIB,.3]: [L3 Warning pron-det-without-prontype] The word 'tí' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 45 Sent 1936.NTJOHN.REL-BIB,.3]: [L3 Warning pron-det-without-prontype] The word 'tað' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 47 Sent 1936.NTJOHN.REL-BIB,.3]: [L3 Warning pron-det-without-prontype] The word 'einki' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 50 Sent 1936.NTJOHN.REL-BIB,.3]: [L3 Warning pron-det-without-prontype] The word 'tí' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 62 Sent 1936.NTJOHN.REL-BIB,.4]: [L3 Warning pron-det-without-prontype] The word 'tí' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 87 Sent 1936.NTJOHN.REL-BIB,.5]: [L3 Warning pron-det-without-prontype] The word 'tí' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 100 Sent 1936.NTJOHN.REL-BIB,.6]: [L3 Warning pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 108 Sent 1936.NTJOHN.REL-BIB,.7]: [L3 Warning pron-det-without-prontype] The word 'Hesin' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 11367 Sent 1936.NTJOHN.REL-BIB,.420]: [L3 Syntax too-many-objects] Multiple direct objects [1, 5] ('Hvönn', 'sjálvan') under the predicate 'gert'.
-[Line 12253 Sent 1936.NTJOHN.REL-BIB,.456]: [L3 Syntax too-many-objects] Multiple direct objects [36, 40] ('hvör', 'eygu') under the predicate 'opnað'.
-[Line 13553 Sent 1936.NTJOHN.REL-BIB,.512]: [L3 Syntax too-many-objects] Multiple direct objects [12, 16] ('leingi', 'sál') under the predicate 'halda'.
-[Line 14063 Sent 1936.NTJOHN.REL-BIB,.531]: [L3 Syntax too-many-objects] Multiple direct objects [8, 13] ('Harran', 'fötur') under the predicate 'salvaði'.
-[Line 14601 Sent 1936.NTJOHN.REL-BIB,.552]: [L3 Syntax too-many-objects] Multiple direct objects [8, 12] ('hvat', 'Guð') under the predicate 'biður'.
-[Line 16117 Sent 1936.NTJOHN.REL-BIB,.602]: [L3 Syntax too-many-objects] Multiple direct objects [15, 21] ('Lázarus', 'hann') under the predicate 'kallað'.
-[Line 16804 Sent 1936.NTJOHN.REL-BIB,.634]: [L3 Syntax too-many-objects] Multiple direct objects [4, 6] ('hvör', 'tí') under the predicate 'trúði'.
-[Line 17537 Sent 1936.NTJOHN.REL-BIB,.656]: [L3 Syntax too-many-objects] Multiple direct objects [7, 11] ('fötur', 'seg') under the predicate 'tváað'.
-[Line 19952 Sent 1936.NTJOHN.REL-BIB,.747]: [L3 Syntax too-many-objects] Multiple direct objects [45, 49] ('hvat', 'hann') under the predicate 'biðja'.
-[Line 21045 Sent 1936.NTJOHN.REL-BIB,.788]: [L3 Syntax too-many-objects] Multiple direct objects [8, 12] ('Hvat', 'faðirin') under the predicate 'biðja'.
-...suppressing further errors regarding Syntax
-Syntax errors: 12
-Warnings: 4840
-*** FAILED *** with 12 errors
+[Line 24 Sent 1936.NTJOHN.REL-BIB,.2]: [L3 WARNING pron-det-without-prontype] The word 'Hetta' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 35 Sent 1936.NTJOHN.REL-BIB,.3]: [L3 WARNING pron-det-without-prontype] The word 'Allir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 41 Sent 1936.NTJOHN.REL-BIB,.3]: [L3 WARNING pron-det-without-prontype] The word 'tí' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 45 Sent 1936.NTJOHN.REL-BIB,.3]: [L3 WARNING pron-det-without-prontype] The word 'tað' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 47 Sent 1936.NTJOHN.REL-BIB,.3]: [L3 WARNING pron-det-without-prontype] The word 'einki' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 50 Sent 1936.NTJOHN.REL-BIB,.3]: [L3 WARNING pron-det-without-prontype] The word 'tí' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 62 Sent 1936.NTJOHN.REL-BIB,.4]: [L3 WARNING pron-det-without-prontype] The word 'tí' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 87 Sent 1936.NTJOHN.REL-BIB,.5]: [L3 WARNING pron-det-without-prontype] The word 'tí' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 100 Sent 1936.NTJOHN.REL-BIB,.6]: [L3 WARNING pron-det-without-prontype] The word 'hann' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 108 Sent 1936.NTJOHN.REL-BIB,.7]: [L3 WARNING pron-det-without-prontype] The word 'Hesin' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 1248 Sent 1936.NTJOHN.REL-BIB,.51]: [L3 SYNTAX obl-should-be-nmod] The parent (node [25] 'Jesus') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1479 Sent 1936.NTJOHN.REL-BIB,.61]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'Kána') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1591 Sent 1936.NTJOHN.REL-BIB,.67]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'vatnsker') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1595 Sent 1936.NTJOHN.REL-BIB,.67]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] 'reinsanarsiði') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1752 Sent 1936.NTJOHN.REL-BIB,.73]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'Kána') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1804 Sent 1936.NTJOHN.REL-BIB,.75]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'páskir') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2055 Sent 1936.NTJOHN.REL-BIB,.84]: [L3 SYNTAX obl-should-be-nmod] The parent (node [27] 'orði') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2282 Sent 1936.NTJOHN.REL-BIB,.91]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'lívið') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2386 Sent 1936.NTJOHN.REL-BIB,.95]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'dunið') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3269 Sent 1936.NTJOHN.REL-BIB,.122]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'bygd') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 21971 Sent 1936.NTJOHN.REL-BIB,.816]: [L3 WARNING fixed-without-extpos] Fixed expression 'eins og' does not have the 'ExtPos' feature
+Warnings: 4709
+SYNTAX errors: 139
+*** FAILED *** with 139 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
