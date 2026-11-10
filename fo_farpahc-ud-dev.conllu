@@ -473,7 +473,7 @@
 8	saman	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 9	við	_	ADP	P	_	11	case	_	_
 10	nökrum	_	DET	Q-D	Case=Dat	11	amod	_	_
-11	kvinnum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	20	obl	_	_
+11	kvinnum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	20	nmod	_	_
 12	og	_	CCONJ	CONJ	_	13	cc	_	_
 13	Mariu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	11	conj	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	_	_
@@ -508,7 +508,7 @@
 17	ein	_	DET	ONE-N	Case=Nom	18	det	_	_
 18	flokkur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	15	obl	_	_
 19	av	_	ADP	P	_	20	case	_	_
-20	monnum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	18	obl	_	_
+20	monnum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	18	nmod	_	_
 21	okkurt	_	DET	Q-N	Case=Nom	24	obl	_	_
 22	um	_	ADV	ADV	Degree=Pos	24	advmod	_	_
 23	stórt	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	24	amod	_	_
@@ -772,7 +772,7 @@
 14	kennir	_	VERB	VBPI	Mood=Ind|Tense=Pres	9	acl:relcl	_	_
 15	hjörtuni	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	14	obj	_	_
 16	á	_	ADP	P	_	17	case	_	_
-17	öllum	_	DET	Q-D	Case=Dat	15	obl	_	SpaceAfter=No
+17	öllum	_	DET	Q-D	Case=Dat	15	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	17	punct	_	_
 19	sýn	_	VERB	VBI	Mood=Imp	6	ccomp	_	_
 20	okkum	_	PRON	PRO-D	Case=Dat	19	iobj	_	SpaceAfter=No
@@ -780,7 +780,7 @@
 22	hvönn	_	PRON	WPRO-A	Case=Acc	28	obj	_	_
 23	av	_	ADP	P	_	25	case	_	_
 24	hesum	_	DET	D-D	Case=Dat	25	det	_	_
-25	tveimum	_	NUM	NUM-D	Case=Dat	22	obl	_	_
+25	tveimum	_	NUM	NUM-D	Case=Dat	22	nmod	_	_
 26	tú	_	PRON	PRO-N	Case=Nom	28	nsubj	_	_
 27	hevur	_	AUX	HVPI	Mood=Ind|Tense=Pres	28	aux	_	_
 28	valt	_	VERB	VBN	Tense=Past|VerbForm=Part	19	ccomp	_	_
@@ -790,7 +790,7 @@
 32	lut	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	31	obj	_	_
 33	í	_	ADP	P	_	35	case	_	_
 34	hesi	_	DET	D-D	Case=Dat	35	det	_	_
-35	tænastu	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	32	obl	_	_
+35	tænastu	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	32	nmod	_	_
 36	og	_	CCONJ	CONJ	_	37	cc	_	_
 37	ápostladömi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	35	conj	_	SpaceAfter=No
 38	,	,	PUNCT	,	_	37	punct	_	_
@@ -958,7 +958,7 @@
 16	öllum	_	DET	Q-D	Case=Dat	17	amod	_	_
 17	tjóðum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	9	obl	_	_
 18	undir	_	ADP	P	_	19	case	_	_
-19	himni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	17	obl	_	SpaceAfter=No
+19	himni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	17	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.24-dev
@@ -1311,7 +1311,7 @@
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	eisini	_	ADV	ALSO	_	5	advmod	_	_
 4	yvir	_	ADP	P	_	5	case	_	_
-5	trælir	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	9	obl	_	_
+5	trælir	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	9	nmod	_	_
 6	mínar	_	PRON	PRO-A	Case=Acc	5	nmod:poss	_	_
 7	og	_	CCONJ	CONJ	_	9	cc	_	_
 8	yvir	_	ADP	P	_	9	case	_	_
@@ -1424,7 +1424,7 @@
 # text = Jesus úr Nasaret, ein mann, sum av Guði var sannaður fyri tykkum við kraftargerningum og undurum og teknum, sum Guð læt hann gera tykkara millum, so sum tit sjálvir vita, hann, sum eftir Guðs fyriskipaða ráði og fyrivitan var vorðin givin upp, hava tit krossfest við vándra manna hondum og tikið av lívi; men hann reisti Guð upp, í tí hann lætti av deyðans ríðum, við tað at tað ikki var möguligt, at hann skuldi verða hildin av honum; tí at Dávid sigur viðvíkjandi honum: " Altíð hevði eg Harran fyri eygum mínum; tí at hann er við högru hond mína, til tess at eg ikki skal vikast.
 1	Jesus	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	52	obl	_	_
 2	úr	_	ADP	P	_	3	case	_	_
-3	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	1	obl	_	SpaceAfter=No
+3	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	ein	_	DET	ONE-A	Case=Acc	6	det	_	_
 6	mann	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	1	appos	_	SpaceAfter=No
@@ -1627,7 +1627,7 @@
 1	Góðu	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	2	amod	_	_
 2	menn	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	8	vocative	_	_
 3	og	_	CCONJ	CONJ	_	2	cc	_	_
-4	bröður	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	2	obl	_	SpaceAfter=No
+4	bröður	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	2	nmod	_	SpaceAfter=No
 5	!	!	PUNCT	.	_	8	punct	_	_
 6	Eg	_	PRON	PRO-N	Case=Nom	8	nsubj	_	_
 7	kann	_	AUX	MDPI	Mood=Ind|Tense=Pres	8	aux	_	_
@@ -1659,7 +1659,7 @@
 33	til	_	ADP	P	_	34	case	_	_
 34	dagin	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	26	obl	_	_
 35	í	_	ADP	P	_	36	case	_	_
-36	dag	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	34	obl	_	SpaceAfter=No
+36	dag	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	34	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	.	_	36	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.42-dev
@@ -1688,7 +1688,7 @@
 21	av	_	ADP	P	_	22	case	_	_
 22	fruktini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	20	obl	_	_
 23	úr	_	ADP	P	_	24	case	_	_
-24	lendum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	22	obl	_	_
+24	lendum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	22	nmod	_	_
 25	hansara	_	PRON	PRO-G	Case=Gen	24	nmod:poss	_	_
 26	í	_	ADP	P	_	27	case	_	_
 27	hásæti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	19	obl	_	_
@@ -2015,7 +2015,7 @@
 14	tann	_	DET	D-A	Case=Acc	15	det	_	_
 15	dagin	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	16	obl	_	_
 16	lögdust	_	VERB	VBDI	Mood=Ind|Tense=Past	11	conj	_	OriginalHead=0
-17	okkurt	_	DET	Q-N	Case=Nom	21	obl	_	_
+17	okkurt	_	DET	Q-N	Case=Nom	21	nmod	_	_
 18	um	_	ADV	ADV	Degree=Pos	19	advmod	_	_
 19	trý	_	NUM	NUM-N	Case=Nom	21	nummod	_	_
 20	túsund	_	NUM	NUM-N	Case=Nom	19	nummod	_	_
@@ -2086,7 +2086,7 @@
 16	og	_	CCONJ	CONJ	_	18	cc	_	_
 17	tey	_	PRON	PRO-N	Case=Nom	18	nsubj	_	_
 18	seldu	_	VERB	VBDI	Mood=Ind|Tense=Past	8	conj	_	OriginalHead=0
-19	ognir	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	22	obl	_	_
+19	ognir	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	22	nmod	_	_
 20	sínar	_	PRON	PRO-A	Case=Acc	19	nmod:poss	_	_
 21	og	_	CCONJ	CONJ	_	22	cc	_	_
 22	góðs	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	18	obj	_	_
@@ -2131,7 +2131,7 @@
 19	föði	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	18	obj	_	_
 20	sína	_	PRON	PRO-A	Case=Acc	19	nmod:poss	_	_
 21	við	_	ADP	P	_	22	case	_	_
-22	gleði	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	26	obl	_	_
+22	gleði	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	26	nmod	_	_
 23	og	_	CCONJ	CONJ	_	26	cc	_	_
 24	í	_	ADP	P	_	26	case	_	_
 25	hjartans	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	26	nmod:poss	_	_
@@ -2181,7 +2181,7 @@
 9	um	_	ADP	P	_	10	case	_	_
 10	bönastundina	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	5	obl	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	10	punct	_	_
-12	um	_	ADP	P	_	10	obl	_	_
+12	um	_	ADP	P	_	10	nmod	_	_
 13	nónbil	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	12	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
@@ -2211,7 +2211,7 @@
 21	tær	_	DET	D-A	Case=Acc	22	det	_	_
 22	dyrnar	_	NOUN	NS-A	Case=Acc|Definite=Def|Number=Plur	16	obl	_	_
 23	á	_	ADP	P	_	24	case	_	_
-24	halgidóminum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	22	obl	_	SpaceAfter=No
+24	halgidóminum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	22	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	24	punct	_	_
 26	sum	_	SCONJ	C	_	27	mark	_	_
 27	kallast	_	VERB	VBPI	Mood=Ind|Tense=Pres	22	acl:relcl	_	_
@@ -2342,7 +2342,7 @@
 3	Jesu	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	2	nmod:poss	_	_
 4	Krists	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	3	flat:name	_	_
 5	úr	_	ADP	P	_	6	case	_	_
-6	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	3	obl	_	SpaceAfter=No
+6	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	6	punct	_	_
 8	statt	_	VERB	VBI	Mood=Imp	0	root	_	_
 9	upp	_	ADP	RP	_	8	compound:prt	_	_
@@ -2361,7 +2361,7 @@
 5	högru	_	ADJ	ADJ-A	Case=Acc|Degree=Pos	6	amod	_	_
 6	hond	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	obl	_	_
 7	á	_	ADP	P	_	8	case	_	_
-8	honum	_	PRON	PRO-D	Case=Dat	6	obl	_	_
+8	honum	_	PRON	PRO-D	Case=Dat	6	nmod	_	_
 9	og	_	CCONJ	CONJ	_	10	cc	_	_
 10	reisti	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
 11	hann	_	PRON	PRO-A	Case=Acc	10	obj	_	_
@@ -2445,7 +2445,7 @@
 15	við	_	ADP	P	_	16	case	_	_
 16	Fögrudyr	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	14	obl	_	_
 17	á	_	ADP	P	_	18	case	_	_
-18	halgidóminum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	16	obl	_	_
+18	halgidóminum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	16	nmod	_	_
 19	fyri	_	ADP	P	_	21	case	_	_
 20	at	_	PART	TO	_	21	mark	_	_
 21	fáa	_	VERB	VB	VerbForm=Inf	14	obl	_	_
@@ -2657,7 +2657,7 @@
 2	við	_	ADP	P	_	3	case	_	_
 3	trúnni	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	10	obl	_	_
 4	á	_	ADP	P	_	5	case	_	_
-5	navn	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	obl	_	_
+5	navn	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	nmod	_	_
 6	hansara	_	PRON	PRO-G	Case=Gen	5	nmod:poss	_	_
 7	hevur	_	AUX	HVPI	Mood=Ind|Tense=Pres	10	aux	_	_
 8	navn	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	10	nsubj	_	_
@@ -2740,7 +2740,7 @@
 16	munninum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	14	obl	_	_
 17	á	_	ADP	P	_	19	case	_	_
 18	öllum	_	DET	Q-D	Case=Dat	19	amod	_	_
-19	profetunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	16	obl	_	SpaceAfter=No
+19	profetunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	19	punct	_	_
 21	at	_	SCONJ	C	_	25	mark	_	_
 22	Kristus	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	25	nsubj	_	_
@@ -2806,7 +2806,7 @@
 52	endurreisnartíðin	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	57	nsubj	_	_
 53	fyri	_	ADP	P	_	55	case	_	_
 54	öllum	_	DET	Q-D	Case=Dat	55	amod	_	_
-55	lutum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	52	obl	_	_
+55	lutum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	52	nmod	_	_
 56	er	_	AUX	BEPI	Mood=Ind|Tense=Pres	57	cop	_	_
 57	komin	_	VERB	VBN	Tense=Past|VerbForm=Part	44	obl	_	SpaceAfter=No
 58	,	,	PUNCT	,	_	57	punct	_	_
@@ -2820,7 +2820,7 @@
 66	á	_	ADP	P	_	69	case	_	_
 67	sínum	_	PRON	PRO-D	Case=Dat	69	nmod:poss	_	_
 68	heilagu	_	ADJ	ADJ-D	Case=Dat|Degree=Pos	69	amod	_	_
-69	profetum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	65	obl	_	_
+69	profetum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	65	nmod	_	_
 70	frá	_	ADP	P	_	71	case	_	_
 71	fyrndartíðum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	62	obl	_	SpaceAfter=No
 72	.	.	PUNCT	,	_	71	punct	_	_
@@ -2900,7 +2900,7 @@
 3	allir	_	DET	Q-N	Case=Nom	4	amod	_	_
 4	profetarnir	_	NOUN	NS-N	Case=Nom|Definite=Def|Number=Plur	24	obl	_	_
 5	frá	_	ADP	P	_	6	case	_	_
-6	Sámuel	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	4	obl	_	_
+6	Sámuel	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	4	nmod	_	_
 7	og	_	CCONJ	CONJ	_	8	cc	_	_
 8	teir	_	PRON	PRO-N	Case=Nom	4	conj	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	_
@@ -2957,7 +2957,7 @@
 29	allar	_	DET	Q-N	Case=Nom	30	amod	_	_
 30	ættir	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	33	nsubj	_	_
 31	á	_	ADP	P	_	32	case	_	_
-32	jörðini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	30	obl	_	_
+32	jörðini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	30	nmod	_	_
 33	fáa	_	VERB	VB	VerbForm=Inf	19	ccomp	_	_
 34	signing	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	33	obj	_	SpaceAfter=No
 35	.	.	PUNCT	.	_	34	punct	_	SpaceAfter=No
@@ -3087,7 +3087,7 @@
 15	og	_	CCONJ	CONJ	_	20	cc	_	_
 16	talið	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	20	nsubj	_	_
 17	á	_	ADP	P	_	18	case	_	_
-18	kallmonnum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	16	obl	_	_
+18	kallmonnum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	16	nmod	_	_
 19	var	_	AUX	BEDI	Mood=Ind|Tense=Past	20	cop	_	_
 20	okkurt	_	DET	Q-N	Case=Nom	11	conj	_	OriginalHead=0
 21	um	_	ADV	ADV	Degree=Pos	22	advmod	_	_
@@ -3212,7 +3212,7 @@
 37	hann	_	PRON	PRO-N	Case=Nom	40	nsubj	_	_
 38	er	_	AUX	BEPI	Mood=Ind|Tense=Pres	40	cop	_	_
 39	vorðin	_	VERB	RDN	Tense=Past|VerbForm=Part	40	dep	_	_
-40	heilskapaður	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	36	obl	_	_
+40	heilskapaður	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	36	nmod	_	_
 41	við	_	ADP	P	_	40	obl	_	SpaceAfter=No
 42	,	,	PUNCT	,	_	41	punct	_	_
 43	so	_	ADV	ADV	Degree=Pos	20	advmod	_	_
@@ -3233,7 +3233,7 @@
 58	Jesu	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	57	nmod:poss	_	_
 59	Krists	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	58	flat:name	_	_
 60	úr	_	ADP	P	_	61	case	_	_
-61	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	58	obl	_	SpaceAfter=No
+61	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	58	nmod	_	SpaceAfter=No
 62	,	,	PUNCT	,	_	61	punct	_	_
 63	sum	_	SCONJ	C	_	65	mark	_	_
 64	tit	_	PRON	PRO-N	Case=Nom	65	nsubj	_	_
@@ -3330,7 +3330,7 @@
 6	hetta	_	DET	D-A	Case=Acc	7	det	_	_
 7	dirvið	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	5	obj	_	_
 8	í	_	ADP	P	_	9	case	_	_
-9	Pæturi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	7	obl	_	_
+9	Pæturi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	7	nmod	_	_
 10	og	_	CCONJ	CONJ	_	9	cc	_	_
 11	Jóhannesi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	9	dep	_	_
 12	og	_	CCONJ	CONJ	_	13	cc	_	_
@@ -3414,7 +3414,7 @@
 13	samráddust	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
 14	sín	_	PRON	PRO-G	Case=Gen	13	obl	_	_
 15	á	_	ADP	P	_	14	case	_	SpaceAfter=No
-16	millum	_	ADP	P	_	14	obl	_	_
+16	millum	_	ADP	P	_	14	nmod	_	_
 17	og	_	CCONJ	CONJ	_	18	cc	_	_
 18	sögdu	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0|SpaceAfter=No
 19	:	:	PUNCT	,	_	18	punct	_	_
@@ -3559,7 +3559,7 @@
 33	kunnu	_	AUX	MDPI	Mood=Ind|Tense=Pres	32	aux	_	_
 34	ikki	_	ADV	NEG	_	32	advmod	_	_
 35	annað	_	PRON	OTHER-A	Case=Acc	32	obj	_	_
-36	enn	_	ADP	P	_	35	obl	_	SpaceAfter=No
+36	enn	_	ADP	P	_	35	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	.	_	36	punct	_	SpaceAfter=No
 38	"	_	PUNCT	"	_	37	punct	_	_
 
@@ -3684,7 +3684,7 @@
 24	sum	_	SCONJ	C	_	26	mark	_	_
 25	gjört	_	VERB	DON	_	26	xcomp	_	_
 26	hevur	_	AUX	HVPI	Mood=Ind|Tense=Pres	22	acl:relcl	_	_
-27	himmalin	_	PROPN	NPR-A	Case=Acc|Definite=Def|Number=Sing	29	obl	_	_
+27	himmalin	_	PROPN	NPR-A	Case=Acc|Definite=Def|Number=Sing	29	nmod	_	_
 28	og	_	CCONJ	CONJ	_	29	cc	_	_
 29	jörðina	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	26	obj	_	_
 30	og	_	CCONJ	CONJ	_	31	cc	_	_
@@ -3739,7 +3739,7 @@
 7	tóku	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
 8	seg	_	PRON	PRO-A	Case=Acc	7	obj	_	_
 9	saman	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-10	móti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	13	obl	_	_
+10	móti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	13	nmod	_	_
 11	Harranum	_	PROPN	NPR-D	Case=Dat|Definite=Def|Number=Sing	10	nmod:poss	_	_
 12	og	_	CCONJ	CONJ	_	13	cc	_	_
 13	móti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	7	obl	_	_
@@ -3896,7 +3896,7 @@
 2	allur	_	DET	Q-N	Case=Nom	3	amod	_	_
 3	flokkurin	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	13	nsubj	_	_
 4	av	_	ADP	P	_	5	case	_	_
-5	teimum	_	PRON	PRO-D	Case=Dat	3	obl	_	SpaceAfter=No
+5	teimum	_	PRON	PRO-D	Case=Dat	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
 7	sum	_	SCONJ	C	_	8	mark	_	_
 8	tikið	_	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	_	_
@@ -3906,7 +3906,7 @@
 12	,	,	PUNCT	,	_	11	punct	_	_
 13	hevði	_	VERB	HVDI	Mood=Ind|Tense=Past	0	root	_	_
 14	eitt	_	DET	ONE-A	Case=Acc	15	det	_	_
-15	hjarta	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	18	obl	_	_
+15	hjarta	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	18	nmod	_	_
 16	og	_	CCONJ	CONJ	_	18	cc	_	_
 17	eina	_	DET	ONE-A	Case=Acc	18	det	_	_
 18	sál	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	13	obj	_	SpaceAfter=No
@@ -3997,7 +3997,7 @@
 59	fyri	_	ADP	P	_	60	case	_	_
 60	föturnar	_	NOUN	NS-A	Case=Acc|Definite=Def|Number=Plur	57	obl	_	_
 61	á	_	ADP	P	_	62	case	_	_
-62	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	60	obl	_	SpaceAfter=No
+62	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	60	nmod	_	SpaceAfter=No
 63	;	;	PUNCT	.	_	62	punct	_	_
 64	og	_	CCONJ	CONJ	_	67	cc	_	_
 65	tað	_	PRON	PRO-N	Case=Nom	67	nsubj	_	_
@@ -4013,7 +4013,7 @@
 75	honum	_	PRON	PRO-D	Case=Dat	77	nsubj	_	_
 76	var	_	AUX	BEDI	Mood=Ind|Tense=Past	77	cop	_	_
 77	törvur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	74	obl	_	_
-78	á	_	ADP	P	_	77	obl	_	SpaceAfter=No
+78	á	_	ADP	P	_	77	nmod	_	SpaceAfter=No
 79	.	.	PUNCT	.	_	78	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.102-dev
@@ -4062,7 +4062,7 @@
 41	fyri	_	ADP	P	_	42	case	_	_
 42	föturnar	_	NOUN	NS-A	Case=Acc|Definite=Def|Number=Plur	39	obl	_	_
 43	á	_	ADP	P	_	44	case	_	_
-44	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	42	obl	_	SpaceAfter=No
+44	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	42	nmod	_	SpaceAfter=No
 45	.	.	PUNCT	.	_	44	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.103-dev
@@ -4074,7 +4074,7 @@
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	Ánanias	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	3	appos	_	_
 6	at	_	ADP	P	_	7	case	_	_
-7	navni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	3	obl	_	SpaceAfter=No
+7	navni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	15	punct	_	_
 9	saman	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 10	við	_	ADP	P	_	11	case	_	_
@@ -4112,7 +4112,7 @@
 42	fyri	_	ADP	P	_	43	case	_	_
 43	föturnar	_	NOUN	NS-A	Case=Acc|Definite=Def|Number=Plur	41	obl	_	_
 44	á	_	ADP	P	_	45	case	_	_
-45	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	43	obl	_	SpaceAfter=No
+45	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	43	nmod	_	SpaceAfter=No
 46	.	.	PUNCT	.	_	45	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.104-dev
@@ -4164,7 +4164,7 @@
 8	var	_	AUX	BEDI	Mood=Ind|Tense=Past	7	cop	_	_
 9	í	_	ADP	P	_	11	case	_	_
 10	tíni	_	PRON	PRO-D	Case=Dat	11	nmod:poss	_	_
-11	ogn	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	7	obl	_	SpaceAfter=No
+11	ogn	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	7	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	.	_	11	punct	_	_
 13	og	_	CCONJ	CONJ	_	14	cc	_	_
 14	hevði	_	VERB	HVDI	Mood=Ind|Tense=Past	1	conj	_	OriginalHead=0
@@ -4200,7 +4200,7 @@
 3	ikki	_	ADV	NEG	_	4	advmod	_	_
 4	logið	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	fyri	_	ADP	P	_	6	case	_	_
-6	menniskjum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	9	obl	_	_
+6	menniskjum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	9	nmod	_	_
 7	men	_	CCONJ	CONJ	_	9	cc	_	_
 8	fyri	_	ADP	P	_	9	case	_	_
 9	Guði	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	4	obl	_	SpaceAfter=No
@@ -4269,7 +4269,7 @@
 # X_ID = 1928.NTACTS.REL-BIB,.212
 # text = Og okkurt um tríggjar tímar seinni bar tað so til, at kona hansara, sum einki visti um tað, ið hent hevði, kom inn.
 1	Og	_	CCONJ	CONJ	_	7	cc	_	_
-2	okkurt	_	DET	Q-N	Case=Nom	5	obl	_	_
+2	okkurt	_	DET	Q-N	Case=Nom	5	nmod	_	_
 3	um	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 4	tríggjar	_	NUM	NUM-A	Case=Acc	5	nummod	_	_
 5	tímar	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	6	obl	_	_
@@ -4396,7 +4396,7 @@
 7	fyri	_	ADP	P	_	8	case	_	_
 8	föturnar	_	NOUN	NS-A	Case=Acc|Definite=Def|Number=Plur	3	obl	_	_
 9	á	_	ADP	P	_	10	case	_	_
-10	honum	_	PRON	PRO-D	Case=Dat	8	obl	_	_
+10	honum	_	PRON	PRO-D	Case=Dat	8	nmod	_	_
 11	og	_	CCONJ	CONJ	_	12	cc	_	_
 12	gav	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
 13	upp	_	ADP	RP	_	12	compound:prt	_	_
@@ -4438,7 +4438,7 @@
 4	kom	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
 5	á	_	ADP	P	_	7	case	_	_
 6	alt	_	DET	Q-A	Case=Acc	7	amod	_	_
-7	kirkjuliðið	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	11	obl	_	_
+7	kirkjuliðið	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	11	nmod	_	_
 8	og	_	CCONJ	CONJ	_	11	cc	_	_
 9	á	_	ADP	P	_	11	case	_	_
 10	öll	_	DET	Q-A	Case=Acc	11	amod	_	_
@@ -4456,7 +4456,7 @@
 2	fyri	_	ADP	P	_	3	case	_	_
 3	hondunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	6	obl	_	_
 4	á	_	ADP	P	_	5	case	_	_
-5	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	3	obl	_	_
+5	ápostlunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	3	nmod	_	_
 6	hendu	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
 7	mong	_	DET	Q-N	Case=Nom	8	amod	_	_
 8	tekin	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	6	nsubj	_	_
@@ -4551,7 +4551,7 @@
 49	enn	_	ADP	P	_	50	case	_	_
 50	skuggin	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	48	obl	_	_
 51	av	_	ADP	P	_	52	case	_	_
-52	Pæturi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	50	obl	_	SpaceAfter=No
+52	Pæturi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	50	nmod	_	SpaceAfter=No
 53	,	,	PUNCT	,	_	52	punct	_	_
 54	tá	_	ADV	ADV	Degree=Pos	50	advmod	_	_
 55	ið	_	SCONJ	C	_	57	mark	_	_
@@ -4579,7 +4579,7 @@
 8	bygdunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	14	obl	_	_
 9	uttan	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 10	um	_	ADP	P	_	11	case	_	_
-11	Jerúsalem	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	8	obl	_	SpaceAfter=No
+11	Jerúsalem	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	8	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	14	punct	_	_
 13	so	_	ADV	ADV	Degree=Pos	14	advmod	_	_
 14	kom	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
@@ -4594,7 +4594,7 @@
 23	við	_	ADP	P	_	24	case	_	_
 24	sær	_	PRON	PRO-D	Case=Dat	22	obl	_	_
 25	sjúk	_	ADJ	ADJ-A	Case=Acc|Degree=Pos	26	amod	_	_
-26	fólk	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	28	obl	_	_
+26	fólk	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	28	nmod	_	_
 27	og	_	CCONJ	CONJ	_	28	cc	_	_
 28	slík	_	PRON	SUCH-A	Case=Acc	22	obj	_	SpaceAfter=No
 29	,	,	PUNCT	,	_	28	punct	_	_
@@ -4667,7 +4667,7 @@
 6	náttina	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	4	obl	_	_
 7	dyrnar	_	NOUN	NS-A	Case=Acc|Definite=Def|Number=Plur	4	obj	_	_
 8	á	_	ADP	P	_	9	case	_	_
-9	fangahúsinum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	7	obl	_	_
+9	fangahúsinum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	7	nmod	_	_
 10	og	_	CCONJ	CONJ	_	11	cc	_	_
 11	leiddi	_	VERB	VBDI	Mood=Ind|Tense=Past	4	conj	_	OriginalHead=0
 12	teir	_	PRON	PRO-A	Case=Acc	11	obj	_	_
@@ -4986,7 +4986,7 @@
 37	blóðið	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	34	obj	_	_
 38	av	_	ADP	P	_	40	case	_	_
 39	hesum	_	DET	D-D	Case=Dat	40	det	_	_
-40	manni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	37	obl	_	SpaceAfter=No
+40	manni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	37	nmod	_	SpaceAfter=No
 41	.	.	PUNCT	.	_	40	punct	_	SpaceAfter=No
 42	"	_	PUNCT	"	_	41	punct	_	_
 
@@ -5122,7 +5122,7 @@
 8	,	,	PUNCT	,	_	7	punct	_	_
 9	Gamaliel	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	7	appos	_	_
 10	at	_	ADP	P	_	11	case	_	_
-11	navni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	7	obl	_	SpaceAfter=No
+11	navni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	7	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	_	_
 13	ein	_	DET	ONE-N	Case=Nom	14	det	_	_
 14	lóglærari	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	7	appos	_	SpaceAfter=No
@@ -5207,11 +5207,11 @@
 48	ein	_	DET	ONE-N	Case=Nom	49	det	_	_
 49	flokkur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	56	nsubj	_	_
 50	av	_	ADP	P	_	55	case	_	_
-51	okkurt	_	DET	Q-N	Case=Nom	55	obl	_	_
+51	okkurt	_	DET	Q-N	Case=Nom	55	nmod	_	_
 52	um	_	ADV	ADV	Degree=Pos	53	advmod	_	_
 53	fýra	_	NUM	NUM-D	Case=Dat	55	nummod	_	_
 54	hundrað	_	NUM	NUM-D	Case=Dat	53	nummod	_	_
-55	mans	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	49	obl	_	_
+55	mans	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	49	nmod	_	_
 56	fóru	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
 57	í	_	ADP	P	_	58	case	_	_
 58	hóslag	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	56	obl	_	_
@@ -5250,7 +5250,7 @@
 5	upp	_	ADP	RP	_	4	compound:prt	_	_
 6	Judas	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
 7	frá	_	ADP	P	_	8	case	_	_
-8	Galileu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	6	obl	_	SpaceAfter=No
+8	Galileu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	í	_	ADP	P	_	12	case	_	_
 11	teirri	_	ADJ	ADJ-D	Case=Dat|Degree=Pos	12	amod	_	_
@@ -5336,7 +5336,7 @@
 36	tað	_	PRON	PRO-N	Case=Nom	45	obl	_	_
 37	er	_	AUX	BEPI	Mood=Ind|Tense=Pres	36	cop	_	_
 38	av	_	ADP	P	_	39	case	_	_
-39	Guði	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	36	obl	_	SpaceAfter=No
+39	Guði	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	36	nmod	_	SpaceAfter=No
 40	,	,	PUNCT	,	_	45	punct	_	_
 41	tá	_	ADV	ADV	Degree=Pos	45	advmod	_	_
 42	eru	_	AUX	BEPI	Mood=Ind|Tense=Pres	45	cop	_	_
@@ -5445,7 +5445,7 @@
 38	boða	_	VERB	VB	VerbForm=Inf	29	acl	_	_
 39	gleðiboðskapin	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	38	obj	_	_
 40	um	_	ADP	P	_	41	case	_	_
-41	Krist	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	39	obl	_	_
+41	Krist	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	39	nmod	_	_
 42	Jesus	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	41	flat:name	_	SpaceAfter=No
 43	.	.	PUNCT	.	_	42	punct	_	_
 
@@ -5461,7 +5461,7 @@
 7	ið	_	SCONJ	C	_	11	mark	_	_
 8	talið	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	11	nsubj	_	_
 9	á	_	ADP	P	_	10	case	_	_
-10	lærusveinunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	8	obl	_	_
+10	lærusveinunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	8	nmod	_	_
 11	vaks	_	VERB	VBDI	Mood=Ind|Tense=Past	6	advcl	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	_	_
 13	kom	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
@@ -5469,7 +5469,7 @@
 15	eitt	_	DET	ONE-N	Case=Nom	16	det	_	_
 16	illmæli	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	13	nsubj	_	_
 17	millum	_	ADP	P	_	18	case	_	_
-18	Hellenistar	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	19	obl	_	_
+18	Hellenistar	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	19	nmod	_	_
 19	mót	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	13	obl	_	_
 20	Hebrearum	_	PROPN	NPRS-D	Case=Dat|Definite=Ind|Number=Plur	19	nmod:poss	_	_
 21	um	_	ADP	P	_	22	case	_	_
@@ -5570,7 +5570,7 @@
 5	trúliga	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	á	_	ADP	RP	_	4	compound:prt	_	_
 7	í	_	ADP	P	_	8	case	_	_
-8	bönini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	11	obl	_	_
+8	bönini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	11	nmod	_	_
 9	og	_	CCONJ	CONJ	_	11	cc	_	_
 10	í	_	ADP	P	_	11	case	_	_
 11	tænastu	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	4	obl	_	_
@@ -5592,7 +5592,7 @@
 9	og	_	CCONJ	CONJ	_	11	cc	_	_
 10	tey	_	PRON	PRO-N	Case=Nom	11	nsubj	_	_
 11	valdu	_	VERB	VBDI	Mood=Ind|Tense=Past	4	conj	_	OriginalHead=0
-12	Stefan	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	24	obl	_	SpaceAfter=No
+12	Stefan	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	24	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	_	_
 14	ein	_	DET	ONE-A	Case=Acc	15	det	_	_
 15	mann	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	12	appos	_	_
@@ -5659,9 +5659,9 @@
 6	og	_	CCONJ	CONJ	_	12	cc	_	_
 7	talið	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	12	nsubj	_	_
 8	á	_	ADP	P	_	9	case	_	_
-9	lærusveinunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	7	obl	_	_
+9	lærusveinunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	7	nmod	_	_
 10	í	_	ADP	P	_	11	case	_	_
-11	Jerúsalem	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	9	obl	_	_
+11	Jerúsalem	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	9	nmod	_	_
 12	öktist	_	VERB	VBDI	Mood=Ind|Tense=Past	4	conj	_	OriginalHead=0
 13	í	_	ADP	P	_	14	case	_	_
 14	stórum	_	ADJ	ADJ-D	Case=Dat|Degree=Pos	12	obl	_	SpaceAfter=No
@@ -5671,7 +5671,7 @@
 18	stórur	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	19	amod	_	_
 19	hópur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	22	nsubj	_	_
 20	av	_	ADP	P	_	21	case	_	_
-21	prestunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	19	obl	_	_
+21	prestunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	19	nmod	_	_
 22	gjördist	_	VERB	DODI	_	4	conj	_	OriginalHead=0
 23	lýðin	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	22	amod	_	_
 24	móti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	23	amod	_	_
@@ -5710,7 +5710,7 @@
 6	menn	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	3	nsubj	_	_
 7	frá	_	ADP	P	_	9	case	_	_
 8	tí	_	DET	D-D	Case=Dat	9	det	_	_
-9	samkomuhúsinum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	6	obl	_	SpaceAfter=No
+9	samkomuhúsinum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	9	punct	_	_
 11	sum	_	SCONJ	C	_	13	mark	_	_
 12	er	_	AUX	BEPI	Mood=Ind|Tense=Pres	13	cop	_	_
@@ -5727,7 +5727,7 @@
 23	av	_	ADP	P	_	24	case	_	_
 24	teimum	_	PRON	PRO-D	Case=Dat	22	obl	_	_
 25	frá	_	ADP	P	_	26	case	_	_
-26	Kilikíu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	24	obl	_	_
+26	Kilikíu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	24	nmod	_	_
 27	og	_	CCONJ	CONJ	_	26	cc	_	_
 28	Ásiu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	26	dep	_	_
 29	og	_	CCONJ	CONJ	_	30	cc	_	_
@@ -5778,7 +5778,7 @@
 15	hann	_	PRON	PRO-A	Case=Acc	16	nsubj	_	_
 16	tala	_	VERB	VB	VerbForm=Inf	14	acl	_	_
 17	spottorð	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	16	obj	_	_
-18	móti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	21	obl	_	_
+18	móti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	21	nmod	_	_
 19	Mósesi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	18	nmod:poss	_	_
 20	og	_	CCONJ	CONJ	_	21	cc	_	_
 21	móti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	16	obl	_	_
@@ -5838,7 +5838,7 @@
 16	at	_	ADP	P	_	15	case	_	_
 17	at	_	PART	TO	_	18	mark	_	_
 18	tala	_	VERB	VB	VerbForm=Inf	15	acl	_	_
-19	móti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	24	obl	_	_
+19	móti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	24	nmod	_	_
 20	hesum	_	DET	D-D	Case=Dat	22	det	_	_
 21	heilaga	_	ADJ	ADJ-D	Case=Dat|Degree=Pos	22	amod	_	_
 22	staði	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	19	nmod:poss	_	_
@@ -5858,7 +5858,7 @@
 36	hesin	_	DET	D-N	Case=Nom	37	det	_	_
 37	Jesus	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	41	nsubj	_	_
 38	úr	_	ADP	P	_	39	case	_	_
-39	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	37	obl	_	_
+39	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	37	nmod	_	_
 40	skal	_	AUX	MDPI	Mood=Ind|Tense=Pres	41	aux	_	_
 41	bróta	_	VERB	VB	VerbForm=Inf	33	ccomp	_	_
 42	niður	_	ADP	RP	_	41	compound:prt	_	_
@@ -5953,7 +5953,7 @@
 10	hann	_	PRON	PRO-N	Case=Nom	3	obl	_	_
 11	var	_	AUX	BEDI	Mood=Ind|Tense=Past	10	cop	_	_
 12	í	_	ADP	P	_	13	case	_	_
-13	Mesopotámiu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	10	obl	_	SpaceAfter=No
+13	Mesopotámiu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	10	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	_	_
 15	áðr	_	ADV	ADVR	Degree=Cmp	10	advmod	_	SpaceAfter=No
 16	enn	_	ADP	P	_	18	case	_	_
@@ -5972,7 +5972,7 @@
 29	tú	_	PRON	PRO-N	Case=Nom	28	nsubj	_	_
 30	burtur	_	ADV	ADV	Degree=Pos	28	advmod	_	_
 31	úr	_	ADP	P	_	32	case	_	_
-32	landi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	36	obl	_	_
+32	landi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	36	nmod	_	_
 33	tínum	_	PRON	PRO-D	Case=Dat	32	nmod:poss	_	_
 34	og	_	CCONJ	CONJ	_	36	cc	_	_
 35	frá	_	ADP	P	_	36	case	_	_
@@ -6492,7 +6492,7 @@
 5	í	_	ADP	P	_	6	case	_	_
 6	húsinum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	4	obl	_	_
 7	hjá	_	ADP	P	_	8	case	_	_
-8	faðir	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	6	obl	_	_
+8	faðir	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	6	nmod	_	_
 9	sínum	_	PRON	PRO-D	Case=Dat	8	nmod:poss	_	_
 10	í	_	ADP	P	_	12	case	_	_
 11	tríggjar	_	NUM	NUM-A	Case=Acc	12	nummod	_	_
@@ -6590,7 +6590,7 @@
 12	hann	_	PRON	PRO-N	Case=Nom	11	nsubj	_	_
 13	honum	_	PRON	PRO-D	Case=Dat	11	obl	_	_
 14	til	_	ADP	P	_	13	case	_	_
-15	hjálpar	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	13	obl	_	_
+15	hjálpar	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	13	nmod	_	_
 16	og	_	CCONJ	CONJ	_	17	cc	_	_
 17	hevndi	_	VERB	VBDI	Mood=Ind|Tense=Past	11	conj	_	OriginalHead=0
 18	tann	_	DET	D-A	Case=Acc	17	obj	_	SpaceAfter=No
@@ -6769,7 +6769,7 @@
 14	í	_	ADP	P	_	15	case	_	_
 15	oyðimörkini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	9	obl	_	_
 16	við	_	ADP	P	_	17	case	_	_
-17	Sinaifjallið	_	PROPN	NPR-A	Case=Acc|Definite=Def|Number=Sing	15	obl	_	_
+17	Sinaifjallið	_	PROPN	NPR-A	Case=Acc|Definite=Def|Number=Sing	15	nmod	_	_
 18	í	_	ADP	P	_	19	case	_	_
 19	eldsloga	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	9	obl	_	_
 20	í	_	ADP	P	_	22	case	_	_
@@ -6989,7 +6989,7 @@
 11	og	_	CCONJ	CONJ	_	10	cc	_	_
 12	tekin	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	10	conj	_	_
 13	í	_	ADP	P	_	14	case	_	_
-14	Egyptalandi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	17	obl	_	_
+14	Egyptalandi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	17	nmod	_	_
 15	og	_	CCONJ	CONJ	_	17	cc	_	_
 16	í	_	ADP	P	_	17	case	_	_
 17	Reyðahavinum	_	PROPN	NPR-D	Case=Dat|Definite=Def|Number=Sing	9	obl	_	_
@@ -7047,7 +7047,7 @@
 9	oyðimörkini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	6	obl	_	_
 10	var	_	AUX	BEDI	Mood=Ind|Tense=Past	6	cop	_	_
 11	við	_	ADP	P	_	12	case	_	_
-12	einglinum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	23	obl	_	SpaceAfter=No
+12	einglinum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	23	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	_	_
 14	sum	_	SCONJ	C	_	15	mark	_	_
 15	talaði	_	VERB	VBDI	Mood=Ind|Tense=Past	12	acl:relcl	_	_
@@ -7197,7 +7197,7 @@
 6	Ísraels	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	7	nmod:poss	_	_
 7	hús	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	2	vocative	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	_	_
-9	sláturoffur	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	12	obl	_	_
+9	sláturoffur	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	12	nmod	_	_
 10	og	_	CCONJ	CONJ	_	12	cc	_	_
 11	onnur	_	PRON	OTHERS-A	Case=Acc	12	det	_	_
 12	offur	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	2	obj	_	_
@@ -7216,7 +7216,7 @@
 3	bóru	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
 4	við	_	ADP	P	_	5	case	_	_
 5	tykkum	_	PRON	PRO-D	Case=Dat	3	obl	_	_
-6	tjald	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	9	obl	_	_
+6	tjald	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	9	nmod	_	_
 7	Moloks	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	6	nmod:poss	_	_
 8	og	_	CCONJ	CONJ	_	9	cc	_	_
 9	stjörnu	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	obj	_	_
@@ -7513,7 +7513,7 @@
 30	við	_	ADP	P	_	31	case	_	_
 31	umboði	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	28	obl	_	_
 32	av	_	ADP	P	_	33	case	_	_
-33	einglum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	31	obl	_	SpaceAfter=No
+33	einglum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	31	nmod	_	SpaceAfter=No
 34	,	,	PUNCT	,	_	33	punct	_	_
 35	og	_	CCONJ	CONJ	_	39	cc	_	_
 36	tó	_	ADV	ADV	Degree=Pos	39	advmod	_	_
@@ -7538,7 +7538,7 @@
 9	tað	_	PRON	PRO-N	Case=Nom	8	nsubj	_	_
 10	teimum	_	PRON	PRO-D	Case=Dat	8	obl	_	_
 11	at	_	ADP	P	_	10	case	_	_
-12	hjarta	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	10	obl	_	SpaceAfter=No
+12	hjarta	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	.	_	12	punct	_	_
 14	og	_	CCONJ	CONJ	_	16	cc	_	_
 15	teir	_	PRON	PRO-N	Case=Nom	16	nsubj	_	_
@@ -7616,7 +7616,7 @@
 10	fyri	_	ADP	P	_	11	case	_	_
 11	oyruni	_	NOUN	NS-A	Case=Acc|Definite=Def|Number=Plur	9	obl	_	_
 12	á	_	ADP	P	_	13	case	_	_
-13	sær	_	PRON	PRO-D	Case=Dat	11	obl	_	_
+13	sær	_	PRON	PRO-D	Case=Dat	11	nmod	_	_
 14	og	_	CCONJ	CONJ	_	15	cc	_	_
 15	lupu	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
 16	á	_	ADP	P	_	17	case	_	_
@@ -7651,7 +7651,7 @@
 9	á	_	ADP	P	_	12	case	_	_
 10	einum	_	DET	ONE-D	Case=Dat	12	det	_	_
 11	ungum	_	ADJ	ADJ-D	Case=Dat|Degree=Pos	12	amod	_	_
-12	manni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	8	obl	_	SpaceAfter=No
+12	manni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	8	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	_	_
 14	sum	_	SCONJ	C	_	15	mark	_	_
 15	æt	_	VERB	VBDI	Mood=Ind|Tense=Past	12	acl:relcl	_	_
@@ -7753,7 +7753,7 @@
 9	móti	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	4	obl	_	_
 10	kirkjuliðinum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	9	nmod:poss	_	_
 11	í	_	ADP	P	_	12	case	_	_
-12	Jerúsalem	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	10	obl	_	SpaceAfter=No
+12	Jerúsalem	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	10	nmod	_	SpaceAfter=No
 13	;	;	PUNCT	.	_	12	punct	_	_
 14	og	_	CCONJ	CONJ	_	17	cc	_	_
 15	öll	_	DET	Q-N	Case=Nom	17	nsubj	_	_
@@ -7763,7 +7763,7 @@
 19	um	_	ADP	P	_	20	case	_	_
 20	bygdir	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	17	obl	_	_
 21	í	_	ADP	P	_	22	case	_	_
-22	Júdeu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	20	obl	_	_
+22	Júdeu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	20	nmod	_	_
 23	og	_	CCONJ	CONJ	_	22	cc	_	_
 24	Sámáriu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	22	dep	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	24	punct	_	_
@@ -7806,7 +7806,7 @@
 9	fór	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
 10	hús	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	9	obl	_	_
 11	úr	_	ADP	P	_	12	case	_	_
-12	húsi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	10	obl	_	_
+12	húsi	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	10	nmod	_	_
 13	og	_	CCONJ	CONJ	_	14	cc	_	_
 14	dró	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
 15	haðan	_	ADV	ADV	Degree=Pos	14	advmod	_	_
@@ -7854,7 +7854,7 @@
 6	í	_	ADP	P	_	7	case	_	_
 7	bygdina	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	3	obl	_	_
 8	í	_	ADP	P	_	9	case	_	_
-9	Sámáriu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	7	obl	_	_
+9	Sámáriu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	7	nmod	_	_
 10	og	_	CCONJ	CONJ	_	11	cc	_	_
 11	prædikaði	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
 12	Krist	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	11	obj	_	_
@@ -7941,7 +7941,7 @@
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	Símun	_	PROPN	NPR-N	Case=Nom|Definite=Ind|Number=Sing	3	appos	_	_
 6	at	_	ADP	P	_	7	case	_	_
-7	navni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	3	obl	_	SpaceAfter=No
+7	navni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	14	punct	_	_
 9	var	_	AUX	BEDI	Mood=Ind|Tense=Past	14	cop	_	_
 10-11	frammanundan	_	_	_	_	_	_	_	_
@@ -7959,7 +7959,7 @@
 21	gjördi	_	VERB	DODI	_	14	conj	_	OriginalHead=0
 22	fólkið	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	25	nsubj	_	_
 23	í	_	ADP	P	_	24	case	_	_
-24	Sámáriu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	22	obl	_	_
+24	Sámáriu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	22	nmod	_	_
 25	bilsið	_	ADJ	ADJ-A	Case=Acc|Degree=Pos	21	ccomp	_	SpaceAfter=No
 26	,	,	PUNCT	,	_	25	punct	_	_
 27	við	_	ADP	P	_	28	case	_	_
@@ -8051,7 +8051,7 @@
 12	gleðiboðskapin	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	10	obj	_	_
 13	um	_	ADP	P	_	15	case	_	_
 14	Guðs	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	15	nmod:poss	_	_
-15	ríki	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	12	obl	_	_
+15	ríki	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	12	nmod	_	_
 16	og	_	CCONJ	CONJ	_	19	cc	_	_
 17	Jesu	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	19	nmod:poss	_	_
 18	Krists	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	17	flat:name	_	_
@@ -8098,7 +8098,7 @@
 26	hann	_	PRON	PRO-N	Case=Nom	27	nsubj	_	_
 27	sá	_	VERB	VBDI	Mood=Ind|Tense=Past	24	advcl	_	_
 28	tey	_	DET	D-A	Case=Acc	29	det	_	_
-29	tekin	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	33	obl	_	_
+29	tekin	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	33	nmod	_	_
 30	og	_	CCONJ	CONJ	_	33	cc	_	_
 31	tær	_	DET	D-A	Case=Acc	33	det	_	_
 32	stóru	_	ADJ	ADJ-A	Case=Acc|Degree=Pos	33	amod	_	_
@@ -8423,7 +8423,7 @@
 23	nógvum	_	DET	Q-D	Case=Dat	24	amod	_	_
 24	bygdum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	20	obl	_	_
 25	hjá	_	ADP	P	_	26	case	_	_
-26	Sámáriubúgvum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	24	obl	_	SpaceAfter=No
+26	Sámáriubúgvum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.248-dev
@@ -8457,7 +8457,7 @@
 26	frá	_	ADP	P	_	27	case	_	_
 27	Jerúsalem	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	24	obl	_	_
 28	til	_	ADP	P	_	29	case	_	_
-29	Gasa	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	27	obl	_	SpaceAfter=No
+29	Gasa	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	27	nmod	_	SpaceAfter=No
 30	!	!	PUNCT	.	_	29	punct	_	SpaceAfter=No
 31	"	_	PUNCT	"	_	30	punct	_	_
 
@@ -8637,7 +8637,7 @@
 2	tað	_	DET	D-N	Case=Nom	3	det	_	_
 3	stykkið	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	15	nsubj	_	_
 4	av	_	ADP	P	_	5	case	_	_
-5	skriftini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	3	obl	_	SpaceAfter=No
+5	skriftini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
 7	sum	_	SCONJ	C	_	12	mark	_	_
 8	hann	_	PRON	PRO-N	Case=Nom	12	nsubj	_	_
@@ -8780,7 +8780,7 @@
 22	honum	_	PRON	PRO-D	Case=Dat	21	iobj	_	_
 23	gleðiboðskapin	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	21	obj	_	_
 24	um	_	ADP	P	_	25	case	_	_
-25	Jesus	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	23	obl	_	SpaceAfter=No
+25	Jesus	_	PROPN	NPR-A	Case=Acc|Definite=Ind|Number=Sing	23	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	_
 
 # sent_id = 1928.NTACTS.REL-BIB,.263-dev
@@ -9284,12 +9284,12 @@
 22	í	_	ADP	P	_	23	case	_	_
 23	húsinum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	21	obl	_	_
 24	hjá	_	ADP	P	_	25	case	_	_
-25	Judasi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	23	obl	_	_
+25	Judasi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	23	nmod	_	_
 26	eftir	_	ADP	P	_	28	case	_	_
 27	einum	_	DET	ONE-D	Case=Dat	28	det	_	_
 28	manni	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	21	obl	_	_
 29	frá	_	ADP	P	_	30	case	_	_
-30	Tarsus	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	28	obl	_	SpaceAfter=No
+30	Tarsus	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	28	nmod	_	SpaceAfter=No
 31	,	,	PUNCT	,	_	30	punct	_	_
 32	sum	_	SCONJ	C	_	33	mark	_	_
 33	eitur	_	VERB	VBPI	Mood=Ind|Tense=Pres	28	acl:relcl	_	_
